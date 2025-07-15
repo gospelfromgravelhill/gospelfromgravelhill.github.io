@@ -1,22 +1,30 @@
 ---
-layout: default
-title: Contact Long Haul
+layout: page
+title: Contact
+permalink: /contact/
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
-  <div class="contactContent">
-    <p class="intro">This is an example Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
-    <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>If you have questions about the theme feel free to <a href="mailto:olearygospelhall@gmail.com">email me</a></p>
-  </div>
-  <form action="http://formspree.io/your@mail.com" method="POST">
-    <label for="name">Name</label>
-    <input type="text" id="name" name="name" class="full-width"><br>
-    <label for="email">Email Address</label>
-    <input type="email" id="email" name="_replyto" class="full-width"><br>
-    <label for="message">Message</label>
-    <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
-    <input type="submit" value="Send" class="button">
+  <h1 class="pageTitle">Contact Us</h1>
+
+  <p>If you'd like to get in touch, feel free to email us directly:<br>
+  📧 <a href="mailto:olearygospelhall@gmail.com">olearygospelhall@gmail.com</a></p>
+
+  <p>Or use the form below. We’ll get back to you as soon as we can.</p>
+
+  <form action="https://formspree.io/f/myzpygye" method="POST">
+    <label for="name">Name</label><br>
+    <input type="text" id="name" name="name" required class="full-width"><br><br>
+
+    <label for="email">Email Address</label><br>
+    <input type="email" id="email" name="_replyto" required class="full-width"><br><br>
+
+    <label for="message">Message</label><br>
+    <textarea name="message" id="message" rows="6" required class="full-width"></textarea><br><br>
+
+    <!-- Redirect to thank-you page -->
+    <input type="hidden" name="_next" value="https://thegloriousgospel.github.io/thank-you/">
+
+    <input type="submit" value="Send Message" class="button">
   </form>
 </div>
