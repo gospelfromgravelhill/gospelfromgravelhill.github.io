@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+  <header>
+    <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+    <p>{{ site.subtitle }}</p>
+    <nav>
+      <ul>
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
+        <li><a href="{{ site.baseurl }}/about/">About</a></li>
+        <li><a href="{{ site.baseurl }}/audio/">Audio</a></li>
+        <li><a href="{{ site.baseurl }}/articles/">Articles</a></li>
+        <li><a href="{{ site.baseurl }}/tracts/">Tracts</a></li>
+        <li><a href="{{ site.baseurl }}/charts/">Charts</a></li>
+        <li><a href="{{ site.baseurl }}/books/">Books</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.author }}</p>
+  </footer>
+</body>
+</html>
