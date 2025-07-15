@@ -1,6 +1,8 @@
 ---
+layout: category
 title: Tracts
-layout: default
+category: tracts
+permalink: /tracts/
 ---
 
 Gospel tracts and printable resources will appear here.

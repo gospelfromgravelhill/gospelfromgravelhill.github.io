@@ -1,6 +1,8 @@
 ---
+layout: category
 title: Articles
-layout: default
+category: articles
+permalink: /articles/
 ---
 
 Articles will be listed here.

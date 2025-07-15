@@ -1,6 +1,8 @@
 ---
+layout: category
 title: Charts
-layout: default
+category: charts
+permalink: /charts/
 ---
 
 Charts related to Scripture or doctrine will be found here.

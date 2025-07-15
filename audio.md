@@ -1,6 +1,8 @@
 ---
+layout: category
 title: Audio
-layout: default
+category: audio
+permalink: /audio/
 ---
 
 Posts related to recordings will appear here.

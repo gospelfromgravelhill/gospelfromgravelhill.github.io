@@ -1,6 +1,9 @@
 ---
+layout: category
 title: Books
-layout: default
+category: books
+permalink: /books/
 ---
+
 
 Christian booklets and longer writings will appear here.

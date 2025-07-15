@@ -1,6 +1,7 @@
 ---
+layout: page
 title: About
-layout: default
+permalink: /about/
 ---
 
 This page will contain information about the site and its mission.
