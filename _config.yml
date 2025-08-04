@@ -18,12 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Glorious Gospel
+# title: The Glorious Gospel
+title: The Gospel from Gravel Hill
 subtitle: "…the glorious gospel of the blessed God…  —1 Timothy 1:11"
 description: "A Continuation of Scott MacLeod's former site https://www.thegloriousgospel.ca/"
 author: Marc MacArthur
 
-url: "https://thegloriousgospel.github.io"
+url: "https://gospel.fromgravelhill.ca/"
 baseurl: ""
 
 permalink: pretty
@@ -48,10 +49,10 @@ navigation:
     url: "/audio/"
   - title: "Articles"
     url: "/articles/"
-  - title: "Tracts"
-    url: "/tracts/"
-  - title: "Charts"
-    url: "/charts/"
+#  - title: "Tracts"
+#    url: "/tracts/"
+#  - title: "Charts"
+#    url: "/charts/"
   - title: "Books"
     url: "/books/"
   - title: "Contact"
