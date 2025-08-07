@@ -4,11 +4,11 @@ http://typecast.com/blog/a-more-modern-scale-for-web-typography
 ***************/
 
 body {
-  font-size: 0.9375em; // ~15px base
+  font-size: 0.875em; // ~14px base (was 15px)
 }
 
 body .intro {
-  font-size: 1em;
+  font-size: 0.9375em; // slightly smaller intro
   line-height: 1.7;
 }
 
@@ -19,64 +19,64 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 
 // Headings
 h1, .h1 {
-  font-size: 1.875em;
+  font-size: 1.75em;
   line-height: 1.25;
 }
 
 @media (min-width: 43.75em) {
   h1, .h1 {
-    font-size: 2.25em;
+    font-size: 2.125em;
     line-height: 1.125;
   }
 }
 
 @media (min-width: 56.25em) {
   h1, .h1 {
-    font-size: 2.75em;
+    font-size: 2.5em;
     line-height: 1.05;
   }
 }
 
 h2, .h2 {
-  font-size: 1.5em;
+  font-size: 1.375em;
   line-height: 1.15384615;
 }
 
 @media (min-width: 43.75em) {
+  h2, .h2 {
+    font-size: 1.75em;
+    line-height: 1.25;
+  }
+}
+
+@media (min-width: 56.25em) {
   h2, .h2 {
     font-size: 1.875em;
     line-height: 1.25;
   }
 }
 
-@media (min-width: 56.25em) {
-  h2, .h2 {
-    font-size: 2em;
-    line-height: 1.25;
-  }
-}
-
 h3, .h3 {
-  font-size: 1.25em;
+  font-size: 1.125em;
   line-height: 1.13636364;
 }
 
 @media (min-width: 43.75em) {
   h3, .h3 {
-    font-size: 1.375em;
+    font-size: 1.25em;
     line-height: 1.25;
   }
 }
 
 @media (min-width: 56.25em) {
   h3, .h3 {
-    font-size: 1.625em;
+    font-size: 1.5em;
     line-height: 1.25;
   }
 }
 
 h4, .h4 {
-  font-size: 1em;
+  font-size: 0.9375em;
   line-height: 1.11111111;
 }
 
@@ -87,14 +87,14 @@ h4, .h4 {
 }
 
 blockquote {
-  font-size: 1.125em;
+  font-size: 1em;
   line-height: 1.25;
   padding: 0;
 }
 
 @media (min-width: 43.75em) {
   blockquote {
-    font-size: 1.375em;
+    font-size: 1.25em;
     line-height: 1.45833333;
   }
 }
