@@ -3,8 +3,8 @@ layout: post
 title: "G. Albert Ramsay - Sowing and Reaping in the Garden of the Gulf"
 category: books
 ---
-
-This Book is available to read online and download as a `.pdf` or `.cbz` archive.
+<div style="text-align: center;">
+This Book is available to read and download as a `.pdf` or `.cbz`
 
 <h2>📥 Download</h2>
 
@@ -18,11 +18,6 @@ This Book is available to read online and download as a `.pdf` or `.cbz` archive
   <a href="/assets/books/garden-of-the-gulf/page001.jpg" data-lightbox="book" data-title="Page 1">
     <img src="/assets/books/garden-of-the-gulf/page001.jpg" alt="Cover - Page 1" loading="lazy" />
   </a>
-
-  <p>
-    <a class="button" href="/assets/books/garden-of-the-gulf/page001.jpg" data-lightbox="book" data-title="Page 1">📖 Read Full Book</a>
-  </p>
-
   <!-- Hidden Lightbox-only Pages -->
   <a href="/assets/books/garden-of-the-gulf/page002.jpg" data-lightbox="book" data-title="Page 2"></a>
   <a href="/assets/books/garden-of-the-gulf/page003.jpg" data-lightbox="book" data-title="Page 3"></a>
@@ -176,4 +171,6 @@ This Book is available to read online and download as a `.pdf` or `.cbz` archive
   <a href="/assets/books/garden-of-the-gulf/page151.jpg" data-lightbox="book" data-title="Page 151"></a>
   <a href="/assets/books/garden-of-the-gulf/page152.jpg" data-lightbox="book" data-title="Page 152"></a>
   <a href="/assets/books/garden-of-the-gulf/page153.jpg" data-lightbox="book" data-title="Page 153"></a>
+</div>
+
 </div>
