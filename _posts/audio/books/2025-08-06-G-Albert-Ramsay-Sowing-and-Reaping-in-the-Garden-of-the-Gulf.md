@@ -14,11 +14,10 @@ This Book is available to read online and download as a `.pdf` or `.cbz` archive
 
 <div class="book-pages">
   {% for i in (1..153) %}
-    {% assign padded = i | plus: 0 | prepend: '000' | slice: -3 %}
-    {% assign image_path = '/assets/books/garden-of-the-gulf/page' | append: padded | append: '.jpg' %}
+    {% assign filename = 'page%03d.jpg' | sprintf: i %}
+    {% assign image_path = '/assets/books/garden-of-the-gulf/' | append: filename %}
     <a href="{{ image_path | relative_url }}" data-lightbox="book" data-title="Page {{ i }}">
       <img src="{{ image_path | relative_url }}" alt="Page {{ i }}" loading="lazy" />
     </a>
   {% endfor %}
 </div>
-
