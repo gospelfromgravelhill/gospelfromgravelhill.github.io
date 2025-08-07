@@ -35,7 +35,10 @@ layout: default
       {% if post.category == category_name %}
         <li>
           <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+
+          {%- unless post.category == "audio" -%}
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+          {%- endunless -%}
 
           {%- unless post.category == "audio" -%}
             {% if post.excerpt %}
