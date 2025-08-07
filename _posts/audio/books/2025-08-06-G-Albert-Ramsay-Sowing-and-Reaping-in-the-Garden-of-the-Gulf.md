@@ -8,7 +8,7 @@ This Book is available to read and download as a `.pdf` or `.cbz`
 
 <h2>📥 Download</h2>
 
-<a href="{{ '/assets/books/G-Albert-Ramsay-Sowing-and-Reaping-in-the-Garden-of-the-Gulf.cbz' | relative_url }}" download class="button">Download .CBZ File</a><br>
+<a href="{{ '/assets/books/G-Albert-Ramsay-Sowing-and-Reaping-in-the-Garden-of-the-Gulf.cbz' | relative_url }}" download class="button">Download .CBZ File</a>
 <a href="{{ '/assets/books/G-Albert-Ramsay-Sowing-and-Reaping-in-the-Garden-of-the-Gulf.pdf' | relative_url }}" download class="button">Download .pdf File</a>
 
 
