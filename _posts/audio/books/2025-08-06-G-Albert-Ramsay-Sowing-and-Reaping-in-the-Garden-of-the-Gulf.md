@@ -10,7 +10,8 @@ This Book is available to read online and download as a `.cbz` archive.
 
 <div class="book-pages">
   {% for i in (1..153) %}
-    <img src="{{ '/assets/books/G-Albert-Ramsay-Sowing-and-Reaping-in-the-Garden-of-the-Gulf/page' | append: i | prepend: '000' | slice: -3 | append: '.jpg' | relative_url }}" alt="Page {{ i }}" loading="lazy" />
+    {% assign padded = i | prepend: '000' | slice: -3 %}
+    <img src="{{ '/assets/books/G-Albert-Ramsay-Sowing-and-Reaping-in-the-Garden-of-the-Gulf/page' | append: padded | append: '.jpg' | relative_url }}" alt="Page {{ i }}" loading="lazy" />
   {% endfor %}
 </div>
 
