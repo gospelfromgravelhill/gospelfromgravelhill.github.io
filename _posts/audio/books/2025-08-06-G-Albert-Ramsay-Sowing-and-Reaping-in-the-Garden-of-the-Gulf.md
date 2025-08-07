@@ -18,6 +18,7 @@ This Book is available to read and download as a `.pdf` or `.cbz`
   <a href="/assets/books/garden-of-the-gulf/page001.jpg" data-lightbox="book" data-title="Page 1">
     <img src="/assets/books/garden-of-the-gulf/page001.jpg" alt="Cover - Page 1" loading="lazy" />
   </a>
+  </div>
   <!-- Hidden Lightbox-only Pages -->
   <a href="/assets/books/garden-of-the-gulf/page002.jpg" data-lightbox="book" data-title="Page 2"></a>
   <a href="/assets/books/garden-of-the-gulf/page003.jpg" data-lightbox="book" data-title="Page 3"></a>
@@ -173,4 +174,3 @@ This Book is available to read and download as a `.pdf` or `.cbz`
   <a href="/assets/books/garden-of-the-gulf/page153.jpg" data-lightbox="book" data-title="Page 153"></a>
 </div>
 
-</div>
