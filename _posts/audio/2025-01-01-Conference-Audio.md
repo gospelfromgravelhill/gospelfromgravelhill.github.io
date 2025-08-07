@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "2025 Conference Audio"
-date: 2025-07-14
+date: 2025-01-01
 category: audio
 ---
 
-Post content here.
-
-
+<a href="{{ '_posts/audio/2025-Conference/2025-07-04-2025-Pugwash-Junction-Conference/' | relative_url }}">2025-07-04 - 2025 Pugwash Junction Conference</a>
 <a href="{{ '_posts/audio/2025-Conference/2025-06-07-Halifax-Bible-Conference/' | relative_url }}">2025-06-07 - Halifax Bible Conference</a>
 <a href="{{ '_posts/audio/2025-Conference/2025-05-23-2025-Hickory-Conference/' | relative_url }}">2025-05-23 - 2025 Hickory Conference</a>
 <a href="{{ '_posts/audio/2025-Conference/2025-05-17-2025-PEI-Conference/' | relative_url }}">2025-05-17 - 2025 PEI Conference</a>
