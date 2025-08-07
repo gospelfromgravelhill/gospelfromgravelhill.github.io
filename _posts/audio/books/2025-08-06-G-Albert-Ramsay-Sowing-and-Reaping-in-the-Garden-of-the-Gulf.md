@@ -13,11 +13,11 @@ This Book is available to read online and download as a `.pdf` or `.cbz` archive
 
 
 <div class="book-pages">
-  {% for i in (1..153) %}
-    {% assign filename = 'page%03d.jpg' | sprintf: i %}
-    {% assign image_path = '/assets/books/garden-of-the-gulf/' | append: filename %}
-    <a href="{{ image_path | relative_url }}" data-lightbox="book" data-title="Page {{ i }}">
-      <img src="{{ image_path | relative_url }}" alt="Page {{ i }}" loading="lazy" />
-    </a>
-  {% endfor %}
+  <a href="/assets/books/garden-of-the-gulf/page001.jpg" data-lightbox="book" data-title="Page 1">
+    <img src="/assets/books/garden-of-the-gulf/page001.jpg" alt="Page 1" loading="lazy" />
+  </a>
+  <a href="/assets/books/garden-of-the-gulf/page002.jpg" data-lightbox="book" data-title="Page 2">
+    <img src="/assets/books/garden-of-the-gulf/page002.jpg" alt="Page 2" loading="lazy" />
+  </a>
+  <!-- ... repeat through page153.jpg -->
 </div>
