@@ -1,0 +1,23 @@
+.book-pages {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.book-pages a {
+  display: inline-block;
+}
+
+.book-pages a img {
+  max-width: 160px;
+  height: auto;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}
+
+.book-pages a img:hover {
+  transform: scale(1.05);
+}
