@@ -2,7 +2,6 @@
 layout: post
 title: "G. Albert Ramsay - Sowing and Reaping in the Garden of the Gulf"
 category: books
-permalink: /books/G-Albert-Ramsay-Sowing-and-Reaping-in-the-Garden-of-the-Gulf/
 ---
 
 This Book is available to read online and download as a `.cbz` archive.
