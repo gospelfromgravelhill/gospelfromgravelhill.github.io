@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2025-03-14 - Cork Conference"
-date: 2025-03-14
+title: "2025-05-23 - 2025 Hickory Conference"
+date: 2025-05-23
 category: 2025conference
 ---
 
