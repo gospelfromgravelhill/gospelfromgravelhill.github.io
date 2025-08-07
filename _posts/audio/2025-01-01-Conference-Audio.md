@@ -20,3 +20,13 @@ category: audio
 <li><a href="{{ 'audio/2025-Conference/2025-01-17-Orangewood-Gospel-Hall-Conference/' | relative_url }}">2025-01-17 - Orangewood Gospel Hall Conference</a></li>
 <li><a href="{{ 'audio/2025-Conference/2025-01-04-Winter-Bible-Studies-The-Epistle-of-1st-John/' | relative_url }}">2025-01-04 - Winter Bible Studies - The Epistle of 1st John</a></li>
 </ul>
+
+
+<ul>
+  {% assign conf_posts = site.categories.2025conference | sort: "date" | reverse %}
+  {% for post in conf_posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
