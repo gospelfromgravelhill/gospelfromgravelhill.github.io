@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
----
-layout: default
-title: About
-permalink: /about/
----
-
 ## About This Site
 
 *The Gospel From Gravel Hill* is a continuation, and a new chapter, of a work that began as *The Glorious Gospel*. For over a decade, under the expert care of **Scott G. MacLeod**, that site faithfully proclaimed *“the glorious gospel of the blessed God”* (1 Timothy 1:11). It pointed both believers and unbelievers to the person and work of the Lord Jesus Christ.
@@ -26,7 +20,7 @@ In **November 2022**, my fiancée, Emily, passed away suddenly after sixteen yea
 
 On the morning of **March 10, 2023**, while sitting in my car outside the hospital where Emily’s final journey began, I listened to a Gospel message by Jack Hay. When he read:
 
-<p style="text-align:center;"><em>“whosoever shall call on the name of the LORD shall be delivered.”</em> — Joel 2:32</p>
+<p style="text-align:center;"><em>“whosoever shall call on the name of the LORD shall be delivered.”</em> <BR> — Joel 2:32</p>
 
 I realised salvation was not in religion or my efforts, but in calling upon the Lord Himself. Right there, I admitted my guilt, believed Christ died for **my** sins, and trusted Him completely. The weight of my sin was lifted, and I passed from death unto life (John 5:24).
 
@@ -43,6 +37,6 @@ I pray that what you read here will lead you to consider life’s most important
 
 ---
 
-<p style="text-align:center;"><em>“And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered.”</em> — Joel 2:32</p>
+<p style="text-align:center;"><em>“And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered.”</em> <BR> — Joel 2:32</p>
 
-<p style="text-align:center;"><em>“For God so loved the world, that He gave His only begotten Son, that whosoever believeth in Him should not perish, but have everlasting life.”</em> — John 3:16</p>
+<p style="text-align:center;"><em>“For God so loved the world, that He gave His only begotten Son, that whosoever believeth in Him should not perish, but have everlasting life.”</em> <BR> — John 3:16</p>
