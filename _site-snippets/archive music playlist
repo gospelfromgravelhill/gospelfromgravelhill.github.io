@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Audio Playlist"
+date: 2025-07-26
+---
+
+## 📻 Audio Playlist
+
+<select id="trackList" onchange="loadTrack()">
+  <option value="https://archive.org/download/YOUR-ITEM-ID1/track1.mp3">Track 1 Title</option>
+  <option value="https://archive.org/download/YOUR-ITEM-ID2/track2.mp3">Track 2 Title</option>
+  <option value="https://archive.org/download/YOUR-ITEM-ID3/track3.mp3">Track 3 Title</option>
+</select>
+
+<br><br>
+
+<audio id="audioPlayer" controls>
+  <source id="audioSource" src="https://archive.org/download/YOUR-ITEM-ID1/track1.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<script>
+  function loadTrack() {
+    var player = document.getElementById("audioPlayer");
+    var source = document.getElementById("audioSource");
+    var list = document.getElementById("trackList");
+    source.src = list.value;
+    player.load();
+    player.play();
+  }
+</script>

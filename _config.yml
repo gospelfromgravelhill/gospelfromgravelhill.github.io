@@ -57,6 +57,8 @@ navigation:
     url: "/books/"
   - title: "Contact"
     url: "/contact/"
+  - title: Search
+    url: /search/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

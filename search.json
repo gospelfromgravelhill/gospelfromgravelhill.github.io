@@ -1,0 +1,19 @@
+---
+layout: null
+permalink: /search.json
+---
+
+[
+  {%- assign items = site.posts | concat: site.pages -%}
+  {%- for item in items -%}
+    {%- unless item.draft or item.search_exclude -%}
+      {
+        "title": {{ item.title | default: "" | jsonify }},
+        "url": "{{ item.url | relative_url }}",
+        "date": "{{ item.date | date: "%Y-%m-%d" }}",
+        "content": {{ item.content | strip_html | normalize_whitespace | jsonify }},
+        "type": "{% if item.collection == 'posts' or item.path contains '_posts/' %}post{% else %}page{% endif %}"
+      }{% unless forloop.last %},{% endunless %}
+    {%- endunless -%}
+  {%- endfor -%}
+]

@@ -1,0 +1,12 @@
+(Optional) Put a mini search box in the header
+If you want a small search field on every page that links to /search/:
+
+_includes/header.html (add inside the <nav> or beside the logo)
+
+
+<form action="{{ '/search/' | relative_url }}" method="get" style="display:inline-block;margin-left:.75rem;">
+  <input type="search" name="q" placeholder="Search…" onfocus="window.location=this.form.action" style="padding:.35rem .5rem;">
+</form>
+
+
+That simple version just sends people to the full search page. (If you prefer the live results dropdown in the header, we can wire that too—just say the word.)

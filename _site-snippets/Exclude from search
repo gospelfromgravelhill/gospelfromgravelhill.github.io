@@ -1,0 +1,3 @@
+to exclude a site from search add the following to the frontmatter of the page
+
+search_exclude: true

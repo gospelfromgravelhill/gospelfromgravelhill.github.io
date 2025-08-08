@@ -37,3 +37,15 @@
 @import "custom";
 
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
+
+
+/* Search results tidy-up */
+#results-container {
+  margin-top: 1rem;
+}
+#results-container a {
+  text-decoration: none;
+}
+#results-container a:hover {
+  text-decoration: underline;
+}
