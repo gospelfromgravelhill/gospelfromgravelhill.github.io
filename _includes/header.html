@@ -1,14 +1,21 @@
  <div class="header {% if site.header == "large" %}header--large{% endif %}">
-     <div class="container">
-         <h1 class="logo"><a href="/">{{ site.title }}</a></h1>
-         <nav class="nav-collapse">
-             <ul class="noList">
-                 {%- for link in site.navigation -%}{%- assign current = nil -%}{%- if page.url contains link.url or forloop.first and page.url == '/' or page.url == 'index.html' -%}{%- assign current = 'current' -%}{%- endif -%}
-                 <li class="element {%- if forloop.first -%}first{%- endif -%} {{ current }} {%- if forloop.last -%}last{%- endif -%}">
-                     <a href="{{ link.url }}">{{ link.title }}</a>
-                 </li> 
-                 {%- endfor -%}
-             </ul>
-         </nav>
-     </div>
- </div><!-- end .header -->
+    <div class="container">
+        <h1 class="logo">
+            <a href="/">
+                <img src="{{ '/assets/img/open-book-solid.png' | relative_url }}" alt="Site Logo" style="height: 40px; vertical-align: middle; margin-right: 8px;">
+                {{ site.title }}</a></h1>
+        <nav class="nav-collapse">
+            <ul class="noList">
+                {%- for link in site.navigation -%}
+                    {%- assign current = nil -%}
+                    {%- if page.url contains link.url or forloop.first and page.url == '/' or page.url == 'index.html' -%}
+                        {%- assign current = 'current' -%}
+                    {%- endif -%}
+                    <li class="element {%- if forloop.first -%}first{%- endif -%} {{ current }} {%- if forloop.last -%}last{%- endif -%}">
+                        <a href="{{ link.url }}">{{ link.title }}</a>
+                    </li> 
+                {%- endfor -%}
+            </ul>
+        </nav>
+    </div>
+</div><!-- end .header -->
