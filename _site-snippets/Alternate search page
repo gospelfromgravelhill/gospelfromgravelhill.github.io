@@ -1,0 +1,53 @@
+<h1>Search</h1>
+<input id="q" type="search" placeholder="Search…" style="width:100%;padding:.6rem;">
+<ul id="results" class="noList"></ul>
+
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script>
+(async function () {
+  const res = await fetch('{{ "/search.json" | relative_url }}');
+  const data = await res.json();
+
+  // Build Lunr index (boost title higher)
+  const idx = lunr(function () {
+    this.ref('url');
+    this.field('title', { boost: 5 });
+    this.field('excerpt', { boost: 3 });
+    this.field('content');
+    data.forEach(doc => this.add(doc), this);
+  });
+
+  const byUrl = Object.fromEntries(data.map(d => [d.url, d]));
+  const input = document.getElementById('q');
+  const out = document.getElementById('results');
+
+  function render(results) {
+    if (!results.length) { out.innerHTML = '<li>No results found.</li>'; return; }
+    out.innerHTML = results.slice(0, 20).map(r => {
+      const doc = byUrl[r.ref];
+      return `<li style="margin:0 0 1rem;">
+        <a href="${doc.url}"><strong>${doc.title}</strong></a><br>
+        <small>${doc.date || ''}</small>
+      </li>`;
+    }).join('');
+  }
+
+  function search(query) {
+    if (!query.trim()) { out.innerHTML = ''; return; }
+    // Support quoted phrases for exact match
+    // AND-ish behavior by letting lunr parse words/phrases; for super strict AND we can split + add +term
+    try { render(idx.search(query)); }
+    catch (e) {
+      // Fallback: basic AND of tokens
+      const tokens = query.toLowerCase().split(/\s+/).filter(Boolean);
+      const filtered = data.filter(d => {
+        const hay = ((d.title||'') + ' ' + (d.excerpt||'') + ' ' + (d.content||'')).toLowerCase();
+        return tokens.every(t => hay.includes(t));
+      });
+      render(filtered.map(d => ({ ref: d.url })));
+    }
+  }
+
+  input.addEventListener('input', () => search(input.value));
+})();
+</script>
