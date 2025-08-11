@@ -111,30 +111,17 @@ MENU STYLING
 	max-height: 9999px;
 }
 
-.nav-toggle {
-	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-	-webkit-touch-callout: none;
-	-webkit-user-select: none;
-	-moz-user-select: none;
-	-ms-user-select: none;
-	-o-user-select: none;
-	user-select: none;
-	float: right;
-	line-height: 2em;
-	margin-top: 0.5em;
-	background-color: $background-color;
-	border-radius: 4px;
-	padding: 0 0.5em;
-	color: white;
-	text-decoration: none;
-	position: relative;
-	right: 2rem;
-	transition: all 0.2s ease-in-out;
+// Create the mobile toggle without a text label
+var nav = responsiveNav(".nav-collapse", { label: "" });
 
-	&:hover {
-		color: white;
-		background-color: darken($background-color, 10%);
-	}
+// Replace the auto-created toggle's content with the Bootstrap "list" icon
+var toggle = document.querySelector(".nav-toggle");
+if (toggle) {
+  toggle.setAttribute("aria-label", "Open navigation");
+  toggle.innerHTML =
+    '<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true" focusable="false">' +
+      '<path fill-rule="evenodd" d="M2.5 12.5a.5.5 0 0 1 0-1h11a.5.5 0 0 1 0 1h-11zm0-4a.5.5 0 0 1 0-1h11a.5.5 0 0 1 0 1h-11zm0-4a.5.5 0 0 1 0-1h11a.5.5 0 0 1 0 1h-11z"/>' +
+    "</svg>";
 }
 
 /***************
