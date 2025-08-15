@@ -100,8 +100,6 @@ function renderDetail(h){
   if (h.scripture) metaBits.push('Scripture: ' + escapeHTML(h.scripture));
   $('#hymnMeta').innerHTML = metaBits.join(' • ');
 
-  // Render stanzas + repeat chorus after each stanza when present
-  const ds = state.datasets[state.currentDatasetIndex];
   const raw = h._raw || {};
   const verses = Array.isArray(raw.verses) ? raw.verses : null;
   const chorus = Array.isArray(raw.chorus) && raw.chorus.length ? raw.chorus : null;
@@ -116,7 +114,6 @@ function renderDetail(h){
       const p = document.createElement('p'); p.className = 'stanza';
       const strong = document.createElement('strong'); strong.className='stanza-number'; strong.textContent = (i+1)+'.';
       p.appendChild(strong);
-      // Join stanza lines with <br>
       const stanzaHtml = escapeHTML(stanza.join('\n')).replace(/\n/g,'<br>');
       const span = document.createElement('span'); span.innerHTML = ' ' + stanzaHtml;
       p.appendChild(span);
@@ -134,7 +131,6 @@ function renderDetail(h){
       }
     });
   } else {
-    // Fallback to normalized lyrics string
     const stanzas = splitStanzas(h.lyrics || '');
     container.innerHTML = stanzas.map((s,i)=> html`
       <p class="stanza"><strong class="stanza-number">${i+1}.</strong> ${escapeHTML(s).replace(/\n/g,'<br>')}</p>
@@ -156,7 +152,6 @@ function showDetail(id, push=true){
   if (push) location.hash = `#/hymn/${state.currentDatasetIndex}/${encodeURIComponent(id)}`;
 }
 
-// Search wiring
 function setupSearch(){
   const input = $('#q');
   const clearBtn = $('#clearBtn');
@@ -175,7 +170,6 @@ function setupSearch(){
   clearBtn.addEventListener('click', ()=>{ input.value=''; run(); input.focus(); });
 }
 
-// Buttons
 function setupDetailButtons(){
   $('#backBtn').addEventListener('click', showList);
   $('#copyBtn').addEventListener('click', async ()=>{
@@ -187,7 +181,6 @@ function setupDetailButtons(){
   $('#printBtn').addEventListener('click', ()=> window.print());
 }
 
-// Router
 const router = new Router();
 router.onRoute = (parts)=>{
   if (parts[0]==='hymn' && parts.length>=3){
@@ -206,9 +199,9 @@ router.onRoute = (parts)=>{
 };
 
 (async function init(){
-  setupSearch();
-  setupDetailButtons();
   await loadConfig();
   await hydrate();
+  setupSearch();
+  setupDetailButtons();
   router.start();
 })();

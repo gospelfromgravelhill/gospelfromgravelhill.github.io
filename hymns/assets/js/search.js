@@ -63,7 +63,6 @@ export function search(index, rows, query){
       for (const p of phrases){
         if (!hay.includes(p)) continue outer;
       }
-      // phrase bonus
       filtered.set(id, score + 10*phrases.length);
     }
     cand = filtered;
@@ -77,7 +76,6 @@ export function search(index, rows, query){
     }
   }
 
-  // Rank
   const ranked = [...cand.entries()]
     .sort((a,b)=> b[1]-a[1] || (a[0]>b[0]?1:-1))
     .map(([id])=> rows.find(r=> r.id===id))
