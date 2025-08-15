@@ -4,26 +4,50 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Hymns</title>
+  <link rel="icon" href="assets/img/icon.png">
   <link rel="stylesheet" href="assets/css/style.css">
+  <meta name="theme-color" content="#0b0b0c">
 </head>
 <body>
-  <header class="bar">
-    <select id="datasetSelect" aria-label="Dataset"></select>
-    <input id="q" placeholder="Search title, number, lyrics, author, tune...">
+  <header class="topbar" role="banner">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">✚</span>
+      <span class="title">Hymns</span>
+    </div>
+    <nav class="controls" aria-label="Controls">
+      <label class="sr-only" for="datasetSelect">Dataset</label>
+      <select id="datasetSelect"></select>
+      <label class="sr-only" for="q">Search</label>
+      <input id="q" type="search" placeholder="Search number, title, lyrics, author, tune…">
+      <button id="clearBtn" title="Clear">✕</button>
+    </nav>
   </header>
-  <main>
-    <section id="list">
-      <ul id="results"></ul>
+
+  <main class="container">
+    <section class="content" id="listView" aria-label="Hymn list">
+      <div id="resultStats" class="muted"></div>
+      <ul id="results" class="hymn-list" tabindex="0" aria-label="Results"></ul>
     </section>
-    <section id="detail" hidden>
-      <button id="backBtn">← Back</button>
-      <button id="copyBtn">Copy</button>
-      <button id="printBtn">Print</button>
-      <h1 id="hymnTitle"></h1>
-      <div id="meta"></div>
-      <pre id="lyrics"></pre>
+
+    <section class="content hidden" id="detailView" aria-label="Hymn detail">
+      <nav class="detail-nav">
+        <button id="backBtn">← Back</button>
+        <div class="spacer"></div>
+        <button id="copyBtn" title="Copy hymn">Copy</button>
+        <button id="printBtn" title="Print hymn">Print</button>
+      </nav>
+      <article id="hymnArticle">
+        <h1 id="hymnTitle"></h1>
+        <div id="hymnMeta" class="meta"></div>
+        <div id="hymnLyrics" class="lyrics"></div>
+      </article>
     </section>
   </main>
+
+  <footer class="footer">
+    <small>© Hymns • Source: <a id="sourceLink" href="#" target="_blank" rel="noopener">dataset</a></small>
+  </footer>
+
   <script type="module" src="assets/js/app.js"></script>
 </body>
 </html>
