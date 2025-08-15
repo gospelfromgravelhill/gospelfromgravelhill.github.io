@@ -1,0 +1,43 @@
+{
+  "baseUrl": "/hymns",
+  "datasets": [
+    {
+      "name": "Songs of Thanksgiving and Praise",
+      "path": "data/ssfss_songs.min.json",
+      "mapping": {
+        "id": "id",
+        "number": "no",
+        "title": "title",
+        "lyrics": "lyrics",
+        "author": "author",
+        "tune": "tune",
+        "meter": "meter",
+        "scripture": "scripture",
+        "topics": "topics"
+      }
+    },
+    {
+      "name": "Believers Hymn Book",
+      "path": "data/bhb_songs.json",
+      "mapping": {
+        "id": "id",
+        "number": "id",
+        "title": "title",
+        "lyrics": {
+          "joinArrays": [
+            "verses",
+            "chorus",
+            "addedChorus"
+          ],
+          "labels": {
+            "chorus": "Chorus:"
+          },
+          "separator": "\n"
+        },
+        "author": "author",
+        "tune": "tuneName",
+        "meter": "meter"
+      }
+    }
+  ]
+}

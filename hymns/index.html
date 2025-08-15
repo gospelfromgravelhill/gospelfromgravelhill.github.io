@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hymns</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="bar">
+    <select id="datasetSelect" aria-label="Dataset"></select>
+    <input id="q" placeholder="Search title, number, lyrics, author, tune...">
+  </header>
+  <main>
+    <section id="list">
+      <ul id="results"></ul>
+    </section>
+    <section id="detail" hidden>
+      <button id="backBtn">← Back</button>
+      <button id="copyBtn">Copy</button>
+      <button id="printBtn">Print</button>
+      <h1 id="hymnTitle"></h1>
+      <div id="meta"></div>
+      <pre id="lyrics"></pre>
+    </section>
+  </main>
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

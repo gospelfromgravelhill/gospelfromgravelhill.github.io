@@ -1,0 +1,8 @@
+body{font:16px/1.6 system-ui;margin:0}
+.bar{display:flex;gap:.5rem;padding:.5rem;border-bottom:1px solid #ddd;position:sticky;top:0;background:#fff}
+main{max-width:900px;margin:0 auto;padding:1rem}
+#results{list-style:none;margin:0;padding:0}
+#results li{padding:.5rem .25rem;border-bottom:1px dashed #ddd}
+#results a{text-decoration:none;color:#1144aa}
+#lyrics{white-space:pre-wrap}
+@media print{.bar,#backBtn,#copyBtn,#printBtn{display:none}}
