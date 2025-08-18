@@ -46,7 +46,7 @@
         "tune": "tuneName",
         "meter": "meter"
       }
-    }
+    },
     {
       "name": "Gospel Hymn Book (2001)",
       "path": "data/ghb2001_songs.json",
