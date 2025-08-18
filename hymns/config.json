@@ -47,5 +47,28 @@
         "meter": "meter"
       }
     }
+    {
+      "name": "Gospel Hymn Book (2001)",
+      "path": "data/ghb2001_songs.json",
+      "mapping": {
+        "id": "id",
+        "number": "id",
+        "title": "title",
+        "lyrics": {
+          "joinArrays": [
+            "verses",
+            "chorus",
+            "addedChorus"
+          ],
+          "labels": {
+            "chorus": "Chorus:"
+          },
+          "separator": "\n"
+        },
+        "author": "author",
+        "tune": "tuneName",
+        "meter": "meter"
+      }
+    }
   ]
 }
