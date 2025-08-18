@@ -14,7 +14,7 @@ With Scott’s blessing, I seeks to carry that torch forward through this site, 
 
 ## A Personal Word
 
-My full gospel testimony can be read [here](https://heaven4sure.com/my-journey-to-christ-marc-macarthur/), but in short: I grew up knowing *about* the Bible without knowing the Saviour. Church, when I attended, was routine and without meaning to me. For most of my adult life, God was distantm acknowledged but unknown.
+My full gospel testimony can be read [here](https://heaven4sure.com/my-journey-to-christ-marc-macarthur/), but in short: I grew up knowing *about* the Bible without knowing the Saviour. Church, when I attended, was routine and without meaning to me. For most of my adult life, God was distant acknowledged but unknown.
 
 In **November 2022**, my fiancée, Emily, passed away suddenly after sixteen years together. In my grief, I began attending Gospel meetings at O’Leary Gospel Hall out of a sense of obligation to thank them for their kindness, but the messages I heard stirred questions I could not ignore. Over the next months I read the Bible, listened to preaching, and wrestled with the reality of my sin and my need of salvation.
 
