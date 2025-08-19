@@ -2753,10 +2753,12 @@
     "tuneName": "C.H.F. 465",
     "verses": [
       [
-        "The Bible stands like a rock undaunted,",
-        "’Mid the raging storms of time;",
-        "Its pages burn with the truth eternal,",
-        "And they glow with a light sublime."
+        "The Bible stands",
+        "Though the hills may tumble,",
+        "It will firmly stand",
+        "Though the earth shall crumble,",
+        "I will plant my feet on its firm foundation,",
+        "For the Bible stands."
       ],
       [
         "The Bible stands like a mountain towering,",
@@ -2766,12 +2768,10 @@
       ]
     ],
     "chorus": [
-      "The Bible stands",
-      "Though the hills may tumble,",
-      "It will firmly stand",
-      "Though the earth shall crumble,",
-      "I will plant my feet on its firm foundation,",
-      "For the Bible stands."
+      "The Bible stands like a rock undaunted,",
+      "’Mid the raging storms of time;",
+      "Its pages burn with the truth eternal,",
+      "And they glow with a light sublime."
     ],
     "addedChorus": []
   },
