@@ -90,8 +90,11 @@
     "title": "Around the Throne",
     "author": "",
     "meter": "",
-    "tuneName": "R.S. 674",
+    "tuneName": "",
     "verses": [
+      [
+        "R.S. 674"
+      ],
       [
         "Around the throne of God in heav’n,",
         "Thousands of children stand,",
@@ -119,12 +122,13 @@
   },
   {
     "id": 5,
-    "title": "A ruler once came to Jesus by night,",
-    "author": "Ye Must Be Born Again",
+    "title": "Ye Must Be Born Again",
+    "author": "",
     "meter": "",
     "tuneName": "R.S. 118",
     "verses": [
       [
+        "A ruler once came to Jesus by night,",
         "To ask Him the way of salvation and light;",
         "The Master made answer in words true and plain,",
         "\"Ye must be born again.\""
@@ -764,27 +768,25 @@
   },
   {
     "id": 29,
-    "title": "(C)",
-    "author": "One God And One Mediator",
+    "title": "One God And One Mediator",
+    "author": "",
     "meter": "",
     "tuneName": "New Pinebrook Songs 113",
-    "verses": [
-      [
-        "For there is one God and one Mediator",
-        "Between God and men;",
-        "For there is one God and one Mediator,",
-        "The Man, Christ Jesus;",
-        "Who gave Himself a ransom for us all;",
-        "Who gave Himself a ransom for us all;",
-        "Who gave Himself a ransom for us all;",
-        "Oh, what a wonderful Saviour!",
-        "For there is one God and one Mediator,",
-        "Between God and men,",
-        "For there is one God and one Mediator,",
-        "The Man, Christ Jesus."
-      ]
+    "verses": [],
+    "chorus": [
+      "For there is one God and one Mediator",
+      "Between God and men;",
+      "For there is one God and one Mediator,",
+      "The Man, Christ Jesus;",
+      "Who gave Himself a ransom for us all;",
+      "Who gave Himself a ransom for us all;",
+      "Who gave Himself a ransom for us all;",
+      "Oh, what a wonderful Saviour!",
+      "For there is one God and one Mediator,",
+      "Between God and men,",
+      "For there is one God and one Mediator,",
+      "The Man, Christ Jesus."
     ],
-    "chorus": [],
     "addedChorus": []
   },
   {
@@ -813,12 +815,13 @@
   },
   {
     "id": 31,
-    "title": "Glad T-i-d-i-n-g-s, I b-r-i-n-g,",
-    "author": "Glad Tidings",
+    "title": "Glad Tidings",
+    "author": "",
     "meter": "",
     "tuneName": "C.H.F. 33 (At the cross)",
     "verses": [
       [
+        "Glad T-i-d-i-n-g-s, I b-r-i-n-g,",
         "That J-e-s-u-s has died",
         "To s-a-v-e me.",
         "Jesus calls, yes He calls",
@@ -1001,7 +1004,8 @@
         "Bidding us from wrath to flee.",
         "He wrote it by His Spirit,",
         "It was given for you and me.",
-        "Oh, yes, it is the best of books,"
+        "Oh, yes, it is the best of books,",
+        "The B-I-B-L-E."
       ]
     ],
     "chorus": [
@@ -1011,7 +1015,8 @@
       "And a light on the stormy main;",
       "A sword that hath two edges,",
       "A mirror, myself to see.",
-      "Oh, yes, it is the best of books,"
+      "Oh, yes, it is the best of books,",
+      "The B-I-B-L-E."
     ],
     "addedChorus": []
   },
@@ -1294,12 +1299,13 @@
   },
   {
     "id": 50,
-    "title": "I am so glad that our Father in heaven,",
-    "author": "Jesus Loves Even Me",
+    "title": "Jesus Loves Even Me",
+    "author": "",
     "meter": "",
     "tuneName": "R.S. 671",
     "verses": [
       [
+        "I am so glad that our Father in heaven,",
         "Tells of His love in the Book He has given:",
         "Wonderful things in the Bible I see,",
         "This is the dearest, that Jesus loves me."
@@ -1655,10 +1661,13 @@
   {
     "id": 63,
     "title": "A Prodigal Son",
-    "author": "Published on or before 1922",
+    "author": "",
     "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "Published on or before 1922"
+      ],
       [
         "In the Bible we read, you all know,",
         "Of a prodigal son here below;",
@@ -1937,12 +1946,13 @@
   },
   {
     "id": 74,
-    "title": "Joy bells ringing in your heart,",
-    "author": "The Joy-Bells",
+    "title": "The Joy-Bells",
+    "author": "",
     "meter": "",
     "tuneName": "R.S. Chorus of 79 (The Joy-Bells)",
     "verses": [
       [
+        "Joy bells ringing in your heart,",
         "Joy bells ringing in your heart;",
         "Take the Saviour here below,",
         "With you everywhere you go;",
@@ -2091,12 +2101,13 @@
   },
   {
     "id": 81,
-    "title": "Oh happy day that fixed my choice,",
-    "author": "Oh Happy Day",
+    "title": "Oh Happy Day",
+    "author": "",
     "meter": "",
     "tuneName": "R.S. 622",
     "verses": [
       [
+        "Oh happy day that fixed my choice,",
         "On Thee, my Saviour and my God,",
         "Well may this glowing heart rejoice,",
         "And tell its raptures all abroad."
@@ -2543,12 +2554,13 @@
   },
   {
     "id": 98,
-    "title": "Sinners, Jesus will receive,",
-    "author": "Christ Receiveth Sinful Men",
+    "title": "Christ Receiveth Sinful Men",
+    "author": "",
     "meter": "",
     "tuneName": "C.H.F. 158",
     "verses": [
       [
+        "Sinners, Jesus will receive,",
         "Sound this word of grace to all,",
         "Who the heavenly pathway leave,",
         "All who linger, all who fall."
@@ -2627,12 +2639,13 @@
   },
   {
     "id": 101,
-    "title": "Tell me the story of Jesus,",
-    "author": "The Precious Story",
+    "title": "The Precious Story",
+    "author": "",
     "meter": "",
     "tuneName": "R.S. 456",
     "verses": [
       [
+        "Tell me the story of Jesus,",
         "Write on my heart ev’ry word,",
         "Tell me the story most precious,",
         "Sweetest that ever was heard;",
@@ -2702,12 +2715,13 @@
   },
   {
     "id": 103,
-    "title": "The best book to read is the Bible,",
-    "author": "The Best",
+    "title": "The Best",
+    "author": "",
     "meter": "",
     "tuneName": "R.S. Chorus of 88 (The Best Friend)",
     "verses": [
       [
+        "The best book to read is the Bible,",
         "The best book to read is the Bible;",
         "If you read it every day,",
         "It will help you on your way;",
@@ -2733,8 +2747,8 @@
   },
   {
     "id": 104,
-    "title": "(C)",
-    "author": "The Bible Stands",
+    "title": "The Bible Stands",
+    "author": "",
     "meter": "",
     "tuneName": "C.H.F. 465",
     "verses": [
@@ -2763,19 +2777,22 @@
   },
   {
     "id": 105,
-    "title": "The B-I-B-L-E,",
-    "author": "The B-I-B-L-E",
+    "title": "The B-I-B-L-E",
+    "author": "",
     "meter": "",
     "tuneName": "C.H.F. 436",
     "verses": [
       [
+        "The B-I-B-L-E,",
         "Yes, that’s the Book for me;",
-        "I stand alone on the Word of God,"
+        "I stand alone on the Word of God,",
+        "The B-I-B-L-E."
       ],
       [
         "The B-L-O-O-D,",
         "The blood that cleanseth me;",
-        "His life He gave, My soul to save;"
+        "His life He gave, My soul to save;",
+        "The B-L-O-O-D."
       ]
     ],
     "chorus": [],
@@ -2783,12 +2800,13 @@
   },
   {
     "id": 106,
-    "title": "The Gospel bells are ringing",
-    "author": "The Gospel Bells",
+    "title": "The Gospel Bells",
+    "author": "",
     "meter": "",
     "tuneName": "R.S. 151",
     "verses": [
       [
+        "The Gospel bells are ringing",
         "Over land, from sea to sea;",
         "Blessed news of free salvation",
         "Do they offer you and me.",
@@ -2818,12 +2836,13 @@
   },
   {
     "id": 107,
-    "title": "The great Physician now is near,",
-    "author": "The Great Physician",
+    "title": "The Great Physician",
+    "author": "",
     "meter": "",
     "tuneName": "R.S. 291",
     "verses": [
       [
+        "The great Physician now is near,",
         "The sympathizing Jesus;",
         "He speaks the drooping heart to cheer,",
         "Oh, hear the voice of Jesus."
@@ -3000,12 +3019,13 @@
   },
   {
     "id": 113,
-    "title": "There is no name so sweet on earth,",
-    "author": "The Sweetest Name",
+    "title": "The Sweetest Name",
+    "author": "",
     "meter": "",
     "tuneName": "R.S. 70",
     "verses": [
       [
+        "There is no name so sweet on earth,",
         "No name so sweet in heaven,",
         "The name before His wondrous birth,",
         "To Christ the Saviour given."
@@ -3216,8 +3236,8 @@
   },
   {
     "id": 120,
-    "title": "There's a way back to God (E. Swinstead)",
-    "author": "",
+    "title": "There's a way back to God",
+    "author": "E. Swinstead",
     "meter": "",
     "tuneName": "",
     "verses": [],
@@ -3233,12 +3253,13 @@
   },
   {
     "id": 121,
-    "title": "There was a man of old,",
-    "author": "You Can Never Run Away",
+    "title": "You Can Never Run Away",
+    "author": "",
     "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "There was a man of old,",
         "In the Bible we are told,",
         "And the Lord of glory spoke to him one day;",
         "With a message he was sent,",
@@ -3289,7 +3310,8 @@
         "To ransom you and me;",
         "Don’t wait until you’re older,",
         "But trust while Christ is nigh;",
-        "And by His grace you’ll see His face,"
+        "And by His grace you’ll see His face,",
+        "In G-L-O-R-Y."
       ]
     ],
     "chorus": [],
@@ -3309,7 +3331,8 @@
         "But through T-R-U-S-T.",
         "Yes, I must trust Him,",
         "Yes, I must trust Him,",
-        "Start now for heaven"
+        "Start now for heaven",
+        "Through T-R-U-S-T."
       ]
     ],
     "chorus": [],
@@ -3597,12 +3620,13 @@
   },
   {
     "id": 135,
-    "title": "\"Whosoever heareth,\" shout, shout the sound!",
-    "author": "Whosoever Will",
+    "title": "Whosoever Will",
+    "author": "",
     "meter": "",
     "tuneName": "R.S. 93",
     "verses": [
       [
+        "\"Whosoever heareth,\" shout, shout the sound!",
         "Send the blessed tidings all the world around;",
         "Spread the joyful news wherever man is found,",
         "\"Whosoever will may come.\""
@@ -3708,12 +3732,13 @@
   },
   {
     "id": 139,
-    "title": "Wonderful Saviour, wonderful friend,",
-    "author": "Wonderful Saviour",
+    "title": "Wonderful Saviour",
+    "author": "",
     "meter": "",
     "tuneName": "C.H.F. Chorus of 41 (Blessed Assurance)",
     "verses": [
       [
+        "Wonderful Saviour, wonderful friend,",
         "Wonderful love that never shall end;",
         "Wonderful place, He’s gone to prepare;",
         "Wonder of wonders, I shall be there."
@@ -3975,10 +4000,14 @@
   {
     "id": 149,
     "title": "I met Jesus at the crossroads",
-    "author": "Copyright Phil Burt",
+    "author": "",
     "meter": "",
     "tuneName": "",
-    "verses": [],
+    "verses": [
+      [
+        "Copyright Phil Burt"
+      ]
+    ],
     "chorus": [
       "I met Jesus at the crossroads",
       "Where the two ways meet.",
@@ -4087,12 +4116,13 @@
   },
   {
     "id": 153,
-    "title": "Mr. Noah built an ark,",
-    "author": "Mr. Noah",
+    "title": "Mr. Noah",
+    "author": "",
     "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "Mr. Noah built an ark,",
         "The people thought it was a lark.",
         "Mr. Noah pleaded so",
         "But into the ark they would not go."
@@ -4307,6 +4337,7 @@
     ],
     "chorus": [
       "But Jesus fought a greater fight",
+      "Upon Mount Calvary",
       "He conquered sin and death and Hell",
       "By dying on the tree."
     ],
