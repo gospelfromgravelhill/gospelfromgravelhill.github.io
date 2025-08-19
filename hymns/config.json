@@ -69,6 +69,52 @@
         "tune": "tuneName",
         "meter": "meter"
       }
+    },
+    {
+      "name": "The Children’s Hymn Book (1987)",
+      "path": "data/childrens_hymn_book_1987.json",
+      "mapping": {
+        "id": "id",
+        "number": "id",
+        "title": "title",
+        "lyrics": {
+          "joinArrays": [
+            "verses",
+            "chorus",
+            "addedChorus"
+          ],
+          "labels": {
+            "chorus": "Chorus:"
+          },
+          "separator": "\n"
+        },
+        "author": "author",
+        "tune": "tuneName",
+        "meter": "meter"
+      }
+    },
+    {
+      "name": "UK Gospel Hymn Book (1897)",
+      "path": "data/uk_ghb_1897.json",
+      "mapping": {
+        "id": "id",
+        "number": "id",
+        "title": "title",
+        "lyrics": {
+          "joinArrays": [
+            "verses",
+            "chorus",
+            "addedChorus"
+          ],
+          "labels": {
+            "chorus": "Chorus:"
+          },
+          "separator": "\n"
+        },
+        "author": "author",
+        "tune": "tuneName",
+        "meter": "meter"
+      }
     }
   ]
 }
