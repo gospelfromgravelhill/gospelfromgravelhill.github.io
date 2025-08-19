@@ -1628,14 +1628,11 @@
   },
   {
     "id": 40,
-    "title": "C.H.F. No. 66",
+    "title": "Give me a sight, O Saviour,",
     "author": "Katherine A.M. Kelly (1869-1942)",
     "meter": "",
     "tuneName": "R.S. No. 865",
     "verses": [
-      [
-        "C.H.F. No. 66"
-      ],
       [
         "Give me a sight, O Saviour,",
         "Of Thy wondrous love to me,",
@@ -5278,9 +5275,9 @@
   {
     "id": 126,
     "title": "O, what a Saviour, that He died for me!",
-    "author": "B.H.B. No. 209",
-    "meter": "",
-    "tuneName": "",
+    "author": "James McGranahan (1840-1907)",
+    "meter": "10.10.10.6",
+    "tuneName": "B.H.B. No. 209",
     "verses": [
       [
         "O, what a Saviour, that He died for me!",
@@ -5353,14 +5350,11 @@
   },
   {
     "id": 128,
-    "title": "B.H.B. No. 40",
-    "author": "",
+    "title": "O wondrous grace! that found a plan",
+    "author": "Albert Midlane (1825-1909)",
     "meter": "",
-    "tuneName": "",
+    "tuneName": "B.H.B. No. 40",
     "verses": [
-      [
-        "B.H.B. No. 40"
-      ],
       [
         "O wondrous grace! that found a plan",
         "To rescue guilty, fallen man,",
@@ -10050,8 +10044,7 @@
     "chorus": [
       "Mercy there was great and grace was free,",
       "Pardon there was multiplied to me,",
-      "There my burdened soul found liberty,",
-      "At Calvary."
+      "There my burdened soul found liberty,"
     ],
     "addedChorus": []
   },
@@ -13512,9 +13505,9 @@
   {
     "id": 322,
     "title": "My hope is built on nothing less,",
-    "author": "B.H.B. No. 158, C.H.F. No. 121",
-    "meter": "",
-    "tuneName": "",
+    "author": "Edward Mote (1797-1874)",
+    "meter": "L.M.",
+    "tuneName": "B.H.B. No. 158, C.H.F. No. 121",
     "verses": [
       [
         "My hope is built on nothing less,",
@@ -13967,9 +13960,9 @@
   {
     "id": 332,
     "title": "Our Lord is now rejected",
-    "author": "B.H.B. No. 223",
+    "author": "Daniel W. Whittle (1840-1901)",
     "meter": "",
-    "tuneName": "",
+    "tuneName": "B.H.B. No. 223",
     "verses": [
       [
         "Our Lord is now rejected",
