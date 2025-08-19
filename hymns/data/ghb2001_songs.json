@@ -81,11 +81,14 @@
   },
   {
     "id": 3,
-    "title": "Again the blessed Gospel I have heard,",
+    "title": "10.6.10.6.",
     "author": "",
-    "meter": "10.6.10.6.",
+    "meter": "",
     "tuneName": "C.H.F. No. 210",
     "verses": [
+      [
+        "10.6.10.6."
+      ],
       [
         "Again the blessed Gospel I have heard,",
         "That Word divine and true,",
@@ -208,11 +211,14 @@
   },
   {
     "id": 6,
-    "title": "\"Almost persuaded\" now to believe;",
+    "title": "5.4.5.4.6.6.6.4.",
     "author": "P.P. Bliss (1838-76)",
-    "meter": "5.4.5.4.6.6.6.4.",
+    "meter": "",
     "tuneName": "R.S. No. 25l",
     "verses": [
+      [
+        "5.4.5.4.6.6.6.4."
+      ],
       [
         "\"Almost persuaded\" now to believe;",
         "\"Almost persuaded\" Christ to receive.",
@@ -243,11 +249,14 @@
   },
   {
     "id": 7,
-    "title": "And can it be that I should gain",
+    "title": "8.8.8.8.8.8.",
     "author": "Charles Wesley (1707-88)",
-    "meter": "8.8.8.8.8.8.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.8.8.8.8.8."
+      ],
       [
         "And can it be that I should gain",
         "An interest in the Saviour's blood",
@@ -294,15 +303,11 @@
   },
   {
     "id": 8,
-    "title": "A. S. Ormsby",
-    "author": "",
-    "meter": "",
+    "title": "Are you weary and sad 'neath the burden of sin",
+    "author": "A. S. Ormsby",
+    "meter": "P.M.",
     "tuneName": "",
     "verses": [
-      [
-        "A. S. Ormsby",
-        "P.M."
-      ],
       [
         "Are you weary and sad 'neath the burden of sin",
         "Does it fill all your soul with dismay",
@@ -388,14 +393,11 @@
   },
   {
     "id": 10,
-    "title": "L.M.D.",
+    "title": "Behold Me standing at the door,",
     "author": "Fanny Crosby (1820-1915)",
-    "meter": "",
+    "meter": "L.M.D.",
     "tuneName": "R.S. No. 106",
     "verses": [
-      [
-        "L.M.D."
-      ],
       [
         "Behold Me standing at the door,",
         "And hear Me pleading evermore,",
@@ -431,14 +433,11 @@
   },
   {
     "id": 11,
-    "title": "S.M.D.",
+    "title": "Behold the Lamb of God,",
     "author": "Thomas Haweis (1732-1820)",
-    "meter": "",
+    "meter": "S.M.D.",
     "tuneName": "",
     "verses": [
-      [
-        "S.M.D."
-      ],
       [
         "Behold the Lamb of God,",
         "Who bore a vile world's sin,",
@@ -533,11 +532,14 @@
   },
   {
     "id": 13,
-    "title": "Behold, the manner of God's love",
+    "title": "8.3.8.3.8.8.8.3.",
     "author": "Albert Midlane (1825-1909)",
-    "meter": "8.3.8.3.8.8.8.3.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.3.8.3.8.8.8.3."
+      ],
       [
         "Behold, the manner of God's love",
         "On the cross! On the cross!",
@@ -574,15 +576,11 @@
   },
   {
     "id": 14,
-    "title": "Margaret S. Sullivan",
-    "author": "",
-    "meter": "",
+    "title": "Behold what love, what boundless love,",
+    "author": "Margaret S. Sullivan",
+    "meter": "C.M.",
     "tuneName": "R.S. No. 436",
     "verses": [
-      [
-        "Margaret S. Sullivan",
-        "C.M."
-      ],
       [
         "Behold what love, what boundless love,",
         "The Father hath bestowed",
@@ -618,11 +616,14 @@
   },
   {
     "id": 15,
-    "title": "Blessed assurance, Jesus is mine!",
+    "title": "9.9.9.9.",
     "author": "Fanny J. Crosby (1820-1915)",
-    "meter": "9.9.9.9.",
+    "meter": "",
     "tuneName": "R.S. No. 417",
     "verses": [
+      [
+        "9.9.9.9."
+      ],
       [
         "Blessed assurance, Jesus is mine!",
         "O, what a foretaste of glory divine!",
@@ -652,14 +653,11 @@
   },
   {
     "id": 16,
-    "title": "L.M.D.",
+    "title": "Blessed be the fountain of blood,",
     "author": "",
-    "meter": "",
+    "meter": "L.M.D.",
     "tuneName": "R.S. No. 104",
     "verses": [
-      [
-        "L.M.D."
-      ],
       [
         "Blessed be the fountain of blood,",
         "To a world of sinners revealed;",
@@ -701,13 +699,12 @@
   },
   {
     "id": 17,
-    "title": "Emma M. Johnston",
-    "author": "",
+    "title": "7.7.7.3.7.7.7.3. and chorus",
+    "author": "Emma M. Johnston",
     "meter": "",
     "tuneName": "R.S. No. 92",
     "verses": [
       [
-        "Emma M. Johnston",
         "7.7.7.3.7.7.7.3. and chorus"
       ],
       [
@@ -794,11 +791,14 @@
   },
   {
     "id": 19,
-    "title": "Christ has for sin atonement made,",
+    "title": "8.7.8.7.",
     "author": "Elisha A. Hoffman (1839-1929)",
-    "meter": "8.7.8.7.",
+    "meter": "",
     "tuneName": "R.S. No. 103",
     "verses": [
+      [
+        "8.7.8.7."
+      ],
       [
         "Christ has for sin atonement made,",
         "What a wonderful Saviour,",
@@ -834,11 +834,14 @@
   },
   {
     "id": 20,
-    "title": "Christ is the Saviour of sinners,",
+    "title": "8.7.8.7.",
     "author": "Hayman Wreford (19th Cent.)",
-    "meter": "8.7.8.7.",
+    "meter": "",
     "tuneName": "R.S. No. 10",
     "verses": [
+      [
+        "8.7.8.7."
+      ],
       [
         "Christ is the Saviour of sinners,",
         "Christ is the Saviour for me,",
@@ -918,11 +921,14 @@
   },
   {
     "id": 22,
-    "title": "Christ the Saviour of sinners came",
+    "title": "8.6.8.6.6.6.8.6.",
     "author": "Inglis Fleming (1859-1955)",
-    "meter": "8.6.8.6.6.6.8.6.",
+    "meter": "",
     "tuneName": "R.S. No. 177",
     "verses": [
+      [
+        "8.6.8.6.6.6.8.6."
+      ],
       [
         "Christ the Saviour of sinners came",
         "Into the world to save;",
@@ -1000,11 +1006,14 @@
   },
   {
     "id": 24,
-    "title": "Come, every soul by sin oppressed,",
+    "title": "8.6.8.6.8.5.8.5.",
     "author": "John H. Stockton (1813-77)",
-    "meter": "8.6.8.6.8.5.8.5.",
+    "meter": "",
     "tuneName": "R.S. No. 196",
     "verses": [
+      [
+        "8.6.8.6.8.5.8.5."
+      ],
       [
         "Come, every soul by sin oppressed,",
         "There's mercy with the Lord;",
@@ -1034,11 +1043,14 @@
   },
   {
     "id": 25,
-    "title": "Come! hear the gospel sound,",
+    "title": "6.4.6.4.6.6.6.4.",
     "author": "George W. Frazer (1840-96)",
-    "meter": "6.4.6.4.6.6.6.4.",
+    "meter": "",
     "tuneName": "R.S. No. 569",
     "verses": [
+      [
+        "6.4.6.4.6.6.6.4."
+      ],
       [
         "Come! hear the gospel sound,",
         "Yet there is room!",
@@ -1085,11 +1097,14 @@
   },
   {
     "id": 26,
-    "title": "\"Come,\" is the sweet invitation of grace;",
+    "title": "10.10.10.10.",
     "author": "",
-    "meter": "10.10.10.10.",
+    "meter": "",
     "tuneName": "R.S. No. 671",
     "verses": [
+      [
+        "10.10.10.10."
+      ],
       [
         "\"Come,\" is the sweet invitation of grace;",
         "Come unto Jesus, the soul's resting place;",
@@ -1171,14 +1186,11 @@
   },
   {
     "id": 28,
-    "title": "L.M.D.",
+    "title": "Come sing my soul, and praise the Lord,",
     "author": "Daniel W. Whittle (1840-1901)",
-    "meter": "",
+    "meter": "L.M.D.",
     "tuneName": "B.H.B. No. 335",
     "verses": [
-      [
-        "L.M.D."
-      ],
       [
         "Come sing my soul, and praise the Lord,",
         "Who hath redeemed thee by His blood,",
@@ -1220,11 +1232,14 @@
   },
   {
     "id": 29,
-    "title": "Come, sinners, behold what Jesus has done,",
+    "title": "10.8.10.8.",
     "author": "J.M. Whyte (19th Cent.)",
-    "meter": "10.8.10.8.",
+    "meter": "",
     "tuneName": "R.S. No. 83",
     "verses": [
+      [
+        "10.8.10.8."
+      ],
       [
         "Come, sinners, behold what Jesus has done,",
         "Behold how He suffered for thee:",
@@ -1294,11 +1309,14 @@
   },
   {
     "id": 31,
-    "title": "Come to the Saviour,",
+    "title": "5.5.8.6.7.9.",
     "author": "",
-    "meter": "5.5.8.6.7.9.",
+    "meter": "",
     "tuneName": "R.S. No. 226",
     "verses": [
+      [
+        "5.5.8.6.7.9."
+      ],
       [
         "Come to the Saviour,",
         "come to the Saviour,",
@@ -1451,11 +1469,14 @@
   },
   {
     "id": 35,
-    "title": "Down from the glory the Saviour came,",
+    "title": "9.9.9.5.",
     "author": "",
-    "meter": "9.9.9.5.",
+    "meter": "",
     "tuneName": "S.S. No. 427",
     "verses": [
+      [
+        "9.9.9.5."
+      ],
       [
         "Down from the glory the Saviour came,",
         "Down to the cross and the death of shame;",
@@ -1576,12 +1597,13 @@
   },
   {
     "id": 38,
-    "title": "What object meets mine eyes",
+    "title": "From Salem's gates, advancing slow,",
     "author": "William Batty (18th Cent.)",
     "meter": "P.M.",
     "tuneName": "",
     "verses": [
       [
+        "From Salem's gates, advancing slow,",
         "What object meets mine eyes",
         "What means yon majesty of woe;",
         "What mean yon mingled cries"
@@ -1615,11 +1637,14 @@
   },
   {
     "id": 39,
-    "title": "From whence this fear and unbelief,",
+    "title": "8.8.6.8.8.6.",
     "author": "Augustus M. Toplady (1740-78)",
-    "meter": "8.8.6.8.8.6.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.8.6.8.8.6."
+      ],
       [
         "From whence this fear and unbelief,",
         "If God, my Father, put to grief",
@@ -1701,12 +1726,13 @@
   },
   {
     "id": 41,
-    "title": "To a world by sin undone.",
+    "title": "God in mercy sent His Son",
     "author": "Hannah K. Burlingham (1842-1901)",
     "meter": "8.7.8.7.D.",
     "tuneName": "R.S. No. 455",
     "verses": [
       [
+        "God in mercy sent His Son",
         "To a world by sin undone.",
         "Jesus Christ was crucified,",
         "'Twas for sinners Jesus died."
@@ -1814,11 +1840,14 @@
   },
   {
     "id": 44,
-    "title": "God so loved the world that scorned Him,",
+    "title": "8.5.8.5.",
     "author": "",
-    "meter": "8.5.8.5.",
+    "meter": "",
     "tuneName": "S.S. No. 669",
     "verses": [
+      [
+        "8.5.8.5."
+      ],
       [
         "God so loved the world that scorned Him,",
         "That He sent His Son;",
@@ -1860,11 +1889,14 @@
   },
   {
     "id": 45,
-    "title": "Hark! sinner, hark, we have tidings so true;",
+    "title": "10.10.10.12.",
     "author": "",
-    "meter": "10.10.10.12.",
+    "meter": "",
     "tuneName": "R.S. No. 40",
     "verses": [
+      [
+        "10.10.10.12."
+      ],
       [
         "Hark! sinner, hark, we have tidings so true;",
         "Tidings of pardon and blessing for you!",
@@ -1900,11 +1932,14 @@
   },
   {
     "id": 46,
-    "title": "Hark, sinner, while God from on high doth entreat thee,",
+    "title": "12.11.12.11.",
     "author": "John B. Hague (19th Cent.)",
-    "meter": "12.11.12.11.",
+    "meter": "",
     "tuneName": "R.S. No. 249",
     "verses": [
+      [
+        "12.11.12.11."
+      ],
       [
         "Hark, sinner, while God from on high doth entreat thee,",
         "And warnings with accents of mercy doth blend;",
@@ -1938,11 +1973,14 @@
   },
   {
     "id": 47,
-    "title": "Hark! the gospel news is sounding,",
+    "title": "8.7.8.7.4.7.",
     "author": "Hugh Bourne (1772-1852)",
-    "meter": "8.7.8.7.4.7.",
+    "meter": "",
     "tuneName": "R.S. No. 212",
     "verses": [
+      [
+        "8.7.8.7.4.7."
+      ],
       [
         "Hark! the gospel news is sounding,",
         "Christ has suffered on the tree;",
@@ -2077,15 +2115,11 @@
   },
   {
     "id": 50,
-    "title": "Ida L. Reed",
-    "author": "",
-    "meter": "",
+    "title": "Have you found the Saviour precious,",
+    "author": "Ida L. Reed",
+    "meter": "8.7.8.7.D.",
     "tuneName": "",
     "verses": [
-      [
-        "Ida L. Reed",
-        "8.7.8.7.D."
-      ],
       [
         "Have you found the Saviour precious,",
         "More than all on earth beside,",
@@ -2161,11 +2195,14 @@
   },
   {
     "id": 52,
-    "title": "Have you trusted Jesus and His saving power,",
+    "title": "11.9.11.9.",
     "author": "Elisha A. Hoffman (1839-1929)",
-    "meter": "11.9.11.9.",
+    "meter": "",
     "tuneName": "R.S. No. 171",
     "verses": [
+      [
+        "11.9.11.9."
+      ],
       [
         "Have you trusted Jesus and His saving power,",
         "Are you washed in the blood of the Lamb?",
@@ -2195,11 +2232,14 @@
   },
   {
     "id": 53,
-    "title": "He tells me words whereby I'm saved,",
+    "title": "8.6.8.6.8.8.",
     "author": "",
-    "meter": "8.6.8.6.8.8.",
+    "meter": "",
     "tuneName": "R.S. No. 181",
     "verses": [
+      [
+        "8.6.8.6.8.8."
+      ],
       [
         "He tells me words whereby I'm saved,",
         "He points to something done,",
@@ -2246,14 +2286,11 @@
   },
   {
     "id": 54,
-    "title": "L. H. Parthemore",
-    "author": "",
+    "title": "Hear the Saviour at the door, let Him in",
+    "author": "L. H. Parthemore",
     "meter": "",
     "tuneName": "R.S. No. 188",
     "verses": [
-      [
-        "L. H. Parthemore"
-      ],
       [
         "Hear the Saviour at the door, let Him in",
         "Let Him in, let Him in.",
@@ -2329,12 +2366,16 @@
   },
   {
     "id": 56,
-    "title": "He on the cross must die,",
+    "title": "6.6.6.6.8.8.",
     "author": "Albert Midlane (1825-1909)",
-    "meter": "6.6.6.6.8.8.",
+    "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "6.6.6.6.8.8."
+      ],
+      [
+        "Himself He could not save,",
         "He on the cross must die,",
         "Or mercy cannot come",
         "To ruined sinners nigh:",
@@ -2412,11 +2453,14 @@
   },
   {
     "id": 58,
-    "title": "How wondrous a Saviour is God's blessed Son,",
+    "title": "11.11.11.11.",
     "author": "L. H. Farrell (19th Cent.)",
-    "meter": "11.11.11.11.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "11.11.11.11."
+      ],
       [
         "How wondrous a Saviour is God's blessed Son,",
         "How great and eternal the work He has done!",
@@ -2453,11 +2497,14 @@
   },
   {
     "id": 59,
-    "title": "I am not skilled to understand,",
+    "title": "8.8.8.7.",
     "author": "Dora Greenwell (1821-82)",
-    "meter": "8.8.8.7.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.8.8.7."
+      ],
       [
         "I am not skilled to understand,",
         "What God hath willed, what God hath planned;",
@@ -2494,12 +2541,16 @@
   },
   {
     "id": 60,
-    "title": "Trusting only Thee!",
+    "title": "8.5.8.3.",
     "author": "Frances R. Havergal (1836-79)",
-    "meter": "8.5.8.3.",
+    "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "8.5.8.3."
+      ],
+      [
+        "I am trusting Thee, Lord Jesus,",
         "Trusting only Thee!",
         "Trusting Thee for full salvation,",
         "Great and free."
@@ -2534,15 +2585,11 @@
   },
   {
     "id": 61,
-    "title": "C.A. Tydeman",
-    "author": "",
-    "meter": "",
+    "title": "I have a Friend whose faithful love",
+    "author": "C.A. Tydeman",
+    "meter": "P.M.",
     "tuneName": "",
     "verses": [
-      [
-        "C.A. Tydeman",
-        "P.M."
-      ],
       [
         "I have a Friend whose faithful love",
         "Is more than all the world to me,",
@@ -2696,12 +2743,13 @@
   },
   {
     "id": 65,
-    "title": "I heard an old, old story,",
+    "title": "(c)",
     "author": "© Copyright 1939 by E.M. Bartlett. Copyright Renewed 1966 by Mrs. E.M. Bartlett. Assigned to Albert E. Brumley & Sons/SESAC (admin. by ClearBox Rights). All rights reserved.",
     "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "(c)",
         "I heard an old, old story,",
         "How a Saviour came from glory,",
         "How He gave His life on Calvary",
@@ -2786,14 +2834,11 @@
   },
   {
     "id": 67,
-    "title": "Ellen H. Willis",
-    "author": "",
+    "title": "I left it all with Jesus, long ago;",
+    "author": "Ellen H. Willis",
     "meter": "",
     "tuneName": "",
     "verses": [
-      [
-        "Ellen H. Willis"
-      ],
       [
         "I left it all with Jesus, long ago;",
         "All my sins I brought Him, and my woe.",
@@ -2932,11 +2977,14 @@
   },
   {
     "id": 70,
-    "title": "I once was a stranger To grace and to God,",
+    "title": "11.11.11.11.",
     "author": "R. Murray McCheyne (1813-43)",
-    "meter": "11.11.11.11.",
+    "meter": "",
     "tuneName": "R.S. No. 351, B.H.B. No. 96",
     "verses": [
+      [
+        "11.11.11.11."
+      ],
       [
         "I once was a stranger To grace and to God,",
         "I knew not my danger And felt not my load;",
@@ -3019,13 +3067,12 @@
   },
   {
     "id": 72,
-    "title": "Charles J. Butler",
-    "author": "",
+    "title": "10.8.10.8.",
+    "author": "Charles J. Butler",
     "meter": "",
     "tuneName": "R.S. No. 614",
     "verses": [
       [
-        "Charles J. Butler",
         "10.8.10.8."
       ],
       [
@@ -3212,12 +3259,13 @@
   },
   {
     "id": 76,
-    "title": "I would love to tell you what I think of Jesus",
+    "title": "(c)",
     "author": "Copyright © 1932 New Spring Publishing Inc. (ASCAP) (adm. at CapitolCMGPublishing.com) All rights reserved. Used by permission. International Copyright Secured.",
     "meter": "P.M.",
     "tuneName": "",
     "verses": [
       [
+        "(c)",
         "I would love to tell you what I think of Jesus",
         "Since I found in Him a friend so strong and true;",
         "I would tell you how He changed my life completely,",
@@ -3246,13 +3294,12 @@
   },
   {
     "id": 77,
-    "title": "Ina D. Ogdon",
-    "author": "",
+    "title": "11.11.11.11.",
+    "author": "Ina D. Ogdon",
     "meter": "",
     "tuneName": "R.S. No. 809",
     "verses": [
       [
-        "Ina D. Ogdon",
         "11.11.11.11."
       ],
       [
@@ -3341,15 +3388,11 @@
   },
   {
     "id": 79,
-    "title": "Mrs. C.H. Morris",
-    "author": "",
-    "meter": "",
+    "title": "In fancy I stood by the shore, one day,",
+    "author": "Mrs. C.H. Morris",
+    "meter": "P.M.",
     "tuneName": "",
     "verses": [
-      [
-        "Mrs. C.H. Morris",
-        "P.M."
-      ],
       [
         "In fancy I stood by the shore, one day,",
         "Of the beautiful murmuring sea;",
@@ -3441,11 +3484,14 @@
   },
   {
     "id": 81,
-    "title": "In tenderness He sought me,",
+    "title": "7.6.7.6.8.8.",
     "author": "W. Spencer Walton (19th Cent.)",
-    "meter": "7.6.7.6.8.8.",
+    "meter": "",
     "tuneName": "R.S. No. 141",
     "verses": [
+      [
+        "7.6.7.6.8.8."
+      ],
       [
         "In tenderness He sought me,",
         "Weary and sick with sin,",
@@ -3497,15 +3543,11 @@
   },
   {
     "id": 82,
-    "title": "Annie L. James",
-    "author": "",
-    "meter": "",
+    "title": "Is there a heart that is waiting,",
+    "author": "Annie L. James",
+    "meter": "P.M.",
     "tuneName": "",
     "verses": [
-      [
-        "Annie L. James",
-        "P.M."
-      ],
       [
         "Is there a heart that is waiting,",
         "Longing for pardon today?",
@@ -3582,15 +3624,11 @@
   },
   {
     "id": 84,
-    "title": "Ben H. Price",
-    "author": "",
-    "meter": "",
+    "title": "It was alone the Saviour prayed",
+    "author": "Ben H. Price",
+    "meter": "C.M.",
     "tuneName": "",
     "verses": [
-      [
-        "Ben H. Price",
-        "C.M."
-      ],
       [
         "It was alone the Saviour prayed",
         "In dark Gethsemane;",
@@ -3699,11 +3737,14 @@
   },
   {
     "id": 87,
-    "title": "Jesus, I will trust Thee, trust Thee with my soul,",
+    "title": "11.11.11.11.",
     "author": "Mary J. Walker (1816-78)",
-    "meter": "11.11.11.11.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "11.11.11.11."
+      ],
       [
         "Jesus, I will trust Thee, trust Thee with my soul,",
         "Guilty, lost and helpless; Thou canst make me whole.",
@@ -3815,11 +3856,14 @@
   },
   {
     "id": 90,
-    "title": "Jesus, my Saviour, to Bethlehem came,",
+    "title": "10.10.10.6.",
     "author": "",
-    "meter": "10.10.10.6.",
+    "meter": "",
     "tuneName": "R.S. No. 115",
     "verses": [
+      [
+        "10.10.10.6."
+      ],
       [
         "Jesus, my Saviour, to Bethlehem came,",
         "Born in a manger to sorrow and shame;",
@@ -3855,15 +3899,11 @@
   },
   {
     "id": 91,
-    "title": "R. D. Edwards",
-    "author": "",
-    "meter": "",
+    "title": "Jesus! Saviour! Precious name",
+    "author": "R. D. Edwards",
+    "meter": "P.M.",
     "tuneName": "",
     "verses": [
-      [
-        "R. D. Edwards",
-        "P.M."
-      ],
       [
         "Jesus! Saviour! Precious name",
         "Of the Son of God, Who came",
@@ -4091,11 +4131,14 @@
   },
   {
     "id": 96,
-    "title": "Look to the Saviour on Calvary's tree,",
+    "title": "9.9.9.5.",
     "author": "",
-    "meter": "9.9.9.5.",
+    "meter": "",
     "tuneName": "C.H.F. No. 56",
     "verses": [
+      [
+        "9.9.9.5."
+      ],
       [
         "Look to the Saviour on Calvary's tree,",
         "See how He suffered for thee and for me,",
@@ -4201,11 +4244,14 @@
   },
   {
     "id": 99,
-    "title": "\"Man of Sorrows,\" what a Name",
+    "title": "B.H.B. No. 147 7.7.7.8.",
     "author": "Philip R Bliss (1838-76)",
     "meter": "",
     "tuneName": "R.S. No. 89",
     "verses": [
+      [
+        "B.H.B. No. 147 7.7.7.8."
+      ],
       [
         "\"Man of Sorrows,\" what a Name",
         "For the Son of God, Who came",
@@ -4248,14 +4294,11 @@
   },
   {
     "id": 100,
-    "title": "C.M.D.",
+    "title": "My faith has found a resting place,",
     "author": "Lidie H. Edmunds (19th Cent.)",
-    "meter": "",
+    "meter": "C.M.D.",
     "tuneName": "",
     "verses": [
-      [
-        "C.M.D."
-      ],
       [
         "My faith has found a resting place,",
         "Not in device or creed;",
@@ -4291,11 +4334,14 @@
   },
   {
     "id": 101,
-    "title": "Nailed upon Golgotha's tree,",
+    "title": "7.7.7.7.",
     "author": "Henry H. Milman (1791-1868)",
-    "meter": "7.7.7.7.",
+    "meter": "",
     "tuneName": "S.S. No. 227",
     "verses": [
+      [
+        "7.7.7.7."
+      ],
       [
         "Nailed upon Golgotha's tree,",
         "Faint and bleeding. Who is He",
@@ -4366,11 +4412,14 @@
   },
   {
     "id": 103,
-    "title": "Nor silver nor gold hath obtained my redemption,",
+    "title": "James M. Gray (1851-1935)",
     "author": "C.H.F. 124",
     "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "James M. Gray (1851-1935)"
+      ],
       [
         "Nor silver nor gold hath obtained my redemption,",
         "No riches of earth could have saved my poor soul;",
@@ -4406,14 +4455,11 @@
   },
   {
     "id": 104,
-    "title": "C.M.D.",
+    "title": "Not all the gold of all the world",
     "author": "Albert Midlane (1825-1909)",
-    "meter": "",
+    "meter": "C.M.D.",
     "tuneName": "S.S. No. 129",
     "verses": [
-      [
-        "C.M.D."
-      ],
       [
         "Not all the gold of all the world",
         "And all its wealth combined,",
@@ -4495,11 +4541,14 @@
   },
   {
     "id": 106,
-    "title": "Nothing either great or small;",
+    "title": "8.5.8.5.8.5.",
     "author": "James Proctor (19th Cent.)",
-    "meter": "8.5.8.5.8.5.",
+    "meter": "",
     "tuneName": "C.H.F. No. 128",
     "verses": [
+      [
+        "8.5.8.5.8.5."
+      ],
       [
         "Nothing either great or small;",
         "Nothing, sinner, no;",
@@ -4541,12 +4590,13 @@
   },
   {
     "id": 107,
-    "title": "C.M.D.",
-    "author": "B.E., (arr. 19th cent.)",
+    "title": "B.E., (arr. 19th cent.)",
+    "author": "",
     "meter": "",
     "tuneName": "B.H.B. No. 178",
     "verses": [
       [
+        "B.E., (arr. 19th cent.)",
         "C.M.D."
       ],
       [
@@ -4751,11 +4801,14 @@
   },
   {
     "id": 112,
-    "title": "O, how sweet the glorious message, Simple faith may claim;",
+    "title": "Albert B. Simpson (1843-1919)",
     "author": "C.H.F. 329",
     "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "Albert B. Simpson (1843-1919)"
+      ],
       [
         "O, how sweet the glorious message, Simple faith may claim;",
         "Yesterday, today, forever, Jesus is the same.",
@@ -4797,11 +4850,14 @@
   },
   {
     "id": 113,
-    "title": "O, I have got good news for you",
+    "title": "8.8.8.8.8.8.",
     "author": "Old Revival Hymn",
-    "meter": "8.8.8.8.8.8.",
+    "meter": "",
     "tuneName": "R.S. No. 307",
     "verses": [
+      [
+        "8.8.8.8.8.8."
+      ],
       [
         "O, I have got good news for you",
         "A story wonderful and true;",
@@ -4843,11 +4899,14 @@
   },
   {
     "id": 114,
-    "title": "O say, hast thou been to the Saviour,",
+    "title": "9.8.9.8.",
     "author": "John Vickers",
-    "meter": "9.8.9.8.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "9.8.9.8."
+      ],
       [
         "O say, hast thou been to the Saviour,",
         "Who life everlasting will give",
@@ -4884,14 +4943,11 @@
   },
   {
     "id": 115,
-    "title": "C.M.D.",
+    "title": "O shall I be amongst that throng,",
     "author": "M. S. Sullivan (19th Cent)",
-    "meter": "",
+    "meter": "C.M.D.",
     "tuneName": "",
     "verses": [
-      [
-        "C.M.D."
-      ],
       [
         "O shall I be amongst that throng,",
         "All clothed in robes of white,",
@@ -4933,15 +4989,11 @@
   },
   {
     "id": 116,
-    "title": "T. C. O'Kane",
-    "author": "",
-    "meter": "",
+    "title": "O, sing of Jesus, Lamb of God,",
+    "author": "T. C. O'Kane",
+    "meter": "C.M.",
     "tuneName": "R.S. No. 116",
     "verses": [
-      [
-        "T. C. O'Kane",
-        "C.M."
-      ],
       [
         "O, sing of Jesus, Lamb of God,",
         "Who died on Calvary,",
@@ -4971,13 +5023,12 @@
   },
   {
     "id": 117,
-    "title": "Virginia W. Moyer",
-    "author": "",
+    "title": "11.8.11.8.",
+    "author": "Virginia W. Moyer",
     "meter": "",
     "tuneName": "R.S. No. 230",
     "verses": [
       [
-        "Virginia W. Moyer",
         "11.8.11.8."
       ],
       [
@@ -5015,12 +5066,16 @@
   },
   {
     "id": 118,
-    "title": "O soul, are you weary and troubled?",
+    "title": "Helen H. Lemmel (1864-1961)",
     "author": "C.H.F. 337",
     "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "Helen H. Lemmel (1864-1961)"
+      ],
+      [
+        "(c)",
         "O soul, are you weary and troubled?",
         "No light in the darkness you see?",
         "There's light for a look at the Saviour,",
@@ -5049,11 +5104,14 @@
   },
   {
     "id": 119,
-    "title": "O sweet is the story of Jesus,",
+    "title": "9.8.9.8.",
     "author": "Charles H. Gabriel (1856-1932)",
-    "meter": "9.8.9.8.",
+    "meter": "",
     "tuneName": "R.S. No. 127",
     "verses": [
+      [
+        "9.8.9.8."
+      ],
       [
         "O sweet is the story of Jesus,",
         "The wonderful Saviour of men",
@@ -5083,11 +5141,14 @@
   },
   {
     "id": 120,
-    "title": "O, teach me what it meaneth,",
+    "title": "7.6.7.6.",
     "author": "Lucy A. Bennett (1850-1927)",
-    "meter": "7.6.7.6.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "7.6.7.6."
+      ],
       [
         "O, teach me what it meaneth,",
         "That cross uplifted high,",
@@ -5144,11 +5205,14 @@
   },
   {
     "id": 121,
-    "title": "O, the love of Christ is boundless,",
+    "title": "8.7.8.7.8.7.8.7.",
     "author": "Hannah K. Burlingham (1842-1901)",
-    "meter": "8.7.8.7.8.7.8.7.",
+    "meter": "",
     "tuneName": "C.H.F. No. 139",
     "verses": [
+      [
+        "8.7.8.7.8.7.8.7."
+      ],
       [
         "O, the love of Christ is boundless,",
         "Broad and long, and deep and high!",
@@ -5234,14 +5298,11 @@
   },
   {
     "id": 123,
-    "title": "C.M.D.",
+    "title": "O, what a gift the Father gave",
     "author": "Albert Midlane (1825-1909)",
-    "meter": "",
+    "meter": "C.M.D.",
     "tuneName": "",
     "verses": [
-      [
-        "C.M.D."
-      ],
       [
         "O, what a gift the Father gave",
         "When He bestowed His Son",
@@ -5368,11 +5429,15 @@
   },
   {
     "id": 126,
-    "title": "O, what a Saviour, that He died for me!",
+    "title": "James McGranahan (1840-1907)",
     "author": "B.H.B. No. 209",
-    "meter": "10.10.10.6.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "James McGranahan (1840-1907)",
+        "10.10.10.6."
+      ],
       [
         "O, what a Saviour, that He died for me!",
         "From condemnation He hath made me free;",
@@ -5491,11 +5556,14 @@
   },
   {
     "id": 129,
-    "title": "O would you know your sins forgiven?",
+    "title": "8.8.8.8.8.8.8.3.",
     "author": "",
-    "meter": "8.8.8.8.8.8.8.3.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.8.8.8.8.8.8.3."
+      ],
       [
         "O would you know your sins forgiven?",
         "Christ is all.",
@@ -5552,11 +5620,14 @@
   },
   {
     "id": 130,
-    "title": "Oh, turn ye, oh turn ye, for why will ye die,",
+    "title": "11.11.11.11.",
     "author": "Josiah Hopkins (1786-1862)",
-    "meter": "11.11.11.11.",
+    "meter": "",
     "tuneName": "R.S. No. 351",
     "verses": [
+      [
+        "11.11.11.11."
+      ],
       [
         "Oh, turn ye, oh turn ye, for why will ye die,",
         "When God in great mercy is coming so nigh?",
@@ -5635,13 +5706,12 @@
   },
   {
     "id": 132,
-    "title": "W. McK. Darwood",
-    "author": "",
+    "title": "L.M. and chorus",
+    "author": "W. McK. Darwood",
     "meter": "",
     "tuneName": "R.S. No. 153",
     "verses": [
       [
-        "W. McK. Darwood",
         "L.M. and chorus"
       ],
       [
@@ -5763,15 +5833,11 @@
   },
   {
     "id": 135,
-    "title": "Henrietta E. Blair",
-    "author": "",
-    "meter": "",
+    "title": "On the happy golden shore,",
+    "author": "Henrietta E. Blair",
+    "meter": "P.M.",
     "tuneName": "",
     "verses": [
-      [
-        "Henrietta E. Blair",
-        "P.M."
-      ],
       [
         "On the happy golden shore,",
         "Where the faithful part no more,",
@@ -5908,11 +5974,14 @@
   },
   {
     "id": 138,
-    "title": "One there is Who loves thee, Waiting still for thee;",
+    "title": "6.5.6.5.",
     "author": "H. C. Ayres (19th Cent.)",
-    "meter": "6.5.6.5.",
+    "meter": "",
     "tuneName": "R.S. No. 117",
     "verses": [
+      [
+        "6.5.6.5."
+      ],
       [
         "One there is Who loves thee, Waiting still for thee;",
         "Canst thou yet reject Him? None so kind as He!",
@@ -5940,12 +6009,13 @@
   },
   {
     "id": 139,
-    "title": "7.6.7.6. and chorus",
+    "title": "Fanny J. Crosby (1820-1915)",
     "author": "R.S. No. 273 S.S. No. 448",
     "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "Fanny J. Crosby (1820-1915)",
         "7.6.7.6. and chorus"
       ],
       [
@@ -5985,14 +6055,11 @@
   },
   {
     "id": 140,
-    "title": "S.M.D.",
+    "title": "Our sins on Christ were laid;",
     "author": "John Fawcett (1739-1817)",
-    "meter": "",
+    "meter": "S.M.D.",
     "tuneName": "",
     "verses": [
-      [
-        "S.M.D."
-      ],
       [
         "Our sins on Christ were laid;",
         "He bore the mighty load;",
@@ -6028,14 +6095,11 @@
   },
   {
     "id": 141,
-    "title": "C.M.D.",
+    "title": "Out of Christ, without a Saviour,",
     "author": "Frank M. Davis (1839-96) and R. F. Beveridge (19th Cent.)",
-    "meter": "",
+    "meter": "C.M.D.",
     "tuneName": "R.S. No. 240",
     "verses": [
-      [
-        "C.M.D."
-      ],
       [
         "Out of Christ, without a Saviour,",
         "O! can it, can it be",
@@ -6170,11 +6234,14 @@
   },
   {
     "id": 144,
-    "title": "Passing onward, quickly passing;",
+    "title": "8.7.8.7.8.7.",
     "author": "Albert Midlane (1825-1909)",
-    "meter": "8.7.8.7.8.7.",
+    "meter": "",
     "tuneName": "R.S. No. 465",
     "verses": [
+      [
+        "8.7.8.7.8.7."
+      ],
       [
         "Passing onward, quickly passing;",
         "But I ask you whither bound?",
@@ -6253,11 +6320,14 @@
   },
   {
     "id": 146,
-    "title": "Precious, precious blood of Jesus,",
+    "title": "8.5.8.3.",
     "author": "Frances R. Havergal (1836-79)",
-    "meter": "8.5.8.3.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.5.8.3."
+      ],
       [
         "Precious, precious blood of Jesus,",
         "Shed on Calvary,",
@@ -6294,15 +6364,11 @@
   },
   {
     "id": 147,
-    "title": "A. J. Pollock",
-    "author": "",
-    "meter": "",
+    "title": "Ransomed saints, your voices raise,",
+    "author": "A. J. Pollock",
+    "meter": "P.M.",
     "tuneName": "",
     "verses": [
-      [
-        "A. J. Pollock",
-        "P.M."
-      ],
       [
         "Ransomed saints, your voices raise,",
         "Jesus saves, Jesus saves!",
@@ -6349,13 +6415,12 @@
   },
   {
     "id": 148,
-    "title": "S. M. Sayford",
-    "author": "",
+    "title": "9.8.9.8. and chorus",
+    "author": "S. M. Sayford",
     "meter": "",
     "tuneName": "C.H.F. No. 150",
     "verses": [
       [
-        "S. M. Sayford",
         "9.8.9.8. and chorus"
       ],
       [
@@ -6433,11 +6498,14 @@
   },
   {
     "id": 150,
-    "title": "Rock of Ages! cleft for me,",
+    "title": "7.7.7.7.7.7.",
     "author": "Augustus M. Toplady (1740-78)",
-    "meter": "7.7.7.7.7.7.",
+    "meter": "",
     "tuneName": "R.S. No. 164; B.H.B. No. 350",
     "verses": [
+      [
+        "7.7.7.7.7.7."
+      ],
       [
         "Rock of Ages! cleft for me,",
         "Let me hide myself in Thee!",
@@ -6606,11 +6674,14 @@
   },
   {
     "id": 154,
-    "title": "She only touched the hem of His garment",
+    "title": "10.6.10.6.",
     "author": "",
-    "meter": "10.6.10.6.",
+    "meter": "",
     "tuneName": "R.S. No. 140",
     "verses": [
+      [
+        "10.6.10.6."
+      ],
       [
         "She only touched the hem of His garment",
         "As to His side she stole,",
@@ -6634,12 +6705,13 @@
   },
   {
     "id": 155,
-    "title": "This world has been a heaven to me;",
+    "title": "Since Christ my soul from sin set free,",
     "author": "Charles J. Butler (19th Cent.)",
     "meter": "L.M.",
     "tuneName": "R.S. No. 368",
     "verses": [
       [
+        "Since Christ my soul from sin set free,",
         "This world has been a heaven to me;",
         "And, 'mid earth's sorrow and its woe,",
         "'Tis heaven my Jesus here to know."
@@ -6707,11 +6779,14 @@
   },
   {
     "id": 157,
-    "title": "Sing them over again to me,",
+    "title": "8.6.8.6.6.6.8.6.",
     "author": "Philip P. Bliss (1838-76)",
-    "meter": "8.6.8.6.6.6.8.6.",
+    "meter": "",
     "tuneName": "R.S. No. 177",
     "verses": [
+      [
+        "8.6.8.6.6.6.8.6."
+      ],
       [
         "Sing them over again to me,",
         "Wonderful words of life.",
@@ -6791,11 +6866,14 @@
   },
   {
     "id": 159,
-    "title": "Sinner, how thy heart is troubled!",
+    "title": "8.7.8.7.7.7.7.",
     "author": "Fanny J. Crosby (1820-1915)",
-    "meter": "8.7.8.7.7.7.7.",
+    "meter": "",
     "tuneName": "R.S. No. 124",
     "verses": [
+      [
+        "8.7.8.7.7.7.7."
+      ],
       [
         "Sinner, how thy heart is troubled!",
         "God is coming very near;",
@@ -6879,11 +6957,14 @@
   },
   {
     "id": 161,
-    "title": "Sinners, Jesus will receive,",
+    "title": "7.7.7.7.",
     "author": "Erdmann Neumeister (1671-1756)",
-    "meter": "7.7.7.7.",
+    "meter": "",
     "tuneName": "C.H.F. No. 158",
     "verses": [
+      [
+        "7.7.7.7."
+      ],
       [
         "Sinners, Jesus will receive,",
         "Sound this word of grace to all",
@@ -6953,11 +7034,14 @@
   },
   {
     "id": 163,
-    "title": "Softly and tenderly Jesus is calling,",
+    "title": "11.7.11.7.",
     "author": "Will L. Thompson (1847-1909)",
-    "meter": "11.7.11.7.",
+    "meter": "",
     "tuneName": "R.S. No. 95",
     "verses": [
+      [
+        "11.7.11.7."
+      ],
       [
         "Softly and tenderly Jesus is calling,",
         "Calling for you and for me.",
@@ -7179,11 +7263,14 @@
   },
   {
     "id": 168,
-    "title": "Tell me the story of Jesus,",
+    "title": "8.7.8.7.8.7.8.7.",
     "author": "Fanny J. Crosby (1820-1915)",
-    "meter": "8.7.8.7.8.7.8.7.",
+    "meter": "",
     "tuneName": "R.S. No. 456",
     "verses": [
+      [
+        "8.7.8.7.8.7.8.7."
+      ],
       [
         "Tell me the story of Jesus,",
         "Write on my heart every word;",
@@ -7308,12 +7395,16 @@
   },
   {
     "id": 171,
-    "title": "Over land from sea to sea;",
+    "title": "S. Wesley Martin",
     "author": "Time R.S. No. 151",
     "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "S. Wesley Martin"
+      ],
+      [
+        "The Gospel bells are ringing",
         "Over land from sea to sea;",
         "Blessed news of free salvation",
         "Do they offer you and me.",
@@ -7363,12 +7454,18 @@
   },
   {
     "id": 172,
-    "title": "By power God's will hath done:",
+    "title": "6.6.6.6.8.8.",
     "author": "Hannah K. Burlingham (1842-1901)",
-    "meter": "6.6.6.6.8.8.",
+    "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "6.6.6.6.8.8."
+      ],
+      [
+        "The Gospel is of God",
+        "To magnify His Son,",
+        "For Jesus Christ our Lord,",
         "By power God's will hath done:",
         "By power He crushed the serpent's head,",
         "By power God raised Him from the dead."
@@ -7502,12 +7599,13 @@
   },
   {
     "id": 175,
-    "title": "A victim on the tree;",
-    "author": "The Lamb of God for sinners died,",
+    "title": "The Lamb of God for sinners died,",
+    "author": "",
     "meter": "C.M.",
     "tuneName": "R.S. No. 137",
     "verses": [
       [
+        "The Lamb of God for sinners died,",
         "A victim on the tree;",
         "He gave Himself a sacrifice,",
         "To set the guilty free."
@@ -7581,14 +7679,11 @@
   },
   {
     "id": 177,
-    "title": "L.M.D.",
+    "title": "The love of God is righteous love",
     "author": "Horatius Bonar (1808-89)",
-    "meter": "",
+    "meter": "L.M.D.",
     "tuneName": "R.S. No. 30",
     "verses": [
-      [
-        "L.M.D."
-      ],
       [
         "The love of God is righteous love",
         "Inscribed upon Golgotha's tree,",
@@ -7699,11 +7794,14 @@
   },
   {
     "id": 180,
-    "title": "The whole world was lost in the darkness of sin;",
+    "title": "R.S. No. 157",
     "author": "Philip P. Bliss (1838-76)",
     "meter": "",
     "tuneName": "C.H.F. No. 167",
     "verses": [
+      [
+        "R.S. No. 157"
+      ],
       [
         "The whole world was lost in the darkness of sin;",
         "The Light of the world is Jesus;",
@@ -7959,14 +8057,11 @@
   },
   {
     "id": 186,
-    "title": "W. A. Williams",
-    "author": "",
+    "title": "There is a story sweet to hear,",
+    "author": "W. A. Williams",
     "meter": "",
     "tuneName": "R.S. No. 107",
     "verses": [
-      [
-        "W. A. Williams"
-      ],
       [
         "There is a story sweet to hear,",
         "I love to tell it, too;",
@@ -8002,11 +8097,14 @@
   },
   {
     "id": 187,
-    "title": "There is forgiveness, God doth say,",
+    "title": "8.3.8.3.8.8.8.3.",
     "author": "John H. Burridge (19th Cent.)",
-    "meter": "8.3.8.3.8.8.8.3.",
+    "meter": "",
     "tuneName": "B.H.B. No. 39",
     "verses": [
+      [
+        "8.3.8.3.8.8.8.3."
+      ],
       [
         "There is forgiveness, God doth say,",
         "Through the blood, through the blood;",
@@ -8179,11 +8277,14 @@
   },
   {
     "id": 191,
-    "title": "There was One who was willing to die in my stead,",
+    "title": "12.9.12.9.",
     "author": "Carrie E. Break (1855-1934)",
-    "meter": "12.9.12.9.",
+    "meter": "",
     "tuneName": "R.S. No. 737",
     "verses": [
+      [
+        "12.9.12.9."
+      ],
       [
         "There was One who was willing to die in my stead,",
         "That a soul so unworthy might live,",
@@ -8310,13 +8411,12 @@
   },
   {
     "id": 194,
-    "title": "A. J. Hodge",
-    "author": "",
+    "title": "12.9.12.10.",
+    "author": "A. J. Hodge",
     "meter": "",
     "tuneName": "",
     "verses": [
       [
-        "A. J. Hodge",
         "12.9.12.10."
       ],
       [
@@ -8396,13 +8496,12 @@
   },
   {
     "id": 196,
-    "title": "J. B. Aitchison",
-    "author": "",
+    "title": "7.3.7.3.7.7.7.3.",
+    "author": "J. B. Aitchison",
     "meter": "",
     "tuneName": "R.S. No. 102",
     "verses": [
       [
-        "J. B. Aitchison",
         "7.3.7.3.7.7.7.3."
       ],
       [
@@ -8472,13 +8571,12 @@
   },
   {
     "id": 198,
-    "title": "Emma M. Johnston",
-    "author": "",
+    "title": "9.6.9.6.8.8.8.6.",
+    "author": "Emma M. Johnston",
     "meter": "",
     "tuneName": "R.S. No. 219",
     "verses": [
       [
-        "Emma M. Johnston",
         "9.6.9.6.8.8.8.6."
       ],
       [
@@ -8522,12 +8620,13 @@
   },
   {
     "id": 199,
-    "title": "They bound the hands of Jesus in the garden where He prayed;",
+    "title": "(c)",
     "author": "Written by Carl Ray Overholt. Copyright © 1959 Renewed 1987 PsalmSinger Music (admin. by Music Services, Inc.) All Rights Reserved. BMI. All Rights Reserved. Used By Permission.",
     "meter": "P.M.",
     "tuneName": "",
     "verses": [
       [
+        "(c)",
         "They bound the hands of Jesus in the garden where He prayed;",
         "They led Him through the streets in shame.",
         "They spat upon the Saviour, so pure and free from sin;",
@@ -8741,11 +8840,14 @@
   },
   {
     "id": 204,
-    "title": "Through the name of Jesus mercy flows today;",
+    "title": "11.9.11.9.",
     "author": "",
-    "meter": "11.9.11.9.",
+    "meter": "",
     "tuneName": "R.S. No. 285",
     "verses": [
+      [
+        "11.9.11.9."
+      ],
       [
         "Through the name of Jesus mercy flows today;",
         "Fount of loving kindness blest and free;",
@@ -8809,11 +8911,14 @@
   },
   {
     "id": 206,
-    "title": "Time is earnest, passing by,",
+    "title": "7.7.7.7.",
     "author": "James Montgomery",
-    "meter": "7.7.7.7.",
+    "meter": "",
     "tuneName": "R.S. No 262",
     "verses": [
+      [
+        "7.7.7.7."
+      ],
       [
         "Time is earnest, passing by,",
         "Death is earnest, drawing nigh,",
@@ -8850,13 +8955,12 @@
   },
   {
     "id": 207,
-    "title": "M. Fraser",
-    "author": "",
+    "title": "8.7.8.7.",
+    "author": "M. Fraser",
     "meter": "",
     "tuneName": "C.H.F. No. 192",
     "verses": [
       [
-        "M. Fraser",
         "8.7.8.7."
       ],
       [
@@ -9001,11 +9105,14 @@
   },
   {
     "id": 211,
-    "title": "'Tis the voice of Jehovah commands thee, awake!",
+    "title": "11.11.11.11.",
     "author": "",
-    "meter": "11.11.11.11.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "11.11.11.11."
+      ],
       [
         "'Tis the voice of Jehovah commands thee, awake!",
         "For time is fast passing, thy soul is at stake;",
@@ -9042,11 +9149,14 @@
   },
   {
     "id": 212,
-    "title": "Under the burden of guilt and care,",
+    "title": "9.8.9.8.",
     "author": "William Leslie",
-    "meter": "9.8.9.8.",
+    "meter": "",
     "tuneName": "R.S. No. 77",
     "verses": [
+      [
+        "9.8.9.8."
+      ],
       [
         "Under the burden of guilt and care,",
         "Many a spirit is grieving,",
@@ -9195,11 +9305,14 @@
   },
   {
     "id": 216,
-    "title": "Weeping will not save thee",
+    "title": "6.7.7.7.6.",
     "author": "Robert Lowry (1826-99)",
-    "meter": "6.7.7.7.6.",
+    "meter": "",
     "tuneName": "C.H.F. No. 193",
     "verses": [
+      [
+        "6.7.7.7.6."
+      ],
       [
         "Weeping will not save thee",
         "Though thy face were bathed in tears,",
@@ -9239,11 +9352,14 @@
   },
   {
     "id": 217,
-    "title": "We're travelling home to heaven above,",
+    "title": "8.6.8.6.8.8.8.6.",
     "author": "Richard Jukes (1804-67)",
-    "meter": "8.6.8.6.8.8.8.6.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.6.8.6.8.8.8.6."
+      ],
       [
         "We're travelling home to heaven above,",
         "Will you go? will you go?",
@@ -9431,13 +9547,12 @@
   },
   {
     "id": 221,
-    "title": "J. W. Smith",
-    "author": "",
+    "title": "8.8.8.8.8.8.",
+    "author": "J. W. Smith",
     "meter": "",
     "tuneName": "",
     "verses": [
       [
-        "J. W. Smith",
         "8.8.8.8.8.8."
       ],
       [
@@ -9478,14 +9593,11 @@
   },
   {
     "id": 222,
-    "title": "C.M.D.",
+    "title": "When God of old the way of life",
     "author": "Daniel W. Whittle (1840-1901)",
-    "meter": "",
+    "meter": "C.M.D.",
     "tuneName": "",
     "verses": [
-      [
-        "C.M.D."
-      ],
       [
         "When God of old the way of life",
         "Would teach to all His own,",
@@ -9565,11 +9677,14 @@
   },
   {
     "id": 224,
-    "title": "When the harvest is past and the summer is gone",
+    "title": "6.6.8.8.6.6.8.6.6.6.6.8.",
     "author": "Samuel F. Smith (1808-95)",
-    "meter": "6.6.8.8.6.6.8.6.6.6.6.8.",
+    "meter": "",
     "tuneName": "C.H.F. No. 252",
     "verses": [
+      [
+        "6.6.8.8.6.6.8.6.6.6.6.8."
+      ],
       [
         "When the harvest is past and the summer is gone",
         "And sermons and prayers shall be o'er;",
@@ -9678,11 +9793,14 @@
   },
   {
     "id": 227,
-    "title": "Where will you spend eternity?",
+    "title": "8.8.8.8.8.8.",
     "author": "Elisha A. Hoffman (1839-1929)",
-    "meter": "8.8.8.8.8.8.",
+    "meter": "",
     "tuneName": "R.S. No. 260",
     "verses": [
+      [
+        "8.8.8.8.8.8."
+      ],
       [
         "Where will you spend eternity?",
         "This question comes to you and me!",
@@ -9920,11 +10038,14 @@
   },
   {
     "id": 233,
-    "title": "Without blood is no remission,",
+    "title": "8.7.8.7.7.7.",
     "author": "Thomas Kelly (1769-1854)",
-    "meter": "8.7.8.7.7.7.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.7.8.7.7.7."
+      ],
       [
         "Without blood is no remission,",
         "Thus the Lord proclaims from heaven,",
@@ -9963,12 +10084,13 @@
   },
   {
     "id": 234,
-    "title": "Wonderful grace of Jesus,",
+    "title": "(C)",
     "author": "Words: Haldor Lillenas © 1918. Ren. 1946 Hope Publishing Company, Carol Stream, IL 60188. All rights reserved. Used by permission.",
     "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "(C)",
         "Wonderful grace of Jesus,",
         "Greater than all my sin;",
         "How shall my tongue describe it,",
@@ -10008,11 +10130,14 @@
   },
   {
     "id": 235,
-    "title": "Wonderful story of love;",
+    "title": "7.6.7.6.8.8.8.",
     "author": "J. M. Driver (19th Cent.)",
-    "meter": "7.6.7.6.8.8.8.",
+    "meter": "",
     "tuneName": "C.H.F. No. 208",
     "verses": [
+      [
+        "7.6.7.6.8.8.8."
+      ],
       [
         "Wonderful story of love;",
         "Tell it to me again;",
@@ -10052,13 +10177,12 @@
   },
   {
     "id": 236,
-    "title": "J.G. Badger",
-    "author": "",
+    "title": "11.11.11.11.",
+    "author": "J.G. Badger",
     "meter": "",
     "tuneName": "R.S. No. 97",
     "verses": [
       [
-        "J.G. Badger",
         "11.11.11.11."
       ],
       [
@@ -10217,12 +10341,16 @@
   },
   {
     "id": 240,
-    "title": "With its fair glory, beckons thee along:",
+    "title": "10.10.4.6.",
     "author": "Horatius Bonar (1808-89)",
-    "meter": "10.10.4.6.",
+    "meter": "",
     "tuneName": "C.H.F. No. 248",
     "verses": [
       [
+        "10.10.4.6."
+      ],
+      [
+        "\"Yet there is room!\" The Lamb's bright hall of song,",
         "With its fair glory, beckons thee along:",
         "Room, room, still room, O, enter, enter now."
       ],
@@ -10421,12 +10549,13 @@
   },
   {
     "id": 245,
-    "title": "By and by when I look on His face,",
-    "author": "(c)",
+    "title": "(c)",
+    "author": "",
     "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "(c)",
         "By and by when I look on His face,",
         "Beautiful face, thorn-shadowed face,",
         "By and by when I look on His face,",
@@ -10506,14 +10635,11 @@
   },
   {
     "id": 247,
-    "title": "S.M.D.",
+    "title": "Crown Him with many crowns,",
     "author": "Matthew Bridges (1800-94)",
-    "meter": "",
+    "meter": "S.M.D.",
     "tuneName": "",
     "verses": [
-      [
-        "S.M.D."
-      ],
       [
         "Crown Him with many crowns,",
         "The Lamb upon His throne;",
@@ -10560,12 +10686,13 @@
   },
   {
     "id": 248,
-    "title": "Down from His glory, ever-living story,",
+    "title": "(C)",
     "author": "William E. Booth-Clibborn (1893-1969)<br>Copyright © 1921 New Spring Publishing Inc. (ASCAP) (adm. at CapitolCMG Publishing.com) / Original Public Domain Publisher (c) All rights reserved. Used by permission. International Copyright Secured.",
     "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "(C)",
         "Down from His glory, ever-living story,",
         "My God and Saviour came, and Jesus was His name;",
         "Born in a manger, to His own a stranger,",
@@ -10686,12 +10813,13 @@
   },
   {
     "id": 251,
-    "title": "O Thou of God and man the Son,",
+    "title": "Fairest Lord Jesus, Ruler of all nature,",
     "author": "Schonster Herr Jesu (17th Cent.)",
     "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "Fairest Lord Jesus, Ruler of all nature,",
         "O Thou of God and man the Son,",
         "Thee will I cherish, Thee will I honour,",
         "Thou, my soul's glory, joy and crown."
@@ -10720,11 +10848,14 @@
   },
   {
     "id": 252,
-    "title": "Glory, glory everlasting,",
+    "title": "8.7.8.7.4.7.",
     "author": "Thomas Kelly (1769-1854)",
-    "meter": "8.7.8.7.4.7.",
+    "meter": "",
     "tuneName": "B.H.B. No. 52",
     "verses": [
+      [
+        "8.7.8.7.4.7."
+      ],
       [
         "Glory, glory everlasting,",
         "Be to Him who bore the Cross,",
@@ -10755,12 +10886,17 @@
   },
   {
     "id": 253,
-    "title": "But the bright glories of Thy grace",
+    "title": "8.8.8.8.8.8.",
     "author": "Samuel Davies (1723-61)",
-    "meter": "8.8.8.8.8.8.",
+    "meter": "",
     "tuneName": "B.H.B. No. 58",
     "verses": [
       [
+        "8.8.8.8.8.8."
+      ],
+      [
+        "Great God of wonders! All Thy ways",
+        "Display Thine attributes divine;",
         "But the bright glories of Thy grace",
         "Above Thine other wonders shine:"
       ],
@@ -10905,12 +11041,13 @@
   },
   {
     "id": 257,
-    "title": "In my darkness Jesus found me,",
+    "title": "(C)",
     "author": "© Copyright 1970 John W. Peterson Music Company. All rights reserved. Used by permission.",
     "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "(C)",
         "In my darkness Jesus found me,",
         "Touched my eyes and made me see,",
         "Broke sin's chain that long had bound me,",
@@ -11032,11 +11169,14 @@
   },
   {
     "id": 260,
-    "title": "Let us now retrace the pathway",
+    "title": "James Wherry (1908-1984)",
     "author": "Austrian Hymn",
     "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "James Wherry (1908-1984)"
+      ],
       [
         "Let us now retrace the pathway",
         "Of the Blessed Son of God,",
@@ -11083,11 +11223,14 @@
   },
   {
     "id": 261,
-    "title": "Look, ye saints, the sight is glorious;",
+    "title": "8.7.8.4.7.",
     "author": "Thomas Kelly (1769-1854)",
-    "meter": "8.7.8.4.7.",
+    "meter": "",
     "tuneName": "B.H.B. No. 127",
     "verses": [
+      [
+        "8.7.8.4.7."
+      ],
       [
         "Look, ye saints, the sight is glorious;",
         "See the Man of Sorrows now;",
@@ -11126,12 +11269,16 @@
   },
   {
     "id": 262,
-    "title": "How vast Thy love to me,",
-    "author": "Lord Jesus! My Saviour!",
-    "meter": "7.6.7.6.",
+    "title": "7.6.7.6.",
+    "author": "",
+    "meter": "",
     "tuneName": "B.H.B. No. 133",
     "verses": [
       [
+        "7.6.7.6."
+      ],
+      [
+        "Lord Jesus! My Saviour!",
         "How vast Thy love to me,",
         "I'll bathe in its full ocean",
         "To all eternity,",
@@ -11217,11 +11364,14 @@
   },
   {
     "id": 264,
-    "title": "O joy of the justified, joy of the free!",
+    "title": "11.11.11.11.",
     "author": "Francis Bottome (1823-94)",
-    "meter": "11.11.11.11.",
+    "meter": "",
     "tuneName": "B.H.B. No. 186",
     "verses": [
+      [
+        "11.11.11.11."
+      ],
       [
         "O joy of the justified, joy of the free!",
         "I'm washed in that crimson tide opened for me.",
@@ -11251,12 +11401,13 @@
   },
   {
     "id": 265,
-    "title": "O Lord my God, when I in awesome wonder",
+    "title": "(C)",
     "author": "Words: Stuart K. Hine © 1949, 1953 The Stuart Hine Trust.<br>All rights in the USA,  its territories and possessions, except print rights, administered by Capitol CMG Publishing.<br>USA, North, Central and South America  print rights administered by Hope Publishing Company.<br>All other non US Americas rights administered by The  Stuart Hine Trust.<br>Rest of world rights administered by  Integrity Music UK.  All rights reserved.  Used by permission.",
     "meter": "P.M.",
     "tuneName": "",
     "verses": [
       [
+        "(C)",
         "O Lord my God, when I in awesome wonder",
         "Consider all the works Thy hands have made.",
         "I see the stars, I hear the rolling thunder,",
@@ -11291,11 +11442,14 @@
   },
   {
     "id": 266,
-    "title": "Once our blessed Christ of beauty",
+    "title": "8.7.8.7.",
     "author": "N. B. Herrell (1877-1954)",
-    "meter": "8.7.8.7.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.7.8.7."
+      ],
       [
         "Once our blessed Christ of beauty",
         "Was veiled off from human view;",
@@ -11333,11 +11487,14 @@
   },
   {
     "id": 267,
-    "title": "O worship the King all-glorious above,",
+    "title": "10.10.11.11.",
     "author": "Robert Grant (1779-1838)",
-    "meter": "10.10.11.11.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "10.10.11.11."
+      ],
       [
         "O worship the King all-glorious above,",
         "O gratefully sing His power and His love;",
@@ -11374,11 +11531,14 @@
   },
   {
     "id": 268,
-    "title": "Praise the Lord, who died to save us,",
+    "title": "8.7.8.7.4.7.",
     "author": "Thomas Kelly (1769-1854)",
-    "meter": "8.7.8.7.4.7.",
+    "meter": "",
     "tuneName": "B.H.B. No. 232",
     "verses": [
+      [
+        "8.7.8.7.4.7."
+      ],
       [
         "Praise the Lord, who died to save us,",
         "Praise His ever gracious Name;",
@@ -11417,11 +11577,14 @@
   },
   {
     "id": 269,
-    "title": "Praise the Saviour, ye who know Him!",
+    "title": "6.6.6.5.",
     "author": "Thomas Kelley (1769-1854)",
-    "meter": "6.6.6.5.",
+    "meter": "",
     "tuneName": "B.H.B. No. 233",
     "verses": [
+      [
+        "6.6.6.5."
+      ],
       [
         "Praise the Saviour, ye who know Him!",
         "Who can tell how much we owe Him?",
@@ -11458,11 +11621,14 @@
   },
   {
     "id": 270,
-    "title": "Sovereign grace! o'er sin abounding,",
+    "title": "8.7.8.7.4.7.",
     "author": "John Kent (1766-1843)",
-    "meter": "8.7.8.7.4.7.",
+    "meter": "",
     "tuneName": "B.H.B. No. 249",
     "verses": [
+      [
+        "8.7.8.7.4.7."
+      ],
       [
         "Sovereign grace! o'er sin abounding,",
         "Ransomed souls, the tidings swell;",
@@ -11501,12 +11667,16 @@
   },
   {
     "id": 271,
-    "title": "Whose goodness faileth never;",
+    "title": "8.7.8.7.",
     "author": "Henry W. Baker (1821-77)",
-    "meter": "8.7.8.7.",
+    "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "8.7.8.7."
+      ],
+      [
+        "The King of love my Shepherd is,",
         "Whose goodness faileth never;",
         "I nothing lack if I am His",
         "And He is mine forever."
@@ -11541,11 +11711,14 @@
   },
   {
     "id": 272,
-    "title": "There's One above all earthly friends",
+    "title": "8.8.8.8.",
     "author": "Johnson Oatman Jr. (1856-1926)",
-    "meter": "8.8.8.8.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.8.8.8."
+      ],
       [
         "There's One above all earthly friends",
         "Whose love all earthly love transcends,",
@@ -11706,12 +11879,19 @@
   },
   {
     "id": 276,
-    "title": "Like a ship without a sail.",
+    "title": "8.7.8.7.",
     "author": "Copyright © 1963 Angel Band Music (BMI) (adm. At CapitolCMGPublishing.com) All rights reserved. Used by permission. International Copyright Secured.",
-    "meter": "8.7.8.7.",
+    "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "8.7.8.7."
+      ],
+      [
+        "(c)",
+        "Without Him I could do nothing,",
+        "Without Him I'd surely fail;",
+        "Without Him I would be drifting",
         "Like a ship without a sail."
       ],
       [
@@ -11820,11 +12000,14 @@
   },
   {
     "id": 279,
-    "title": "A wonderful Saviour is Jesus my Lord,",
+    "title": "11.8.11.8.",
     "author": "Fanny J. Crosby (1820-1915)",
-    "meter": "11.8.11.8.",
+    "meter": "",
     "tuneName": "R.S. No. 371",
     "verses": [
+      [
+        "11.8.11.8."
+      ],
       [
         "A wonderful Saviour is Jesus my Lord,",
         "A wonderful Saviour to me;",
@@ -12015,12 +12198,16 @@
   },
   {
     "id": 284,
-    "title": "Bear patiently the cross of grief or pain;",
+    "title": "10.10.10.10.10.10.",
     "author": "Katharina Von Schlegel (18th Cent.)",
-    "meter": "10.10.10.10.10.10.",
+    "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "10.10.10.10.10.10."
+      ],
+      [
+        "Be still, my soul! The Lord is on thy side;",
         "Bear patiently the cross of grief or pain;",
         "Leave to thy God to order and provide,",
         "In every change He faithful will remain.",
@@ -12104,11 +12291,14 @@
   },
   {
     "id": 286,
-    "title": "By faith in a glorified Christ on the throne,",
+    "title": "11.11.11.11.",
     "author": "",
-    "meter": "11.11.11.11.",
+    "meter": "",
     "tuneName": "R.S. No. 274",
     "verses": [
+      [
+        "11.11.11.11."
+      ],
       [
         "By faith in a glorified Christ on the throne,",
         "We give up the joys of the world to its own;",
@@ -12300,12 +12490,13 @@
   },
   {
     "id": 290,
-    "title": "Too deeply for mirth or song;",
+    "title": "Does Jesus care when my heart is pained",
     "author": "Frank E. Graeff (1860-1919)",
     "meter": "P.M.",
     "tuneName": "",
     "verses": [
       [
+        "Does Jesus care when my heart is pained",
         "Too deeply for mirth or song;",
         "As the burdens press, and the cares distress,",
         "And the way grows weary and long?"
@@ -12377,11 +12568,14 @@
   },
   {
     "id": 292,
-    "title": "Hast thou heard Him, seen Him, known Him?",
+    "title": "8.7.8.7.",
     "author": "Ora Rowan",
-    "meter": "8.7.8.7.",
+    "meter": "",
     "tuneName": "R.S. No. 445",
     "verses": [
+      [
+        "8.7.8.7."
+      ],
       [
         "Hast thou heard Him, seen Him, known Him?",
         "Is not thine a captured heart?",
@@ -12430,12 +12624,16 @@
   },
   {
     "id": 293,
-    "title": "Thou art the Potter, I am the clay.",
+    "title": "9.9.9.9.",
     "author": "Adelaide A. Pollard (1862-1934)",
-    "meter": "9.9.9.9.",
+    "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "9.9.9.9."
+      ],
+      [
+        "Have Thine own way, Lord! Have Thine own way!",
         "Thou art the Potter, I am the clay.",
         "Mould me and make me after Thy will,",
         "While I am waiting, yielded and still."
@@ -12464,11 +12662,14 @@
   },
   {
     "id": 294,
-    "title": "He giveth more grace when the burdens grow greater;",
+    "title": "12.11.12.11.",
     "author": "Annie J. Flint (1866-1932)",
-    "meter": "12.11.12.11.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "12.11.12.11."
+      ],
       [
         "He giveth more grace when the burdens grow greater;",
         "He sendeth more strength when the labours increase.",
@@ -12492,15 +12693,11 @@
   },
   {
     "id": 295,
-    "title": "A. M. Monteath",
-    "author": "",
-    "meter": "",
+    "title": "He is coming, coming for us,",
+    "author": "A. M. Monteath",
+    "meter": "8.7.8.7.D.",
     "tuneName": "",
     "verses": [
-      [
-        "A. M. Monteath",
-        "8.7.8.7.D."
-      ],
       [
         "He is coming, coming for us,",
         "Soon we'll see His light afar",
@@ -12552,14 +12749,11 @@
   },
   {
     "id": 296,
-    "title": "L.M.D.",
+    "title": "He leadeth me, O blessed thought,",
     "author": "Joseph H. Gilmore (1834-1918)",
-    "meter": "",
+    "meter": "L.M.D.",
     "tuneName": "",
     "verses": [
-      [
-        "L.M.D."
-      ],
       [
         "He leadeth me, O blessed thought,",
         "O words with heavenly comfort fraught;",
@@ -12595,11 +12789,14 @@
   },
   {
     "id": 297,
-    "title": "How firm a foundation, ye saints of the Lord,",
+    "title": "11.11.11.11.",
     "author": "Richard Keen (18th Cent.)",
-    "meter": "11.11.11.11.",
+    "meter": "",
     "tuneName": "B.H.B. No. 77",
     "verses": [
+      [
+        "11.11.11.11."
+      ],
       [
         "How firm a foundation, ye saints of the Lord,",
         "Is laid for your faith in His excellent Word!",
@@ -12838,11 +13035,14 @@
   },
   {
     "id": 303,
-    "title": "In shady green pastures, so rich and so sweet,",
+    "title": "11.8.11.8.",
     "author": "G. A. Young (1903- )",
-    "meter": "11.8.11.8.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "11.8.11.8."
+      ],
       [
         "In shady green pastures, so rich and so sweet,",
         "God leads His dear children along;",
@@ -12872,12 +13072,13 @@
   },
   {
     "id": 304,
-    "title": "I serve a risen Saviour, He's in the world today;",
+    "title": "(C)",
     "author": "Alfred H. Ackley © 1933 (Renewed) Word Music, LLC All Rights Reserved. Used By Permission.",
     "meter": "P.M.",
     "tuneName": "",
     "verses": [
       [
+        "(C)",
         "I serve a risen Saviour, He's in the world today;",
         "I know that He is living, whatever men may say;",
         "I see His hand of mercy, I hear His voice of cheer,",
@@ -12908,12 +13109,13 @@
   },
   {
     "id": 305,
-    "title": "I'd rather have Jesus than silver or gold,",
+    "title": "(C)",
     "author": "George Beverly Shea./Rhea F. Miller  © 1939 (Renewed) Word Music, LLC. All Rights Reserved. Used By Permission.",
     "meter": "P.M.",
     "tuneName": "",
     "verses": [
       [
+        "(C)",
         "I'd rather have Jesus than silver or gold,",
         "I'd rather be His than have riches untold;",
         "I'd rather have Jesus than houses or land,",
@@ -13178,12 +13380,13 @@
   },
   {
     "id": 311,
-    "title": "Jesus my Lord will love me forever,",
+    "title": "(C)",
     "author": "Norman J. Clayton © 1938 (Renewed) Wordspring Music, LLC. All Rights Reserved. Used By Permission.",
     "meter": "P.M.",
     "tuneName": "",
     "verses": [
       [
+        "(C)",
         "Jesus my Lord will love me forever,",
         "From Him no power of evil can sever;",
         "He gave His life to ransom my soul,",
@@ -13253,11 +13456,14 @@
   },
   {
     "id": 313,
-    "title": "Like a river glorious",
+    "title": "6.5.6.5.",
     "author": "Frances R. Havergal (1836-79)",
-    "meter": "6.5.6.5.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "6.5.6.5."
+      ],
       [
         "Like a river glorious",
         "Is God's perfect peace,",
@@ -13299,11 +13505,14 @@
   },
   {
     "id": 314,
-    "title": "Lord dismiss us with Thy blessing,",
+    "title": "8.7.8.7.4.7.",
     "author": "John Fawcett (1740-1817)",
-    "meter": "8.7.8.7.4.7.",
+    "meter": "",
     "tuneName": "B.H.B. No. 132",
     "verses": [
+      [
+        "8.7.8.7.4.7."
+      ],
       [
         "Lord dismiss us with Thy blessing,",
         "Fill our hearts with joy and peace;",
@@ -13334,12 +13543,17 @@
   },
   {
     "id": 315,
-    "title": "My gracious Redeemer, my song shall be now",
+    "title": "12.12.12.12.",
     "author": "William R. Featherston (1846-73)",
-    "meter": "12.12.12.12.",
+    "meter": "",
     "tuneName": "R.S No. 439",
     "verses": [
       [
+        "12.12.12.12."
+      ],
+      [
+        "Lord Jesus, I love Thee, I know Thou art mine,",
+        "My Rock and my Fortress, my Surety divine;",
         "My gracious Redeemer, my song shall be now",
         "'Tis Thou who art worthy, Lord Jesus, 'tis Thou."
       ],
@@ -13367,12 +13581,16 @@
   },
   {
     "id": 316,
-    "title": "The endless source of purest joy,",
-    "author": "Lord Jesus, Thou who only art",
-    "meter": "8.8.8.8.8.8.",
+    "title": "8.8.8.8.8.8.",
+    "author": "",
+    "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "8.8.8.8.8.8."
+      ],
+      [
+        "Lord Jesus, Thou who only art",
         "The endless source of purest joy,",
         "O! come and till this longing heart,",
         "May nought but Thee my thoughts employ.",
@@ -13417,11 +13635,14 @@
   },
   {
     "id": 317,
-    "title": "Loved with everlasting love,",
+    "title": "7.7.7.7.",
     "author": "G. Wade Robinson (1838-77)",
-    "meter": "7.7.7.7.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "7.7.7.7."
+      ],
       [
         "Loved with everlasting love,",
         "Led by grace that love to know;",
@@ -13509,11 +13730,14 @@
   },
   {
     "id": 319,
-    "title": "My faith looks up to Thee,",
+    "title": "6.6.4.6.6.6.4.",
     "author": "Ray Palmer (1808-87)",
-    "meter": "6.6.4.6.6.6.4.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "6.6.4.6.6.6.4."
+      ],
       [
         "My faith looks up to Thee,",
         "Thou Lamb of Calvary,",
@@ -13556,12 +13780,16 @@
   },
   {
     "id": 320,
-    "title": "the thrice blessed ground,",
+    "title": "8.8.8.8.8.8.",
     "author": "J. Denham Smith (1817-89)",
-    "meter": "8.8.8.8.8.8.",
+    "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "8.8.8.8.8.8."
+      ],
+      [
+        "My God, I have found",
         "the thrice blessed ground,",
         "Where life and where joy",
         "and true comfort abound."
@@ -13607,11 +13835,14 @@
   },
   {
     "id": 321,
-    "title": "My heart is fixed, eternal God,",
+    "title": "8.3.8.3.8.8.8.3.",
     "author": "Richard Jukes (1804-67)",
-    "meter": "8.3.8.3.8.8.8.3.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.3.8.3.8.8.8.3."
+      ],
       [
         "My heart is fixed, eternal God,",
         "Fixed on Thee, Fixed on Thee.",
@@ -13668,11 +13899,15 @@
   },
   {
     "id": 322,
-    "title": "My hope is built on nothing less,",
+    "title": "Edward Mote (1797-1874)",
     "author": "B.H.B. No. 158, C.H.F. No. 121",
-    "meter": "L.M.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "Edward Mote (1797-1874)",
+        "L.M."
+      ],
       [
         "My hope is built on nothing less,",
         "Than Jesus' blood and righteousness;",
@@ -13707,12 +13942,13 @@
   },
   {
     "id": 323,
-    "title": "And myrrh their texture fills;",
+    "title": "My Lord has garments so wondrous fine,",
     "author": "Henry Barraclough (19th Cent.)",
     "meter": "P.M.",
     "tuneName": "",
     "verses": [
       [
+        "My Lord has garments so wondrous fine,",
         "And myrrh their texture fills;",
         "Its fragrance reaches this heart of mine,",
         "With joy my being thrills."
@@ -13746,12 +13982,16 @@
   },
   {
     "id": 324,
-    "title": "In that lovely name appear;",
-    "author": "My Redeemer, O what beauties,",
-    "meter": "8.7.8.7.8.7.",
+    "title": "8.7.8.7.8.7.",
+    "author": "",
+    "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "8.7.8.7.8.7."
+      ],
+      [
+        "My Redeemer, O what beauties,",
         "In that lovely name appear;",
         "None but Jesus in His glories",
         "Shall the honoured title wear.",
@@ -14073,11 +14313,14 @@
   },
   {
     "id": 331,
-    "title": "One there is above all others,",
+    "title": "8.4.8.4.8.8.8.4.",
     "author": "Marianne Nunn (1778-1847)",
-    "meter": "8.4.8.4.8.8.8.4.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.4.8.4.8.8.8.4."
+      ],
       [
         "One there is above all others,",
         "O, how He loves!",
@@ -14124,12 +14367,16 @@
   },
   {
     "id": 332,
-    "title": "And by the world disowned,",
+    "title": "Daniel W. Whittle (1840-1901)",
     "author": "B.H.B. No. 223",
     "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "Daniel W. Whittle (1840-1901)"
+      ],
+      [
+        "Our Lord is now rejected",
         "And by the world disowned,",
         "By the many still neglected,",
         "And by the few enthroned.",
@@ -14178,11 +14425,14 @@
   },
   {
     "id": 333,
-    "title": "Praise the Lord and leave tomorrow",
+    "title": "8.7.8.7.8.7.",
     "author": "Wiliam G. Sloan (1838-1914)",
-    "meter": "8.7.8.7.8.7.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.7.8.7.8.7."
+      ],
       [
         "Praise the Lord and leave tomorrow",
         "In thy loving Father's hands;",
@@ -14237,11 +14487,14 @@
   },
   {
     "id": 334,
-    "title": "Redeemed, how I love to proclaim it!",
+    "title": "9.8.9.8.",
     "author": "Fanny J. Crosby (1820-1915)",
-    "meter": "9.8.9.8.",
+    "meter": "",
     "tuneName": "C.H.F. No. 149",
     "verses": [
+      [
+        "9.8.9.8."
+      ],
       [
         "Redeemed, how I love to proclaim it!",
         "Redeemed by the blood of the Lamb;",
@@ -14283,12 +14536,16 @@
   },
   {
     "id": 335,
-    "title": "Peace which passeth understanding on Thy breast,",
+    "title": "11.11.8.3.",
     "author": "Henry Bennett (1813-68)",
-    "meter": "11.11.8.3.",
+    "meter": "",
     "tuneName": "C.H.F. No. 356",
     "verses": [
       [
+        "11.11.8.3."
+      ],
+      [
+        "Satisfied with Thee, Lord Jesus, I am blest,",
         "Peace which passeth understanding on Thy breast,",
         "No more doubting, no more trembling,",
         "No more trembling, O, what rest."
@@ -14414,11 +14671,14 @@
   },
   {
     "id": 338,
-    "title": "Saviour, Thy dying love",
+    "title": "6.4.6.4.6.6.6.4.",
     "author": "Sylvanus D. Phelps (1816-95)",
-    "meter": "6.4.6.4.6.6.6.4.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "6.4.6.4.6.6.6.4."
+      ],
       [
         "Saviour, Thy dying love",
         "Thou gavest me,",
@@ -14465,11 +14725,14 @@
   },
   {
     "id": 339,
-    "title": "Simply trusting every day,",
+    "title": "7.7.7.7.",
     "author": "Edgar P. Stites (1836-1921)",
-    "meter": "7.7.7.7.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "7.7.7.7."
+      ],
       [
         "Simply trusting every day,",
         "Trusting through a stormy way;",
@@ -14652,11 +14915,14 @@
   },
   {
     "id": 343,
-    "title": "The wanderer no more will roam,",
+    "title": "8.8.8.6.",
     "author": "Mary J. Walker (1816-78)",
-    "meter": "8.8.8.6.",
+    "meter": "",
     "tuneName": "B.H.B. No. 286",
     "verses": [
+      [
+        "8.8.8.6."
+      ],
       [
         "The wanderer no more will roam,",
         "The lost one to the fold hath come,",
@@ -14705,11 +14971,14 @@
   },
   {
     "id": 344,
-    "title": "There comes to my heart one sweet strain,",
+    "title": "8.8.8.7.",
     "author": "Peter P. Bilhorn (1861-1936)",
-    "meter": "8.8.8.7.",
+    "meter": "",
     "tuneName": "R.S. No. 378",
     "verses": [
+      [
+        "8.8.8.7."
+      ],
       [
         "There comes to my heart one sweet strain,",
         "A glad and a joyous refrain,",
@@ -14859,11 +15128,14 @@
   },
   {
     "id": 348,
-    "title": "This world is a wilderness wide,",
+    "title": "8.8.8.8.",
     "author": "John Nelson Darby (1800-82)",
-    "meter": "8.8.8.8.",
+    "meter": "",
     "tuneName": "B.H.B. No. 298",
     "verses": [
+      [
+        "8.8.8.8."
+      ],
       [
         "This world is a wilderness wide,",
         "I have nothing to seek or to choose;",
@@ -14906,14 +15178,11 @@
   },
   {
     "id": 349,
-    "title": "C.M.D.",
+    "title": "Until I heard of Jesus' love,",
     "author": "",
-    "meter": "",
+    "meter": "C.M.D.",
     "tuneName": "",
     "verses": [
-      [
-        "C.M.D."
-      ],
       [
         "Until I heard of Jesus' love,",
         "A sinner, Lord, was I;",
@@ -15023,11 +15292,14 @@
   },
   {
     "id": 352,
-    "title": "What a friend we have in Jesus,",
+    "title": "8.8.8.8.8.8.",
     "author": "Fanny J. Crosby (1820-1915), Joseph M. Scriven (1819-1886)",
-    "meter": "8.8.8.8.8.8.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.8.8.8.8.8."
+      ],
       [
         "What a friend we have in Jesus,",
         "All our sins and griefs to bear;",
@@ -15074,11 +15346,15 @@
   },
   {
     "id": 353,
-    "title": "When all my labours and trials are o'er,",
+    "title": "Charles H. Gabriel (1856-1932)",
     "author": "Time R.S. No. 366",
-    "meter": "10.10.10.10.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "Charles H. Gabriel (1856-1932)",
+        "10.10.10.10."
+      ],
       [
         "When all my labours and trials are o'er,",
         "And I am safe on that beautiful shore,",
@@ -15156,11 +15432,14 @@
   },
   {
     "id": 355,
-    "title": "When this passing world is done;",
+    "title": "7.7.7.7.7.7.",
     "author": "R. Murray McCheyne (1813-43)",
-    "meter": "7.7.7.7.7.7.",
+    "meter": "",
     "tuneName": "B.H.B. No. 356",
     "verses": [
+      [
+        "7.7.7.7.7.7."
+      ],
       [
         "When this passing world is done;",
         "When has sunk yon glaring sun;",
@@ -15199,11 +15478,14 @@
   },
   {
     "id": 356,
-    "title": "When upon life's billows you are tempest tossed,",
+    "title": "11.11.11.11.",
     "author": "Johnson Oatman Jr. (1856-1926)",
-    "meter": "11.11.11.11.",
+    "meter": "",
     "tuneName": "R.S. No. 5",
     "verses": [
+      [
+        "11.11.11.11."
+      ],
       [
         "When upon life's billows you are tempest tossed,",
         "When you are discouraged, thinking all is lost,",
@@ -15239,12 +15521,13 @@
   },
   {
     "id": 357,
-    "title": "Who can cheer the heart like Jesus,",
+    "title": "(C)",
     "author": "Written by Thoro Harris. Copyright © 1931, Renewed 1959 Nazarene Publishing House (admin. by Music Services) All Rights Reserved. SESAC. Used by permission.",
     "meter": "8.7.8.7.D.",
     "tuneName": "",
     "verses": [
       [
+        "(C)",
         "Who can cheer the heart like Jesus,",
         "By His presence all divine?",
         "True and tender, pure and precious,",
@@ -15417,12 +15700,16 @@
   },
   {
     "id": 361,
-    "title": "Thine empty grave, we stand,",
+    "title": "7.6.7.6.",
     "author": "James G. Deck (1807-84)",
-    "meter": "7.6.7.6.",
+    "meter": "",
     "tuneName": "B.H.B. No. 13",
     "verses": [
       [
+        "7.6.7.6."
+      ],
+      [
+        "Around Thy grave, Lord Jesus,",
         "Thine empty grave, we stand,",
         "With hearts all full of praises,",
         "To keep Thy blest command;",
@@ -15467,11 +15754,14 @@
   },
   {
     "id": 362,
-    "title": "Buried in the grave of Jesus,",
+    "title": "8.7.8.7.",
     "author": "Janetta W. Trench (1843-1925)",
-    "meter": "8.7.8.7.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.7.8.7."
+      ],
       [
         "Buried in the grave of Jesus,",
         "We believe what God has said;",
@@ -15683,11 +15973,14 @@
   },
   {
     "id": 367,
-    "title": "O Jesus, I have promised",
+    "title": "7.6.7.6.",
     "author": "John E. Bode (1816-1874)",
-    "meter": "7.6.7.6.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "7.6.7.6."
+      ],
       [
         "O Jesus, I have promised",
         "To serve Thee to the end;",
@@ -15744,11 +16037,14 @@
   },
   {
     "id": 368,
-    "title": "Take my life, and let it be",
+    "title": "7.7.7.7.",
     "author": "Frances R. Havergal (1836-79)",
-    "meter": "7.7.7.7.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "7.7.7.7."
+      ],
       [
         "Take my life, and let it be",
         "Consecrated, Lord, to Thee.",
@@ -15962,13 +16258,12 @@
   },
   {
     "id": 373,
-    "title": "Emily E. Hewitt",
-    "author": "",
+    "title": "11.11.11.7.",
+    "author": "Emily E. Hewitt",
     "meter": "",
     "tuneName": "R.S. No. 317",
     "verses": [
       [
-        "Emily E. Hewitt",
         "11.11.11.7."
       ],
       [
@@ -16178,12 +16473,15 @@
   },
   {
     "id": 378,
-    "title": "Roll down their golden sand;",
+    "title": "From Greenland's icy mountains,",
     "author": "Reginald Heber (1783-1826)",
     "meter": "7.6.7.6.D.",
     "tuneName": "",
     "verses": [
       [
+        "From Greenland's icy mountains,",
+        "From India's coral strand,",
+        "Where Afric's sunny fountains",
         "Roll down their golden sand;",
         "From many an ancient river,",
         "From many a palmy plain,",
@@ -16301,11 +16599,14 @@
   },
   {
     "id": 381,
-    "title": "Hark! 'tis the watchman's cry,",
+    "title": "6.4.6.4.6.6.6.4.",
     "author": "Philipp Nicolai (1556-1608)",
-    "meter": "6.4.6.4.6.6.6.4.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "6.4.6.4.6.6.6.4."
+      ],
       [
         "Hark! 'tis the watchman's cry,",
         "Wake, brethren, wake!",
@@ -16362,15 +16663,11 @@
   },
   {
     "id": 382,
-    "title": "E. M. H. Gates",
-    "author": "",
-    "meter": "",
+    "title": "How many sheep are straying,",
+    "author": "E. M. H. Gates",
+    "meter": "P.M.",
     "tuneName": "",
     "verses": [
-      [
-        "E. M. H. Gates",
-        "P.M."
-      ],
       [
         "How many sheep are straying,",
         "Lost from the Saviour's fold;",
@@ -16422,11 +16719,14 @@
   },
   {
     "id": 383,
-    "title": "How sweet to work for Jesus!",
+    "title": "7.6.7.6.",
     "author": "",
-    "meter": "7.6.7.6.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "7.6.7.6."
+      ],
       [
         "How sweet to work for Jesus!",
         "How sweet as days go by,",
@@ -16595,11 +16895,14 @@
   },
   {
     "id": 387,
-    "title": "May the mind of Christ, my Saviour",
+    "title": "8.7.8.5.",
     "author": "Kate B. Wilkinson (1859-1928)",
-    "meter": "8.7.8.5.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.7.8.5."
+      ],
       [
         "May the mind of Christ, my Saviour",
         "Live in me from day to day,",
@@ -16729,12 +17032,13 @@
   },
   {
     "id": 390,
-    "title": "Out in the highways and byways of life,",
+    "title": "(C)",
     "author": "George Schulerilra B. Wilson  © 1924 (Renewed) Word Music, LLC All Rights Reserved. Used By Permission.",
     "meter": "P.M.",
     "tuneName": "",
     "verses": [
       [
+        "(C)",
         "Out in the highways and byways of life,",
         "Many are weary and sad;",
         "Carry the sunshine where darkness is rife,",
@@ -16764,15 +17068,11 @@
   },
   {
     "id": 391,
-    "title": "W. C. Poole",
-    "author": "",
-    "meter": "",
+    "title": "Over the mountains so bleak and so cold,",
+    "author": "W. C. Poole",
+    "meter": "P.M.",
     "tuneName": "",
     "verses": [
-      [
-        "W. C. Poole",
-        "P.M."
-      ],
       [
         "Over the mountains so bleak and so cold,",
         "Far from the beautiful city of gold,",
@@ -16834,14 +17134,11 @@
   },
   {
     "id": 393,
-    "title": "S.M.D.",
+    "title": "Revive Thy work, O Lord!",
     "author": "Albert Midlane (1825-1909)",
-    "meter": "",
+    "meter": "S.M.D.",
     "tuneName": "",
     "verses": [
-      [
-        "S.M.D."
-      ],
       [
         "Revive Thy work, O Lord!",
         "Thy mighty arm make bare;",
@@ -16889,12 +17186,16 @@
   },
   {
     "id": 394,
-    "title": "So send I you to labour unrewarded,",
+    "title": "11.10.11.10.",
     "author": "E. Margaret Clarkson (1915- )",
-    "meter": "11.10.11.10.",
+    "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "11.10.11.10."
+      ],
+      [
+        "(c)",
         "So send I you to labour unrewarded,",
         "To serve unpaid, unloved, unsought, unknown,",
         "To bear rebuke, to suffer scorn and suffering,",
@@ -17002,12 +17303,16 @@
   },
   {
     "id": 397,
-    "title": "Thou art Lord of winds and waves;",
+    "title": "8.7.8.7.4.7.",
     "author": "Thomas Kelly (1769-1854)",
-    "meter": "8.7.8.7.4.7.",
+    "meter": "",
     "tuneName": "",
     "verses": [
       [
+        "8.7.8.7.4.7."
+      ],
+      [
+        "Speed Thy servants, Saviour speed them,",
         "Thou art Lord of winds and waves;",
         "They were bound, but Thou hast freed them,",
         "Now they go to free the slaves;",
@@ -17052,11 +17357,14 @@
   },
   {
     "id": 398,
-    "title": "Take the name of Jesus with you,",
+    "title": "8.7.8.7.",
     "author": "Lydia Baxter (1809-74)",
-    "meter": "8.7.8.7.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "8.7.8.7."
+      ],
       [
         "Take the name of Jesus with you,",
         "Child of sorrow and of woe;",
@@ -17090,11 +17398,14 @@
   },
   {
     "id": 399,
-    "title": "The day Thou gavest, Lord, is ended;",
+    "title": "9.8.9.8.",
     "author": "John Ellerton (1826-93)",
-    "meter": "9.8.9.8.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "9.8.9.8."
+      ],
       [
         "The day Thou gavest, Lord, is ended;",
         "The darkness falls at Thy behest;",
@@ -17211,12 +17522,17 @@
   },
   {
     "id": 402,
-    "title": "Who yielded His life an atonement for sin,",
+    "title": "11.11.11.11.",
     "author": "Fanny J. Crosby (1820-1915)",
-    "meter": "11.11.11.11.",
+    "meter": "",
     "tuneName": "R.S. No. 7",
     "verses": [
       [
+        "11.11.11.11."
+      ],
+      [
+        "To God be the glory! Great things He hath done;",
+        "So loved He the world that He gave us His Son;",
         "Who yielded His life an atonement for sin,",
         "And opened the Life-gate that all may go in."
       ],
@@ -17421,11 +17737,14 @@
   },
   {
     "id": 407,
-    "title": "Ye servants of God, your Master proclaim,",
+    "title": "10.10.11.11.",
     "author": "Charles Wesley (1707-88)",
-    "meter": "10.10.11.11.",
+    "meter": "",
     "tuneName": "",
     "verses": [
+      [
+        "10.10.11.11."
+      ],
       [
         "Ye servants of God, your Master proclaim,",
         "And publish abroad His wonderful name;",
