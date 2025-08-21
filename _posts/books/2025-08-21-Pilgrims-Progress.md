@@ -4,7 +4,7 @@ title: "John Bunyan - The Pilgrim’s Progress"
 category: books
 ---
 <div style="text-align: center;">
-This Book is available to read and download as a `.pdf` or listen to as an mp3
+This Book is available to read and download as a `.pdf` or listen to as an '.mp3'
 
 <h2>📥 Download</h2>
 
@@ -43,7 +43,7 @@ Part One
   <option value="/assets/books/Pilgrims-Progress/21171-23.mp3">The Eighth Stage - 00:56:56</option>
   <option value="/assets/books/Pilgrims-Progress/21171-24.mp3">Author’s Farewell - 00:00:57</option>
 </select>
-
+<br><br>
 <audio id="audioPlayer" controls>
   <source id="audioSource" src="/assets/books/Pilgrims-Progress/21171-01.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
