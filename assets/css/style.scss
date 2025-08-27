@@ -129,13 +129,13 @@
     flex-direction: column;
     align-items: center;
     text-align: center;
-    gap: 0.25rem; /* reduce space between title and meta line */
+    gap: 0.25rem; /* smaller gap between title and meta */
   }
 
-  /* keep titles neat and multi-line without overflow */
+  /* clamp long titles */
   .home-recent__item a {
     display: -webkit-box;
-    -webkit-line-clamp: 2;  /* clamp to 2 lines */
+    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
     max-width: 100%;
@@ -144,16 +144,16 @@
     hyphens: auto;
   }
 
-  /* meta line (date + category) */
+  /* wrap date + category together on one line */
   .home-recent__item time,
   .home-recent__cat {
+    display: inline;         /* force them inline */
     font-size: 0.9rem;
     opacity: 0.75;
-    margin: 0; /* remove extra space */
-    display: inline; /* keep them inline */
+    margin: 0;
   }
 
-  /* add a subtle divider between date and category */
+  /* add divider between date and category if both exist */
   .home-recent__cat::before {
     content: " • ";
     opacity: 0.6;
