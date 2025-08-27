@@ -50,12 +50,17 @@ layout: default
   {%- if paginator.previous_page_path -%}
     <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Newer</a>
   {%- endif -%}
-  <span>  Page {{ paginator.page }} of {{ paginator.total_pages }}  </span>
+
+  <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
   {%- if paginator.next_page_path -%}
     <a href="{{ paginator.next_page_path | relative_url }}">Older &raquo;</a>
   {%- endif -%}
 </nav>
 {%- endif -%}
+
+
+
 
 
 
