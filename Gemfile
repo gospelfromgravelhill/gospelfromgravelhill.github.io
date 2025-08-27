@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
 gem "jekyll", "~> 4.3"
-gem "jekyll-paginate"
 gem "jekyll-paginate-v2"
 gem "support-for"
 gem "http_parser"
