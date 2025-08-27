@@ -11,32 +11,12 @@ layout: default
   {% for post in items %}
     <li>
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-
-      <div class="meta">
-        {% if post.date %}
-          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
-        {% endif %}
-
-        {% comment %}
-          Show all categories attached to the post (including “sub-categories” that come from folders).
-          Don’t change posts; just read post.categories as-is.
-          Link only known primary hubs to avoid 404s.
-        {% endcomment %}
-        {% assign primary_hubs = "articles|audio|books|charts|tracts" | split:"|" %}
-        {% if post.categories and post.categories.size > 0 %}
-          <span class="cats">
-            {% for c in post.categories %}
-              {% if primary_hubs contains c %}
-                <a class="cat cat--primary" href="{{ '/' | append: c | append: '/' | relative_url }}">{{ c }}</a>
-              {% else %}
-                <span class="cat">{{ c }}</span>
-              {% endif %}
-            {% endfor %}
-          </span>
-        {% endif %}
-      </div>
-
-      {% if post.excerpt %}<p>{{ post.excerpt | strip_html | truncate: 160 }}</p>{% endif %}
+      {% if post.date %}
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+      {% endif %}
+      {% if post.excerpt %}
+        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+      {% endif %}
     </li>
   {% endfor %}
 </ul>
