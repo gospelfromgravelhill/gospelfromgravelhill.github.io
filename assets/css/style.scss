@@ -180,3 +180,18 @@
 .cat--primary {
   text-decoration: none;
 }
+
+
+/* --- Fix Recent Posts meta line --- */
+.home-recent__item time,
+.home-recent__item .home-recent__cat {
+  display: inline;       /* force them onto the same line */
+  font-size: 0.9rem;
+  opacity: 0.75;
+  margin: 0;
+}
+
+.home-recent__item .home-recent__cat::before {
+  content: " • ";
+  opacity: 0.6;
+}
