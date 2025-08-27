@@ -26,3 +26,29 @@ title: Home
 
 
 </div>
+
+
+<hr>
+
+<section class="home-recent">
+  <h2 class="home-recent__title">Recent Posts</h2>
+  <ul class="home-recent__list">
+    {%- assign recent = site.posts | slice: 0, 5 -%}
+    {%- for post in recent -%}
+      <li class="home-recent__item">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+        {%- if post.categories and post.categories.size > 0 -%}
+          <span class="home-recent__cat">{{ post.categories | join: ", " }}</span>
+        {%- endif -%}
+      </li>
+    {%- endfor -%}
+  </ul>
+  <p class="home-recent__more">
+    <a href="{{ '/articles/' | relative_url }}">Articles</a> •
+    <a href="{{ '/audio/' | relative_url }}">Audio</a> •
+    <a href="{{ '/books/' | relative_url }}">Books</a> •
+    <a href="{{ '/charts/' | relative_url }}">Charts</a> •
+    <a href="{{ '/tracts/' | relative_url }}">Tracts</a>
+  </p>
+</section>
