@@ -198,3 +198,43 @@
   }
 }
 
+
+/* --- Recent Posts (mobile): title first line, date+category on second line --- */
+@media (max-width: 600px) {
+  .home-recent__item {
+    display: grid;                  /* overrides earlier flex */
+    grid-template-columns: auto auto;
+    column-gap: .5rem;
+    row-gap: .25rem;
+    justify-content: center;
+    text-align: center;
+  }
+
+  /* Title spans full width on first row, keep 2-line clamp */
+  .home-recent__item > a {
+    grid-column: 1 / -1;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    max-width: 100%;
+    word-break: break-word;
+    overflow-wrap: anywhere;
+    hyphens: auto;
+  }
+
+  /* Date + category side-by-side on second row */
+  .home-recent__item > time,
+  .home-recent__item > .home-recent__cat {
+    margin: 0;
+    font-size: 0.9rem;
+    opacity: 0.75;
+    justify-self: center;
+  }
+
+  /* Dot between them */
+  .home-recent__item > .home-recent__cat::before {
+    content: " • ";
+    opacity: 0.6;
+  }
+}
