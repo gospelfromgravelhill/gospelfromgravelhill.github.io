@@ -103,3 +103,21 @@
 .pagination a {
   text-decoration: none;
 }
+
+/* --- Homepage Recent --- */
+.home-recent { margin-top: 2rem; }
+.home-recent__title { text-align: center; margin-bottom: .75rem; }
+.home-recent__list {
+  list-style: none; padding: 0; margin: 0;
+  display: grid; gap: .5rem;
+}
+.home-recent__item {
+  display: flex; flex-wrap: wrap; gap: .5rem;
+  justify-content: center; text-align: center;
+}
+.home-recent__item a { text-decoration: none; }
+.home-recent__item time { opacity: .7; }
+.home-recent__cat { opacity: .7; }
+.home-recent__more { text-align: center; margin-top: .75rem; }
+.home-recent__more a { text-decoration: none; }
+
