@@ -31,9 +31,9 @@ permalink: pretty
 markdown: kramdown
 theme: null
 
-paginate: 5
-paginate_path: "/page:num"
-exclude: ["README.md"]
+# paginate: 5
+# paginate_path: "/page:num"
+# exclude: ["README.md"]
 
 google_analytics: G-R9BBEB12ES
 
