@@ -40,3 +40,19 @@ category: philcoulson
   Your browser does not support the audio element.
 </audio>
 </p>
+
+<br>
+<figure>
+  <a href="https://archive.org/download/phil-coulson-ministry-messages/2012-11-30%20-%20Phil%20Coulson%20-%20Jude/screencapture-thegloriousgospel-ca-test-page-for-jude-2024-07-10-21_21_20.png"
+     target="_blank" rel="noopener"
+     title="Opens a very large image in a new tab">
+    <img
+      src="/assets/img/JudeThumb.png"
+      alt="Jude Notes"
+      loading="lazy" decoding="async"
+      width="640" height="420">
+  </a>
+  <figcaption>
+    <strong>⚠️ Large image:</strong> opens full-size on archive.ca (may be slow).
+  </figcaption>
+</figure>
