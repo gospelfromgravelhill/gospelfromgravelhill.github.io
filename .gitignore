@@ -1,5 +1,18 @@
-_site
-.sass-cache
-.jekyll-cache
+# Jekyll build output & caches
+_site/
+.jekyll-cache/
 .jekyll-metadata
-vendor
+.sass-cache/
+
+# Bundler / Ruby
+vendor/
+.bundle/
+coverage/
+tmp/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Node (if you ever add tooling)
+node_modules/
