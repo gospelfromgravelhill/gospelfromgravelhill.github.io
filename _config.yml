@@ -39,7 +39,17 @@ google_analytics: G-R9BBEB12ES
 
 # Plugins for GitHub Pages
 plugins:
-  - jekyll-paginate
+#  - jekyll-paginate
+  - jekyll-paginate-v2
+  # - jekyll-remote-theme   # if you use a remote theme
+
+# Global defaults you can override per page:
+pagination:
+  enabled: true
+  collection: posts        # default source (for Articles/Audio/Books-as-posts)
+  per_page: 10
+  sort_field: "date"
+  sort_reverse: true
 
 # Navigation structure (if you want to loop through this in nav)
 navigation:
