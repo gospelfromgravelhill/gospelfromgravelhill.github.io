@@ -89,3 +89,17 @@
 @media (min-width: 800px) {
   .nav-toggle { display: none !important; }
 }
+
+
+/* --- pagination styles --- */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;   /* evenly spaced */
+  margin-top: 1rem;
+}
+
+.pagination a {
+  text-decoration: none;
+}
