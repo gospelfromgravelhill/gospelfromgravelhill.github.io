@@ -121,37 +121,41 @@
 .home-recent__more { text-align: center; margin-top: .75rem; }
 .home-recent__more a { text-decoration: none; }
 
+
+
 /* --- Recent Posts: mobile tidy-up --- */
 @media (max-width: 600px) {
-  .home-recent__list { gap: .4rem; }
-
-  /* stack each item vertically on small screens */
   .home-recent__item {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    gap: 0.25rem; /* reduce space between title and meta line */
   }
 
-  /* keep very long titles from blowing up layout */
+  /* keep titles neat and multi-line without overflow */
   .home-recent__item a {
-    display: -webkit-box;          /* multi-line clamp */
-    -webkit-line-clamp: 2;         /* show up to 2 lines */
+    display: -webkit-box;
+    -webkit-line-clamp: 2;  /* clamp to 2 lines */
     -webkit-box-orient: vertical;
     overflow: hidden;
     max-width: 100%;
-    word-break: break-word;        /* break long words/URLs */
+    word-break: break-word;
     overflow-wrap: anywhere;
     hyphens: auto;
   }
 
+  /* meta line (date + category) */
   .home-recent__item time,
   .home-recent__cat {
-    font-size: .9rem;
-    opacity: .75;
+    font-size: 0.9rem;
+    opacity: 0.75;
+    margin: 0; /* remove extra space */
+    display: inline; /* keep them inline */
   }
-}
 
-/* If things are *really* tight, hide categories on extra-small screens */
-@media (max-width: 380px) {
-  .home-recent__cat { display: none; }
+  /* add a subtle divider between date and category */
+  .home-recent__cat::before {
+    content: " • ";
+    opacity: 0.6;
+  }
 }
