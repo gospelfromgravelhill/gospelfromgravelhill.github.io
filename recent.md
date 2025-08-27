@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: recent
 title: Recent
 permalink: /recent/
 pagination:
