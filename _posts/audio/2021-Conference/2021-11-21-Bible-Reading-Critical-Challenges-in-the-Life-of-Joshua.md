@@ -65,6 +65,6 @@ This was a series of Bible Readings conducted by brother John Meekin (Bridgewate
 
 <p>
 <a href="https://archive.org/download/2021-gospel-conference-audio/2021-11%20-%20Summerside%20Fall%20Bible%20Readings%20-%20The%20Life%20of%20Joshua/Charting-JOSHUA.pdf" target="_blank" download>
-    📄 Download the PDF Outline
+    📄 Charting Joshua (pdf)
   </a>
 </p>
