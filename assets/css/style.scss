@@ -159,3 +159,24 @@
     opacity: 0.6;
   }
 }
+
+/* --- Recent Page --- */
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  align-items: baseline;
+}
+.meta .cats { display: inline-flex; flex-wrap: wrap; gap: .25rem; }
+.cat {
+  display: inline-block;
+  border: 1px solid rgba(0,0,0,.2);
+  padding: 0 .45em;
+  border-radius: 999px;
+  font-size: .875rem;
+  line-height: 1.6;
+  opacity: .9;
+}
+.cat--primary {
+  text-decoration: none;
+}
