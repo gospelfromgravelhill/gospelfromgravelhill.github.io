@@ -55,8 +55,8 @@ pagination:
 navigation:
   - title: "Home"
     url: "/"
-  - title: "Recent"
-    url: "/recent/"
+#  - title: "Recent"
+#    url: "/recent/"
   - title: "About"
     url: "/about/"
   - title: "Audio"
