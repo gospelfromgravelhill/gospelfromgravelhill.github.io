@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scott MacLeod Misc Messages"
+title: "Scott MacLeod - Misc Messages"
 date: 2025-08-27
 category: scottmacleod
 ---

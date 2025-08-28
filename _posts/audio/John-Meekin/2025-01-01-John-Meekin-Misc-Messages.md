@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2025-01-01 - John Meekin - Misc Messages"
+title: "John Meekin - Misc Messages"
 date: 2025-01-01
 category: johnmeekin
 ---

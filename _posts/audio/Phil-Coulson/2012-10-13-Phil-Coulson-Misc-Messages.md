@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2012-10-13 - Phil Coulson - Misc"
+title: "Phil Coulson - Misc Messages"
 date: 2012-10-13
 category: philcoulson
 ---

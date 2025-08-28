@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023-12-30 - Jonathan Procopio Misc Messages"
+title: "Jonathan Procopio - Misc Messages"
 date: 2023-12-30
 category: jonathanprocopio
 ---

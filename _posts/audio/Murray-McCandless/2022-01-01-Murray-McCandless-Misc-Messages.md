@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2025-08-27 - Murray McCandless - Misc Messages"
+title: "Murray McCandless - Misc Messages"
 date: 2025-08-27
 category: murraymccandless
 ---

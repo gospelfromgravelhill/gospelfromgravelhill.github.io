@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2025-01-01 - Sandy higgins - Misc Messages"
+title: "Sandy higgins - Misc Messages"
 date: 2025-01-01
 category: sandyhiggins
 ---
