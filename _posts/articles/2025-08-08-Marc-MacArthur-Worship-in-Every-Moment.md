@@ -6,14 +6,14 @@ category: articles
 ---
 
 <iframe 
-    src="{{ '/assets/articles/Marc-MacArthur-Worship-in-Every-Moment.pdf' | relative_url }}" 
+    src="{{ '/assets/articles/Marc-MacArthur/Marc-MacArthur-Worship-in-Every-Moment.pdf' | relative_url }}" 
     width="100%" 
     height="800px" 
     style="border: none;">
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Marc-MacArthur-Worship-in-Every-Moment.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Marc-MacArthur/Marc-MacArthur-Worship-in-Every-Moment.pdf' | relative_url }}" target="_blank">
         📄 Open the PDF in a new tab
     </a>
 </p>

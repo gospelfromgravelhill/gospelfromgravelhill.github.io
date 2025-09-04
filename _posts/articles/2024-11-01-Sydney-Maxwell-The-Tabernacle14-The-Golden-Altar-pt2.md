@@ -6,14 +6,14 @@ category: articles
 ---
 
 <iframe 
-    src="{{ '/assets/articles/Sydney-Maxwell-The-Tabernacle14-The-Golden-Altar-pt2.pdf' | relative_url }}" 
+    src="{{ '/assets/articles/Sydney-Maxwell/Sydney-Maxwell-The-Tabernacle14-The-Golden-Altar-pt2.pdf' | relative_url }}" 
     width="100%" 
     height="800px" 
     style="border: none;">
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Sydney-Maxwell-The-Tabernacle14-The-Golden-Altar-pt2.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Sydney-Maxwell/Sydney-Maxwell-The-Tabernacle14-The-Golden-Altar-pt2.pdf' | relative_url }}" target="_blank">
         📄 Open the PDF in a new tab
     </a>
 </p>
