@@ -256,3 +256,75 @@
     scroll-margin-top: 72px; /* adjust if your mobile header is taller/shorter */
   }
 }
+
+
+/* ---- Manual theme override hooks ---- */
+html[data-theme="light"] { color-scheme: light; }
+html[data-theme="dark"]  { color-scheme: dark;  }
+
+/* Ensure strong background/text override when a manual theme is set.
+   (Adjust colors if your palette differs) */
+html[data-theme="dark"] body  { background:#000 !important; color:#e6e6e6 !important; }
+html[data-theme="light"] body { background:#fdfdfd !important; color:#111 !important; }
+
+/* Footer theme slider */
+.footer-links .theme-toggle {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  margin-left: .5rem;
+}
+
+.footer-links .theme-toggle .mode-label {
+  font-size: .9rem;
+  opacity: .8;
+}
+
+/* iOS-style 2-state switch */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 46px;
+  height: 26px;
+}
+.switch input { display: none; }
+.switch .slider {
+  position: absolute; inset: 0;
+  border-radius: 999px;
+  background: var(--border, #e0e0e0);
+  transition: background .15s ease;
+}
+.switch .slider::before {
+  content: "";
+  position: absolute; top: 3px; left: 3px;
+  width: 20px; height: 20px; border-radius: 50%;
+  background: var(--card, #fff);
+  box-shadow: 0 1px 2px rgba(0,0,0,.15);
+  transition: transform .15s ease;
+}
+
+/* Checked = Dark */
+.switch input:checked + .slider {
+  background: var(--link, #2e8b57);
+}
+.switch input:checked + .slider::before {
+  transform: translateX(20px);
+}
+
+/* Optional: respect dark backgrounds for the knob in dark mode */
+html[data-theme="dark"] .switch .slider::before {
+  background: #0b0b0b;
+}
+
+
+
+/* Make the diagonal band/overlay follow the manual theme choice */
+html[data-theme="light"] .content:after,
+html[data-theme="light"] .post .featuredImage:before {
+  background: #ffffff !important;
+}
+
+html[data-theme="dark"] .content:after,
+html[data-theme="dark"] .post .featuredImage:before {
+  background: #000000 !important;
+}

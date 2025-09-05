@@ -159,8 +159,43 @@
 					</a>
 				</li>
 				{%- endif -%}
+				<!-- Theme slider -->
+				<li class="theme-toggle">
+					<span class="mode-label">Light</span>
+					<label class="switch">
+						<input type="checkbox" id="modeSwitch" aria-label="Toggle dark mode">
+						<span class="slider" aria-hidden="true"></span>
+					</label>
+					<span class="mode-label">Dark</span>
+				</li>
 			</ul>
 		</div>
 	</div>
 </div>
 <!-- end .footer -->
+<script>
+(function(){
+  const KEY = 'site-theme';
+  const html = document.documentElement;
+  const sw = document.getElementById('modeSwitch');
+
+  // Start from saved value or system preference
+  const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const saved = localStorage.getItem(KEY); // 'light' | 'dark' | null
+  const initial = saved || (prefersDark ? 'dark' : 'light');
+
+  applyTheme(initial);
+  if (sw) sw.checked = (initial === 'dark');
+
+  if (sw) sw.addEventListener('change', function(){
+    const v = sw.checked ? 'dark' : 'light';
+    localStorage.setItem(KEY, v);
+    applyTheme(v);
+  });
+
+  function applyTheme(v){
+    // With a 2-state slider we always set an explicit override
+    html.setAttribute('data-theme', v);
+  }
+})();
+</script>
