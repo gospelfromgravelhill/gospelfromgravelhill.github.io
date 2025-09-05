@@ -238,3 +238,36 @@
     opacity: 0.6;
   }
 }
+
+
+/* === Mobile sticky header only === */
+@media (max-width: 768px) {
+
+  /* Adjust the selector to match your header element.
+     Long Haul typically uses .site-header containing the title + nav. */
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;            /* keeps it above content */
+    background: #fff;         /* solid background so content doesn’t show through */
+    /* Optional niceties */
+    /* box-shadow: 0 2px 8px rgba(0,0,0,.06); */
+    /* backdrop-filter: saturate(180%) blur(6px);  // if you prefer a translucent look */
+  }
+
+  /* If your nav is separate and you want it sticky too, uncomment:
+  .site-nav {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: #fff;
+  }
+  */
+
+  /* Helpful if you use anchor links (#section) so the sticky header doesn’t cover them */
+  main :is(h1, h2, h3, h4, h5, h6),
+  .post :is(h1, h2, h3, h4, h5, h6),
+  .page :is(h1, h2, h3, h4, h5, h6) {
+    scroll-margin-top: 72px; /* roughly your mobile header height */
+  }
+}
