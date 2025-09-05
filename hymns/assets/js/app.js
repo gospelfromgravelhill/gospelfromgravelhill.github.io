@@ -11,6 +11,11 @@ const state = {
   baseUrl: '',
 };
 
+// Opt out of SPA scroll memory so we control it explicitly
+if ('scrollRestoration' in history) {
+  history.scrollRestoration = 'manual';
+}
+
 function normalizeRow(row, map){
   const resolve = (spec) => {
     if (!spec) return null;
@@ -149,8 +154,15 @@ function showDetail(id, push=true){
   renderDetail(h);
   $('#listView').classList.add('hidden');
   $('#detailView').classList.remove('hidden');
+
+  // NEW: always open lyrics at the top of the page
+  requestAnimationFrame(() => {
+    window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+  });
+
   if (push) location.hash = `#/hymn/${state.currentDatasetIndex}/${encodeURIComponent(id)}`;
 }
+
 
 function setupSearch(){
   const input = $('#q');
