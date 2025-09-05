@@ -1,29 +1,15 @@
-/* Color + layout update to align Hymns with the main site (Long Haul look)
-   - Soft off-white page, near-black text
-   - Seagreen primary, deep blue headings
-   - Open Sans body, PT Serif headings
-   - Narrower container, card-style content, subtle borders
+/* Hymns UI — Long Haul-aligned light + dark themes
+   - Light: off-white bg, seagreen links, deep-blue headings
+   - Dark: near-black bg, soft cards, minty seagreen links
 */
 
 /* Fonts to match the main site */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,800");
 @import url("https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic");
 
-/* Original root leaving till I know new one works */
-/* :root{
-/*   --bg:#fdfdfd;       soft off-white page */
-/*   --fg:#111111;       near-black body text */
-/*   --muted:#666666;    muted/supporting text */
-/*   --card:#ffffff;     white cards/containers */
-/*   --border:#e8e8e8;   light gray borders */
-/*   --link:#2a7ae2;     deep link blue */
-/*   --accent:#2a7ae2;   reuse link blue for accents */
-/* } */
-
+/* ===== Light (default) ==================================================== */
 :root{
-  /* Main site palette (Long Haul custom):
-     primary: seagreen; secondary: #233E5B; near-black text; soft off-white page
-  */
+  /* primary: seagreen; secondary: #233E5B */
   --bg:#fdfdfd;          /* page background (off-white) */
   --fg:#111111;          /* near-black body text */
   --muted:#666666;       /* muted/supporting text */
@@ -35,6 +21,10 @@
 }
 
 *{box-sizing:border-box}
+
+html{
+  color-scheme: light dark; /* allow UA controls to theme */
+}
 
 html,body{
   margin:0;
@@ -121,6 +111,29 @@ a:hover{text-decoration:underline}
   text-align:center;border-top:1px solid var(--border);padding-top:.75rem
 }
 
+/* ===== Dark mode (auto, like the main site) =============================== */
+@media (prefers-color-scheme: dark){
+  :root{
+    /* Match main site's "black" look */
+    --bg:#000000;        /* page background: true black */
+    --fg:#e6e6e6;        /* body text */
+    --muted:#a0a7b1;     /* secondary text */
+    --card:#0b0b0b;      /* card panels slightly above black */
+    --border:#1a1a1a;    /* subtle dark divider */
+    --link:#7fd4a7;      /* minty seagreen for contrast */
+    --accent:#7fd4a7;    /* keep accent same as link */
+    --heading:#ffffff;   /* headings pop on black */
+  }
+
+  .content{ box-shadow:none; }
+
+  .lyrics .chorus{
+    border-left:3px solid var(--accent);
+    background:linear-gradient(to right, rgba(127,212,167,.13), transparent);
+  }
+}
+
+/* ===== Responsive & Print ================================================= */
 @media (max-width:640px){
   .controls{flex-direction:column;align-items:stretch}
   .controls select,.controls input,.controls button{width:100%}

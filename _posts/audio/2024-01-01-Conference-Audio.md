@@ -6,7 +6,7 @@ category: audio
 ---
 
 <ul>
-  {% assign conf_posts = site.categories.2024conference | sort: "date" | reverse %}
+  {% assign conf_posts = site.categories["2024conference"] | sort: "date" | reverse %}
   {% for post in conf_posts %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
