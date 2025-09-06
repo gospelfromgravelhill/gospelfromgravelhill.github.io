@@ -1,0 +1,3 @@
+Build site locally 
+
+bundle exec jekyll serve
