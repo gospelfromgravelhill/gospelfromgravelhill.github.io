@@ -1,6 +1,8 @@
 /***************
 FORM STYLING
 ***************/
+@use "../config" as *;
+@use "sass:color";
 
 label {
 	display: block;
@@ -13,7 +15,7 @@ input[type="password"],
 input[type="number"],
 input[type="search"],
 textarea {
-	background: darken(white, 10%);
+	background: color.adjust(white, $lightness: -10%);
 	padding: 5px;
 	outline: none;
 	border: none;

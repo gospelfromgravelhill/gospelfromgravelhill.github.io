@@ -1,6 +1,8 @@
 /***************
 GLOBAL STYLES
 ***************/
+@use "../config" as *;
+@use "sass:color";
 
 html {
 	box-sizing: border-box;
@@ -62,7 +64,7 @@ a {
 	color: $link-color;
 
 	&:hover {
-		color: darken($link-color, 15%);
+		color: color.adjust($link-color, $lightness: -15%);
 	}
 }
 
@@ -84,7 +86,7 @@ MENU STYLING
 			width: 100%;
 			display: block;
 			background: $background-color;
-			border-bottom: 2px solid lighten($background-color, 5%);
+			border-bottom: 2px solid color.adjust($background-color, $lightness: 5%);
 
 			a {
 				color: white;
@@ -133,7 +135,7 @@ MENU STYLING
 
 	&:hover {
 		color: white;
-		background-color: darken($background-color, 10%);
+		background-color: color.adjust($background-color, $lightness: -10%);
 	}
 }
 
@@ -253,7 +255,7 @@ POST STYLING
 
 	.meta {
 		text-align: center;
-		color: lighten(black, 50%);
+		color: color.adjust(black, $lightness: 50%);
 		font-family: $sans-serif;
 		font-weight: 300;
 	}
@@ -265,7 +267,7 @@ POST STYLING
 			text-align: center;
 			font-size: 0.9em;
 			font-style: italic;
-			color: lighten($black, 30%);
+			color: color.adjust($black, $lightness: 30%);
 		}
 
 		img {
@@ -303,8 +305,8 @@ POST NAV STYLING
 ***************/
 
 .postNav {
-	border-top: 1px solid darken(white, 10%);
-	border-bottom: 1px solid darken(white, 10%);
+	border-top: 1px solid color.adjust(white, $lightness: -10%);
+	border-bottom: 1px solid color.adjust(white, $lightness: -10%);
 	overflow: hidden;
 
 	.prev,
@@ -381,7 +383,7 @@ FOOTER STYLING
 	clear: both;
 
 	.container {
-		border-top: 4px solid darken(white, 15%);
+		border-top: 4px solid color.adjust(white, $lightness: -15%);
 		padding-top: 0.5em;
 		max-width: 90%;
 	}
@@ -432,7 +434,7 @@ FOOTER STYLING
 					a {
 						svg {
 							.outer-shape {
-								fill: darken($primary-color, 10%);
+								fill: color.adjust($primary-color, $lightness: -10%);
 							}
 						}
 					}
@@ -470,7 +472,7 @@ POST LIST STYLING
 			position: absolute;
 			bottom: -2rem;
 			left: 0;
-			background: darken(white, 10%);
+			background: color.adjust(white, $lightness: -10%);
 			height: 2px;
 			width: 60px;
 		}
@@ -484,7 +486,7 @@ POST LIST STYLING
 		}
 
 		.date {
-			color: lighten(black, 50%);
+			color: color.adjust(black, $lightness: 50%);
 			font-family: $sans-serif;
 			font-weight: 300;
 			font-size: 0.8em;
@@ -511,11 +513,11 @@ DARK THEME STYLING
 	}
 
 	.postNav {
-		border-top: 1px solid lighten(black, 10%);
-		border-bottom: 1px solid lighten(black, 10%);
+		border-top: 1px solid color.adjust(black, $lightness: 10%);
+		border-bottom: 1px solid color.adjust(black, $lightness: 10%);
 	}
 
 	.footer .container {
-		border-top-color: lighten(black, 10%);
+		border-top-color: color.adjust(black, $lightness: 10%);
 	}
 }

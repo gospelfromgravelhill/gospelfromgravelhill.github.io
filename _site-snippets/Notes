@@ -1,3 +1,6 @@
 Build site locally 
 
 bundle exec jekyll serve
+
+Built site locally avaliable from whole network
+bundle exec jekyll serve --host X.Y.Z.W --port 4000

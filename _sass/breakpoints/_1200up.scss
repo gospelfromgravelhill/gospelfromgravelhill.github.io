@@ -1,7 +1,15 @@
+@use "../config" as *;
+@use "sass:color";
+
+@media only screen and (min-width: 1200px) {
+
 body {
   font-size: 137.5%;
 }
 
 .container {
   max-width: 990px;
+}
+
+
 }

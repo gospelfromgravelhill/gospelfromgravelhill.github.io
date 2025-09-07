@@ -1,4 +1,9 @@
-/***************
+@use "../config" as *;
+@use "sass:color";
+
+@media only screen and (min-width: 800px) {
+
+	/***************
 GLOBAL STYLES
 ***************/
 
@@ -99,7 +104,7 @@ HEADER STYLING
 					padding: 0 .25em;
 
 					&:hover {
-						color: darken(white, 20%);
+						color: color.adjust(white, $lightness: -20%);
 					}
 				}
 
@@ -286,4 +291,7 @@ DARK THEME STYLING
 	.post .featuredImage:before {
 		background: black;
 	}
+}
+
+
 }

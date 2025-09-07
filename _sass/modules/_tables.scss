@@ -1,6 +1,8 @@
 /***************
 TABLE STYLES
 ***************/
+@use "../config" as *;
+@use "sass:color";
 
 table {
 	width: 100%;
@@ -19,10 +21,10 @@ table {
 tr {
 
 	&:nth-child(even) {
-		background-color: lighten($grey, 30%);
+		background-color: color.adjust($grey, $lightness: 30%);
 
 		@media (prefers-color-scheme: dark) {
-			background-color: lighten(black, 10%);
+			background-color: color.adjust(black, $lightness: 10%);
 		}
 	}
 }
