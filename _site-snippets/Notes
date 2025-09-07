@@ -4,3 +4,8 @@ bundle exec jekyll serve
 
 Built site locally avaliable from whole network
 bundle exec jekyll serve --host X.Y.Z.W --port 4000
+
+
+
+Build for regular site
+python -m http.server 4000
