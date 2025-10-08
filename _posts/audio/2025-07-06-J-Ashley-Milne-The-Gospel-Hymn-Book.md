@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "J. Ashley Milne — The Gospel Hymn Book"
-date: 2020-01-01
+title: "J Ashley Milne - The Gospel Hymn Book"
+date: 2025-10-06
 category: audio
 ---
 

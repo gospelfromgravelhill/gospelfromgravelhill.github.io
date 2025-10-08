@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "J. Ashley Milne - The Gospel Hymn Book - Vol 2"
+title: "J Ashley Milne - The Gospel Hymn Book - Vol 2"
 date: 2025-10-06
 category: jashleymilne
 ---
