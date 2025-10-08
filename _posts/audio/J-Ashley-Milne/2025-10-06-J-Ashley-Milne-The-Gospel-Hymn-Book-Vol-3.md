@@ -88,10 +88,7 @@ category: jashleymilne
   <option value="https://archive.org/download/j-ashley-milne-the-gospel-hymn-book/J.%20Ashley%20Milne%20-%20The%20Gospel%20Hymn%20Book%20Vol%203/3-78%20Wounded%20For%20Me.mp3">3-78 Wounded For Me</option>
   <option value="https://archive.org/download/j-ashley-milne-the-gospel-hymn-book/J.%20Ashley%20Milne%20-%20The%20Gospel%20Hymn%20Book%20Vol%203/3-79%20Years%20I%20Spent%20In%20Vanity%20And%20Pri.mp3">3-79 Years I Spent In Vanity And Pri</option>
   <option value="https://archive.org/download/j-ashley-milne-the-gospel-hymn-book/J.%20Ashley%20Milne%20-%20The%20Gospel%20Hymn%20Book%20Vol%203/3-80%20Yet%20There%20Is%20Room%21.mp3">3-80 Yet There Is Room!</option>
-</select>
-
-<br><br>
-
+</select><br>
 <audio id="audioPlayer" controls>
   <source id="audioSource" src="https://archive.org/download/j-ashley-milne-the-gospel-hymn-book/J.%20Ashley%20Milne%20-%20The%20Gospel%20Hymn%20Book%20Vol%203/3-01%20Sinners%20Jesus%20Will%20Recieve.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
