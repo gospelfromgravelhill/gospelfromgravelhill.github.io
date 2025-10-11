@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2020-02-02 - Crandon Gospel Hall Conference"
-date: 2020-02-02
+title: "2020-11-01 - Summerside Fall Bible Readings"
+date: 2020-11-01
 category: 2020conference
 ---
 
