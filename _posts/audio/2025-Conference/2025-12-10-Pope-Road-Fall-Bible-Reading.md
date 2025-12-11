@@ -5,7 +5,7 @@ date: 2025-12-10
 category: 2025conference
 ---
 
-This Bible Reading was held and recorded by the [Pope Road Gospel Hall](https://poperoadgospelhall.ca/) These udio Files are made from the Zoom Broadcast
+This Bible Reading was held and recorded by the [Pope Road Gospel Hall](https://poperoadgospelhall.ca/) These Audio Files are made from the Zoom Broadcast
 
 
 <p>
@@ -15,7 +15,7 @@ This Bible Reading was held and recorded by the [Pope Road Gospel Hall](https://
   Your browser does not support the audio element.
 </audio>
 </p>
-<p>
+<!--    <p>
 🎵 2025-12-11 - Pope Road Fall Bible Reading - Night 2 (1 Samuel 18)  - The Turning Point <br>
 <audio controls>
   <source src="mp3" type="audio/mpeg">
@@ -56,5 +56,6 @@ This Bible Reading was held and recorded by the [Pope Road Gospel Hall](https://
   <source src="mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-</p>
+</p> -->
+
 
