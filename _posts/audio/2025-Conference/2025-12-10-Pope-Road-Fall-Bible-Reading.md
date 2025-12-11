@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2025-12-10 - Pope Road Fall Bible Reading
+title: "2025-12-10 - Pope Road Fall Bible Reading"
 date: 2025-12-10
 category: 2025conference
 ---
