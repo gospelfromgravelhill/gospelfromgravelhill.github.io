@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2025-01-10 - 2025 Pennsauken Gospel Conference"
-date: 2025-01-10
+date: 2026-01-16
 category: 2025conference
 ---
 
