@@ -9,6 +9,8 @@ pagination:
   category: audio          # filter to the "audio" category
   per_page: 20
   permalink: /audio/page:num/   # paginated URLs under /audio/
+  sort_field: title
+  sort_reverse: false
 ---
 
 Posts related to recordings will appear here.
