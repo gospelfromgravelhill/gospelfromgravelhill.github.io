@@ -2,7 +2,7 @@
 layout: post
 title: "2025-12-10 - Pope Road Fall Bible Reading"
 date: 2025-12-10
-category: 2025conference
+category: [2025conference, scottmacleod]
 ---
 
 This Bible Reading was held and recorded by the [Pope Road Gospel Hall](https://poperoadgospelhall.ca/) These Audio Files are made from the Zoom Broadcast
