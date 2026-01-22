@@ -7,7 +7,7 @@ pagination:
   enabled: true
   collection: posts
   category: articles
-  per_page: 10
+  per_page: 20
   permalink: /articles/page:num/
 ---
 

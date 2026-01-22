@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Sandy Higgins Ministry Messages"
-date: 2025-08-27
+title: "Phil Coulson Messages"
+date: 2025-08-25
 category: audio
 ---
 
 <ul>
-  {% assign conf_posts = site.categories.sandyhiggins | sort: "date" | reverse %}
+  {% assign conf_posts = site.categories.philcoulson | sort: "date" | reverse %}
   {% for post in conf_posts %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
