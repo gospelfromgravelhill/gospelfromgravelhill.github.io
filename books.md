@@ -7,7 +7,7 @@ pagination:
   enabled: true
   collection: posts
   category: books
-  per_page: 10
+  per_page: 20
   permalink: /books/page:num/
 ---
 

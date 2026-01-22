@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dan Rudge Ministry Messages"
+title: "Dan Rudge Messages"
 date: 2025-08-25
 category: audio
 ---

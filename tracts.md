@@ -7,7 +7,7 @@ pagination:
   enabled: true
   collection: posts
   category: tracts
-  per_page: 10
+  per_page: 20
   permalink: /tracts/page:num/
 ---
 
