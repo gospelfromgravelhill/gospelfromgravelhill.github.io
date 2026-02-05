@@ -2,7 +2,7 @@
 layout: post
 title: "2026-01-17 - North Tampa Bible Conference"
 date: 2026-02-02
-category: 2026conference
+category: [2026conference, scottmacleod, tomclark, ianjackson, jackhay, isaiahfrazier]
 ---
 
 This Bible Reading was held and recorded by the [North Tampa Gospel Hall](https://northtampagospelhall.org/) These Audio Files are made from the YouTube Broadcast which can be found on their [YouTube Channel](https://www.youtube.com/@northtampagospel)

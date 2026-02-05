@@ -2,7 +2,7 @@
 layout: post
 title: "2026-01-09 - 2026 Pennsauken Gospel Conference"
 date: 2026-01-09
-category: 2026conference
+category: [2026conference, johndennison, josephbaker, marksweetnam]
 ---
 
 This Bible Reading was held and recorded by the [Pennsauken Gospel Hall](https://pennsaukengospelhall.org/) These Audio Files are made from the YouTube Broadcast which can be found on their [YouTube Channel](https://www.youtube.com/@pennsaukengospelhall)
