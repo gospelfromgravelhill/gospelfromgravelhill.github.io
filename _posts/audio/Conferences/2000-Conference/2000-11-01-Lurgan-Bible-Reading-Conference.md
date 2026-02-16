@@ -3,6 +3,7 @@ layout: post
 title: "2000-11-01 - Lurgan Bible Reading Conference - Revelation 1-3"
 date: 2026-01-20
 category: 2000conference
+slug: 2000-11-01-Lurgan-Bible-Reading-Conference
 ---
 
 These Audio files were created and edited by the Lurgan gospel Hall <br>

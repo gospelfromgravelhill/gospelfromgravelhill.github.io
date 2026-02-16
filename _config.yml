@@ -27,7 +27,7 @@ author: Marc MacArthur
 url: "https://gospel.fromgravelhill.ca"
 baseurl: ""
 
-permalink: pretty
+permalink: /:year/:month/:day/:title/
 markdown: kramdown
 theme: null
 

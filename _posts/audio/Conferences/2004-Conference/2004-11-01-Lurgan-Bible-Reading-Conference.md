@@ -3,6 +3,7 @@ layout: post
 title: "2004-11-01 - Lurgan Bible Reading Conference - Death of Christ (Lev16, Psa22, Isa53, Jn19)"
 date: 2026-01-20
 category: 2004conference
+slug: 2004-11-01-Lurgan-Bible-Reading-Conference
 ---
 
 These Audio files were created and edited by the Lurgan Gospel Hall <br>

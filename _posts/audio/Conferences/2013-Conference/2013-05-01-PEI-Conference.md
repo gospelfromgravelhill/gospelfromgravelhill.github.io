@@ -3,6 +3,7 @@ layout: post
 title: "2013-05-01 - PEI Conference"
 date: 2026-01-21
 category: 2013conference
+slug: 2013-05-01-PEI-Conference
 ---
 
 These Audio files were created and edited by the [Pope Road Gospel Hall](https://poperoadgospelhall.ca/) <br>

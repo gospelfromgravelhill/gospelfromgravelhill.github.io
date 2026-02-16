@@ -3,6 +3,7 @@ layout: post
 title: "1986-11-01 - Lurgan Bible Reading Conference - Matthew 13-18"
 date: 2026-01-20
 category: 1986conference
+slug: 1986-11-01-Lurgan-Bible-Reading-Conference
 ---
 
 These Audio files were created and edited by the Lurgan Gospel Hall <br>

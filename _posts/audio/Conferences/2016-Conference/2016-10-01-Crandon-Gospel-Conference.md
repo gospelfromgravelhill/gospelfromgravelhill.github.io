@@ -3,6 +3,7 @@ layout: post
 title: "2016-10-01 - Crandon Gospel Conference"
 date: 2026-01-21
 category: 2016conference
+slug: 2016-10-01-Crandon-Gospel-Conference
 ---
 
 These Audio files were created and edited by the [Crandon Gospel Hall](https://www.crandongospelhall.com/) <br>
