@@ -3,6 +3,7 @@ layout: post
 title: "2016-06-01 - Pugwash Junction Conference"
 date: 2026-01-21
 category: 2016conference
+slug: 2016-06-01-Pugwash-Junction-Conference
 ---
 
 These Audio files were created and edited by the [Pugwash Junction Gospel Hall](https://sites.google.com/view/pugwashjunctiongospelhall/) <br>
