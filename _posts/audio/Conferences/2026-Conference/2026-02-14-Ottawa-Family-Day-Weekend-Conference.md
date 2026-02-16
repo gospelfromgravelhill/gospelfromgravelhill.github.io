@@ -2,7 +2,7 @@
 layout: post
 title: "2026-02-14 - Ottawa Family Day Weekend Conference"
 date: 2026-02-14
-category: 2026conference
+category: [2026conference, davidzuidema, brodythibodeau]
 ---
 
 These Audio files were created from Zoom Broadcast done by the [Ottawa Gospel Hall](http://ottawagospelhall.com/) <br>
@@ -60,3 +60,52 @@ These Audio files were created from Zoom Broadcast done by the [Ottawa Gospel Ha
 <br>
 
 <h3>Day 2</h3>
+
+<p>
+🎵 001 - Brody Thibodeau - Pattern of Peter's Point Joseph <br>
+<audio controls>
+  <source src="https://archive.org/download/2026-gospel-conference-audio/2026-02-14%20-%20Ottawa%20Family%20Day%20Weekend%20Conference%20-%201%20Peter/2026-02-15%20-%20Ottawa%20Family%20Day%20Weekend%20Conference%20-%20001%20-%20Brody%20Thibodeau%20-%20Pattern%20of%20Peter%27s%20Point%20Joseph.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+</p>
+
+<p>
+🎵 002 - Brody Thibodeau - Priesthood It's Practice <br>
+<audio controls>
+  <source src="https://archive.org/download/2026-gospel-conference-audio/2026-02-14%20-%20Ottawa%20Family%20Day%20Weekend%20Conference%20-%201%20Peter/2026-02-15%20-%20Ottawa%20Family%20Day%20Weekend%20Conference%20-%20002%20-%20Brody%20Thibodeau%20-%20Priesthood%20It%27s%20Practice.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+</p>
+
+<p>
+🎵 003 - David Zuidema - Healthy Theology of Suffering <br>
+<audio controls>
+  <source src="https://archive.org/download/2026-gospel-conference-audio/2026-02-14%20-%20Ottawa%20Family%20Day%20Weekend%20Conference%20-%201%20Peter/2026-02-15%20-%20Ottawa%20Family%20Day%20Weekend%20Conference%20-%20003%20-%20David%20Zuidema%20-%20Healthy%20Theology%20of%20Suffering.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+</p>
+
+<p>
+🎵 004 - Brody Thibodeau - Shepherds, Sheep and Satan <br>
+<audio controls>
+  <source src="https://archive.org/download/2026-gospel-conference-audio/2026-02-14%20-%20Ottawa%20Family%20Day%20Weekend%20Conference%20-%201%20Peter/2026-02-15%20-%20Ottawa%20Family%20Day%20Weekend%20Conference%20-%20004%20-%20Brody%20Thibodeau%20-%20Shepherds%2C%20Sheep%20and%20Satan.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+</p>
+
+<p>
+🎵 005 - David Zuidema - True Grace <br>
+<audio controls>
+  <source src="https://archive.org/download/2026-gospel-conference-audio/2026-02-14%20-%20Ottawa%20Family%20Day%20Weekend%20Conference%20-%201%20Peter/2026-02-15%20-%20Ottawa%20Family%20Day%20Weekend%20Conference%20-%20005%20-%20David%20Zuidema%20-%20True%20Grace.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+</p>
+
+<p>
+🎵 006 - David Zuidema - The Great Exchange (Gospel) <br>
+<audio controls>
+  <source src="https://archive.org/download/2026-gospel-conference-audio/2026-02-14%20-%20Ottawa%20Family%20Day%20Weekend%20Conference%20-%201%20Peter/2026-02-15%20-%20Ottawa%20Family%20Day%20Weekend%20Conference%20-%20006%20-%20Gospel%20-%20David%20Zuidema%20-%20The%20Great%20Exchange.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+</p>
+
