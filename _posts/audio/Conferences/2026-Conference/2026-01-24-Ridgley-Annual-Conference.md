@@ -3,6 +3,7 @@ layout: post
 title: "2026-01-24 - Ridgley Annual Conference"
 date: 2026-02-02
 category: [2026conference, philcollier, royoh]
+slug: 2026-01-24-Ridgley-Annual-Conference
 ---
 
 These Audio files were created and edited by the Ridgley Gospel Hall <br>

@@ -3,6 +3,7 @@ layout: post
 title: "2026-01-16 - Orangewood Gospel Conference"
 date: 2026-02-02
 category: [2026conference, sandyhiggins, johndennison, tombaker, johnmeekin, shawnstclair]
+slug: 2026-01-16-Orangewood-Gospel-Conference
 ---
 
 These recordings were created by the [Orangewood Gospel Hall](https://www.orangewoodgospelhall.org/) <br>

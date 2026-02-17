@@ -3,6 +3,7 @@ layout: post
 title: "2026-02-14 - Ottawa Family Day Weekend Conference"
 date: 2026-02-14
 category: [2026conference, davidzuidema, brodythibodeau]
+slug: 2026-02-14-Ottawa-Family-Day-Weekend-Conference
 ---
 
 These Audio files were created from Zoom Broadcast done by the [Ottawa Gospel Hall](http://ottawagospelhall.com/) <br>
