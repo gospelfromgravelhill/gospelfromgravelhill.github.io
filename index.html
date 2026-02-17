@@ -38,9 +38,9 @@ title: The Gospel from Gravel Hill
       <li class="home-recent__item">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
-        {%- if post.categories and post.categories.size > 0 -%}
+<!--            {%- if post.categories and post.categories.size > 0 -%}
           <span class="home-recent__cat">{{ post.categories | join: ", " }}</span>
-        {%- endif -%}
+        {%- endif -%} -->
       </li>
     {%- endfor -%}
   </ul>
