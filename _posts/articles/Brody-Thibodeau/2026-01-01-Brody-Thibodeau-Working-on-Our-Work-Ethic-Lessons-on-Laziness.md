@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brody Thibodeau - Working on Our Work Ethic - Lessons on Laziness"
-date: 2026-01-01 8:35
+date: 2026-03-13 8:35
 category: articles
 ---
 

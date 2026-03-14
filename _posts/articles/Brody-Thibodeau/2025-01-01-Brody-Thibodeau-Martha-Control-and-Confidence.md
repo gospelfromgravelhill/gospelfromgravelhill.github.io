@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brody Thibodeau - Martha Control and Confidence"
-date: 2025-01-01 8:35
+date: 2026-03-13 8:30
 category: articles
 ---
 
