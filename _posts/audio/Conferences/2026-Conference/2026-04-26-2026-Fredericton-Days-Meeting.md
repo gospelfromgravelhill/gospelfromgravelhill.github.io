@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2026-04-26 - 2026 Fredericton Days Meeting"
-slug: 2026-04-26-2026-Fredericton-Days-Meeting
+slug: 2026-Fredericton-Days-Meeting
 date: 2026-05-02
 category: [2026conference, jonathanprocopio, joepotter, liamhannah, johnmeekin, murraymccandless]
 ---
