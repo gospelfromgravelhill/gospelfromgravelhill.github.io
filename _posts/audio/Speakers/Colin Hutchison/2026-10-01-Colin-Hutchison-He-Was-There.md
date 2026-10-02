@@ -3,7 +3,7 @@ layout: post
 title: "2026-10-01 - Colin Hutchison - He Was There"
 slug: 2026-10-01-Colin-Hutchison-He-Was-There
 date: 2026-10-02
-category: colinhutchinson
+category: colinhutchison
 ---
 
 This Audio file was recorded at the [Sussex Gospel Hall](https://sussexgospelhall.com/) <br>
