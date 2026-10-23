@@ -13,7 +13,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Bernie-Payne/Bernie-Payne-Whom-Have-I-In-Heaven-But-Thee.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Bernie-Payne/Bernie-Payne-Whom-Have-I-In-Heaven-But-Thee.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

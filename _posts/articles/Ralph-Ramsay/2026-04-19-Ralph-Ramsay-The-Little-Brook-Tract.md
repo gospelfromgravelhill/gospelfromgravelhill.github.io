@@ -13,7 +13,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Ralph-Ramsay/Ralph-Ramsay-The-Little-Brook-Tract.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Ralph-Ramsay/Ralph-Ramsay-The-Little-Brook-Tract.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

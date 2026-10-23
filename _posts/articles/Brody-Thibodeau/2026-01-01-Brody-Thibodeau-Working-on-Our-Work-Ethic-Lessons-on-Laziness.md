@@ -13,7 +13,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Brody-Thibodeau/Brody-Thibodeau-Working-on-Our-Work-Ethic-Lessons-on-Laziness.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Brody-Thibodeau/Brody-Thibodeau-Working-on-Our-Work-Ethic-Lessons-on-Laziness.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

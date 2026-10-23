@@ -13,7 +13,7 @@ category: tracts
 </iframe>
 
 <p>
-    <a href="{{ '/assets/tracts/Tract-More-than-a-Game.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/tracts/Tract-More-than-a-Game.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

@@ -6,7 +6,7 @@ category: 2022conference
 ---
 
 <p>
-<a href="https://archive.org/download/2022-gospel-conference-audio/2022%20-%20Cleveland%20Youth%20Conference/CYC2022-Powerpoint.pdf" target="_blank" download>
+<a href="https://archive.org/download/2022-gospel-conference-audio/2022%20-%20Cleveland%20Youth%20Conference/CYC2022-Powerpoint.pdf" target="_blank" rel="noopener" download>
     📄 Download Slideshow (PDF)
   </a>
 </p>

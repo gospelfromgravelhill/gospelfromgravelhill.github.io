@@ -17,7 +17,7 @@ In light of this need, the Christians that meet at the Pope Road Gospel Hall in 
 </audio>
 </p>
 <p>
-<a href="https://archive.org/download/2021-gospel-conference-audio/2021-01-%20Winter%20Bible%20Readings%20-%20Revisiting%20the%20Basics/Salvation-1.pdf" target="_blank" download>
+<a href="https://archive.org/download/2021-gospel-conference-audio/2021-01-%20Winter%20Bible%20Readings%20-%20Revisiting%20the%20Basics/Salvation-1.pdf" target="_blank" rel="noopener" download>
     📄 Salvation Outline (pdf)
   </a>
 </p>
@@ -30,7 +30,7 @@ In light of this need, the Christians that meet at the Pope Road Gospel Hall in 
 </audio>
 </p>
 <p>
-<a href="https://archive.org/download/2021-gospel-conference-audio/2021-01-%20Winter%20Bible%20Readings%20-%20Revisiting%20the%20Basics/Baptism-Outline-Scott-MacLeod.docx" target="_blank" download>
+<a href="https://archive.org/download/2021-gospel-conference-audio/2021-01-%20Winter%20Bible%20Readings%20-%20Revisiting%20the%20Basics/Baptism-Outline-Scott-MacLeod.docx" target="_blank" rel="noopener" download>
     📄 Baptism Outline (Word Doc)
   </a>
 </p>
@@ -43,7 +43,7 @@ In light of this need, the Christians that meet at the Pope Road Gospel Hall in 
 </audio>
 </p>
 <p>
-<a href="https://archive.org/download/2021-gospel-conference-audio/2021-01-%20Winter%20Bible%20Readings%20-%20Revisiting%20the%20Basics/Doctrine-Brody-Thibodeau.docx" target="_blank" download>
+<a href="https://archive.org/download/2021-gospel-conference-audio/2021-01-%20Winter%20Bible%20Readings%20-%20Revisiting%20the%20Basics/Doctrine-Brody-Thibodeau.docx" target="_blank" rel="noopener" download>
     📄 Doctrine Outline (Word Doc)
   </a>
 </p>
@@ -56,7 +56,7 @@ In light of this need, the Christians that meet at the Pope Road Gospel Hall in 
 </audio>
 </p>
 <p>
-<a href="https://archive.org/download/2021-gospel-conference-audio/2021-01-%20Winter%20Bible%20Readings%20-%20Revisiting%20the%20Basics/Assembly-Fellowship-The-Participation-We-Enjoy-John-Meekin-Feb-2021.docx" target="_blank" download>
+<a href="https://archive.org/download/2021-gospel-conference-audio/2021-01-%20Winter%20Bible%20Readings%20-%20Revisiting%20the%20Basics/Assembly-Fellowship-The-Participation-We-Enjoy-John-Meekin-Feb-2021.docx" target="_blank" rel="noopener" download>
     📄 Assembly Fellowship Outline (Word Doc)
   </a>
 </p>
@@ -69,7 +69,7 @@ In light of this need, the Christians that meet at the Pope Road Gospel Hall in 
 </audio>
 </p>
 <p>
-<a href="https://archive.org/download/2021-gospel-conference-audio/2021-01-%20Winter%20Bible%20Readings%20-%20Revisiting%20the%20Basics/VBR-Lords-Supper-Mar6.docx" target="_blank" download>
+<a href="https://archive.org/download/2021-gospel-conference-audio/2021-01-%20Winter%20Bible%20Readings%20-%20Revisiting%20the%20Basics/VBR-Lords-Supper-Mar6.docx" target="_blank" rel="noopener" download>
     📄 The Lord’s Supper Outline (Word Doc)
   </a>
 </p>
@@ -82,13 +82,13 @@ In light of this need, the Christians that meet at the Pope Road Gospel Hall in 
 </audio>
 </p>
 <p>
-<a href="https://archive.org/download/2021-gospel-conference-audio/2021-01-%20Winter%20Bible%20Readings%20-%20Revisiting%20the%20Basics/Prayer-and-the-Prayer-Meeting-Bordy-Thibodeau-March-2021.docx" target="_blank" download>
+<a href="https://archive.org/download/2021-gospel-conference-audio/2021-01-%20Winter%20Bible%20Readings%20-%20Revisiting%20the%20Basics/Prayer-and-the-Prayer-Meeting-Bordy-Thibodeau-March-2021.docx" target="_blank" rel="noopener" download>
     📄 The Prayer Meeting Outline (Word Doc)
   </a>
 </p>
 
 <p>
-<a href="https://archive.org/download/2021-gospel-conference-audio/2021-01-%20Winter%20Bible%20Readings%20-%20Revisiting%20the%20Basics/Prayer-in-the-Acts-of-the-Apostles.pdf" target="_blank" download>
+<a href="https://archive.org/download/2021-gospel-conference-audio/2021-01-%20Winter%20Bible%20Readings%20-%20Revisiting%20the%20Basics/Prayer-in-the-Acts-of-the-Apostles.pdf" target="_blank" rel="noopener" download>
     📄 Prayer in the Book of the Acts (Supplement Document – PDF)
   </a>
 </p>
