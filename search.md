@@ -6,7 +6,13 @@ permalink: /search/
 
 <h1>Search</h1>
 
-<input id="search-input" type="search" placeholder="Search posts and pages…">
+<input
+	id="search-input"
+	type="search"
+	placeholder="Search posts and pages…"
+	aria-label="Search posts and pages"
+	autocomplete="off"
+>
 <ul id="results-container" class="noList"></ul>
 
 <script src="https://unpkg.com/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"></script>

@@ -2,19 +2,25 @@
 layout: null
 permalink: /search.json
 ---
-
 [
 {% assign items = site.posts | concat: site.pages %}
+{% assign first_result = true %}
+
 {% for item in items %}
-  {% unless item.draft or item.search_exclude %}
-    {
-      "title": {{ item.title | default: "" | strip_newlines | jsonify }},
-      "url": {{ item.url | relative_url | jsonify }},
-      "date": {{ item.date | date: "%Y-%m-%d" | jsonify }},
-      "excerpt": {{ item.excerpt | default: "" | strip_html | normalize_whitespace | strip_newlines | jsonify }},
-      "content": {{ item.content | strip_html | normalize_whitespace | strip_newlines | truncate: 2000 | jsonify }},
-      "type": {% if item.collection == 'posts' or item.path contains '_posts/' %}"post"{% else %}"page"{% endif %}
-    }{% if forloop.last == false %},{% endif %}
-  {% endunless %}
+	{% unless item.draft or item.search_exclude or item.title == nil %}
+
+		{% unless first_result %},{% endunless %}
+		{
+			"title": {{ item.title | strip_newlines | jsonify }},
+			"url": {{ item.url | relative_url | jsonify }},
+			"date": {{ item.date | date: "%Y-%m-%d" | jsonify }},
+			"excerpt": {{ item.excerpt | default: "" | strip_html | normalize_whitespace | strip_newlines | jsonify }},
+			"content": {{ item.content | strip_html | normalize_whitespace | strip_newlines | truncate: 2000 | jsonify }},
+			"type": {% if item.collection == "posts" or item.path contains "_posts/" %}"post"{% else %}"page"{% endif %}
+		}
+
+		{% assign first_result = false %}
+
+	{% endunless %}
 {% endfor %}
 ]
