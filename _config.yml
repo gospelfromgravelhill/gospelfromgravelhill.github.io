@@ -4,8 +4,16 @@ subtitle: "…the glorious gospel of the blessed God… —1 Timothy 1:11"
 description: "The Gospel proclaimed from Gravel Hill"
 author: "Marc MacArthur"
 
+company_name: "From Gravel Hill Enterprises"
+company_url: "https://fromgravelhill.ca/"
+
 lang: "en-CA"
 timezone: "America/Halifax"
+
+# Social links
+social:
+  github: "gospelfromgravelhill"
+  email: "gospel@fromgravelhill.ca"
 
 url: "https://gospel.fromgravelhill.ca"
 baseurl: ""
