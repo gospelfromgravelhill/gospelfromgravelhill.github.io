@@ -44,7 +44,7 @@ category: philcoulson
 <br>
 <figure>
   <a href="https://archive.org/download/phil-coulson-ministry-messages/2012-11-30%20-%20Phil%20Coulson%20-%20Jude/screencapture-thegloriousgospel-ca-test-page-for-jude-2024-07-10-21_21_20.png"
-     target="_blank" rel="noopener" rel="noopener"
+     target="_blank" rel="noopener"
      title="Opens a very large image in a new tab">
     <img
       src="/assets/img/JudeThumb.png"
