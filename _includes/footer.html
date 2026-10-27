@@ -104,7 +104,12 @@
 				</li>
 				{%- endif -%} {%- if site.social.github -%}
 				<li>
-					<a href="https://github.com/{{ site.social.github }}" target="_blank" rel="noopener">
+					<a
+  href="https://github.com/{{ site.social.github }}"
+  target="_blank"
+  rel="noopener"
+  aria-label="GitHub"
+>
 						<svg
 							id="github"
 							class="custom-icon"
@@ -132,7 +137,7 @@
 				</li>
 				{%- endif -%} {%- if site.social.email -%}
 				<li>
-					<a href="mailto:{{ site.social.email }}" target="_blank" rel="noopener">
+					<a href="mailto:{{ site.social.email }}" aria-label="Email" >
 						<svg
 							id="mail"
 							class="custom-icon"
