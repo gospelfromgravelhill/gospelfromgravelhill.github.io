@@ -111,35 +111,6 @@
 .home-recent__more a { text-decoration: none; }
 
 
-
-  /* clamp long titles */
-  .home-recent__item a {
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    max-width: 100%;
-    word-break: break-word;
-    overflow-wrap: anywhere;
-    hyphens: auto;
-  }
-
-  /* wrap date + category together on one line */
-  .home-recent__item time,
-  .home-recent__cat {
-    display: inline;         /* force them inline */
-    font-size: 0.9rem;
-    opacity: 0.75;
-    margin: 0;
-  }
-
-  /* add divider between date and category if both exist */
-  .home-recent__cat::before {
-    content: " • ";
-    opacity: 0.6;
-  }
-}
-
 /* --- Recent Page --- */
 .meta {
   display: flex;
