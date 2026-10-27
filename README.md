@@ -3,7 +3,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/gospelfromgravelhill/gospelfromgravelhill.github.io?logo=github)](https://github.com/gospelfromgravelhill/gospelfromgravelhill.github.io/commits/main)
 ![Made with Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-%23cc0000)
 ![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-222)
-[![Pages Build](https://github.com/gospelfromgravelhill/gospelfromgravelhill.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/gospelfromgravelhill/gospelfromgravelhill.github.io/actions/workflows/pages/pages-build-deployment)
+[![Pages Build](https://github.com/gospelfromgravelhill/gospelfromgravelhill.github.io/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/gospelfromgravelhill/gospelfromgravelhill.github.io/actions/workflows/pages.yml)
 [![CI](https://github.com/gospelfromgravelhill/gospelfromgravelhill.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/gospelfromgravelhill/gospelfromgravelhill.github.io/actions/workflows/ci.yml)
 ![Code License](https://img.shields.io/badge/Code%20License-MIT-green)
 ![Content License](https://img.shields.io/badge/Content%20License-CC%20BY--NC--SA%204.0-blue)
@@ -17,7 +17,6 @@ A structured Jekyll site with sections for **Articles**, **Audio**, **Books**, *
 - Pages: `index.html`, `about.md`, `articles.md`, `audio.md`, `books.md`, `charts.md`, `tracts.md`, `recent.md`, `thank-you.md`, `404.html`
 - Search: `search.md`, `search.json`
 - Assets: `assets/`
-- Node (asset tooling): `package.json`, `package-lock.json`
 - Custom domain via `CNAME`
 
 ## ✍️ Editing Content
@@ -30,16 +29,15 @@ A structured Jekyll site with sections for **Articles**, **Audio**, **Books**, *
 > **Prereqs**: Ruby + Bundler, and Node (LTS).
 
 ```bash
-# Ruby deps
+# Install Ruby dependencies
 gem install bundler
 bundle install
 
-# Node deps (if used by the theme/tooling)
-npm ci  # or: npm install
-
 # Serve the site
 bundle exec jekyll serve --livereload
-# Then open http://127.0.0.1:4000
+
+# Then open:
+# http://127.0.0.1:4000
 ```
 
 ## Licensing
