@@ -3,6 +3,7 @@ layout: post
 title: "Bernie Payne - Whom Have I In Heaven But Thee"
 date: 2026-06-05 8:35
 category: articles
+author: Bernie Payne
 ---
 
 <iframe 

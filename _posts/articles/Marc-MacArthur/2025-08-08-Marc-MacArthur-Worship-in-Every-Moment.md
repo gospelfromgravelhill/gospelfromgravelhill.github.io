@@ -3,6 +3,7 @@ layout: post
 title: "Marc MacArthur - Worship in Every Moment"
 date: 2025-08-08 11:20
 category: articles
+author: Marc MacArthur
 ---
 
 <iframe 

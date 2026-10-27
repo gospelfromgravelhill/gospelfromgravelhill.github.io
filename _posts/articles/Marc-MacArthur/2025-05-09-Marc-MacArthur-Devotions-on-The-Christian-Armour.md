@@ -3,6 +3,7 @@ layout: post
 title: "Marc MacArthur - Devotions on The Christian Armour"
 date: 2025-05-09 09:35
 category: articles
+author: Marc MacArthur
 ---
 
 <iframe 

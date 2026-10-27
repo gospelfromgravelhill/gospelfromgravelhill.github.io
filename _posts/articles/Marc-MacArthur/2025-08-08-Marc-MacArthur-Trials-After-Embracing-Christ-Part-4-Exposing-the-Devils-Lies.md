@@ -3,6 +3,7 @@ layout: post
 title: "Marc MacArthur - Trials After Embracing Christ: Part 4 Exposing the Devil's Lies"
 date: 2025-08-08 11:40
 category: articles
+author: Marc MacArthur
 ---
 
 <iframe 

@@ -3,6 +3,7 @@ layout: post
 title: "Peter Ramsay - Five Spiritual Lessons from the Confederation Bridge"
 date: 2026-04-19 8:35
 category: articles
+author: Peter Ramsay
 ---
 
 <iframe 

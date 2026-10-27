@@ -3,6 +3,7 @@ layout: post
 title: "Bernie Payne - Elect according to the Foreknowledge of God"
 date: 2025-11-07 09:35
 category: articles
+author: Bernie Payne
 ---
 
 <iframe 

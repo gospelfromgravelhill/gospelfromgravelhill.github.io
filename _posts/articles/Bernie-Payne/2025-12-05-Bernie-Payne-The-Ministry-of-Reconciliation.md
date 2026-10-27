@@ -3,6 +3,7 @@ layout: post
 title: "Bernie Payne - The Ministry of Reconciliation"
 date: 2025-12-05 09:35
 category: articles
+author: Bernie Payne
 ---
 
 <iframe 

@@ -3,6 +3,7 @@ layout: post
 title: "Marc MacArthur - Bring Your Loaves and Fishes and Trust in God's Provision"
 date: 2025-08-08 11:05
 category: articles
+author: Marc MacArthur
 ---
 
 <iframe 

@@ -3,6 +3,7 @@ layout: post
 title: "Bernie Payne - The God of the Mountains - Part 8"
 date: 2025-08-07 20:05
 category: articles
+author: Bernie Payne
 ---
 
 <iframe 

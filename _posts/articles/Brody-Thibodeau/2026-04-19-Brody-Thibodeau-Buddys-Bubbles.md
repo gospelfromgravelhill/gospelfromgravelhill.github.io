@@ -3,6 +3,7 @@ layout: post
 title: "Brody Thibodeau - Buddys Bubbles"
 date: 2026-04-19 8:35
 category: articles
+author: Brody Thibodeau
 ---
 
 <iframe 

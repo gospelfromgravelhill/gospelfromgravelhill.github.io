@@ -3,6 +3,7 @@ layout: post
 title: "Joel Portman - A Foolish Message with Foolish Methods"
 date: 2024-11-01 09:35
 category: articles
+author: Joel Portman
 ---
 
 <iframe 

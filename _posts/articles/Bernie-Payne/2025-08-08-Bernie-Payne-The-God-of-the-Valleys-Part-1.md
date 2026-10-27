@@ -3,6 +3,7 @@ layout: post
 title: "Bernie Payne - The God of the Valleys: Part 1"
 date: 2025-08-08 11:25
 category: articles
+author: Bernie Payne
 ---
 
 <iframe 

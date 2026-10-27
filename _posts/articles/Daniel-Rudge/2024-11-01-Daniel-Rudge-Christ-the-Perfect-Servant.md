@@ -3,6 +3,7 @@ layout: post
 title: "Daniel Rudge - Christ the Perfect Servant"
 date: 2024-11-01 09:35
 category: articles
+author: Daniel Rudge
 ---
 
 <iframe 

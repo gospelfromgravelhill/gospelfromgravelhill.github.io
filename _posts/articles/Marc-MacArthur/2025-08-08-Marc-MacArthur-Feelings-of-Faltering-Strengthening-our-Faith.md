@@ -3,6 +3,7 @@ layout: post
 title: "Marc MacArthur - Feelings of Faltering: Strengthening our Faith"
 date: 2025-08-08 11:10
 category: articles
+author: Marc MacArthur
 ---
 
 <iframe 

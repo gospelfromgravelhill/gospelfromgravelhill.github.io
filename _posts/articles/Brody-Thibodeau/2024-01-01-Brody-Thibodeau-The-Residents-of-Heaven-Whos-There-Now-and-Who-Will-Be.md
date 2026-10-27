@@ -3,6 +3,7 @@ layout: post
 title: "Brody Thibodeau - The Residents of Heaven - Whos There Now and Who Will Be"
 date: 2026-03-13 8:25
 category: articles
+author: Brody Thibodeau
 ---
 
 <iframe 

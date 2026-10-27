@@ -3,6 +3,7 @@ layout: post
 title: "Marc MacArthur - Trials After Embracing Christ: Part 2 The World a Subtle Threat to Our Faith"
 date: 2025-08-08 11:05
 category: articles
+author: Marc MacArthur
 ---
 
 <iframe 

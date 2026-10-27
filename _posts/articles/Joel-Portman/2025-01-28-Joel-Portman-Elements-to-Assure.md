@@ -3,6 +3,7 @@ layout: post
 title: "Joel Portman - Elements to Assure"
 date: 2025-01-28 09:35
 category: articles
+author: Joel Portman
 ---
 
 <iframe 

@@ -3,6 +3,7 @@ layout: post
 title: "Bernie Payne - His Name Shall Be Called Wonderful - Part 6"
 date: 2026-02-27 8:35
 category: articles
+author: Bernie Payne
 ---
 
 <iframe 

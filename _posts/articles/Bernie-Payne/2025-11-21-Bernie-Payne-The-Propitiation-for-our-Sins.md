@@ -3,6 +3,7 @@ layout: post
 title: "Bernie Payne - The Propitiation for our Sins"
 date: 2025-11-21 09:35
 category: articles
+author: Bernie Payne
 ---
 
 <iframe 

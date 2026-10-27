@@ -3,6 +3,7 @@ layout: post
 title: "Sydney Maxwell - The Tabernacle Part 14 - The Golden Altar - Part 2"
 date: 2024-11-01 09:35
 category: articles
+author: Sydney Maxwell
 ---
 
 <iframe 

@@ -3,6 +3,7 @@ layout: post
 title: "Brody Thibodeau - The Last I AM Revelation 22.16"
 date: 2026-04-19 8:35
 category: articles
+author: Brody Thibodeau
 ---
 
 <iframe 

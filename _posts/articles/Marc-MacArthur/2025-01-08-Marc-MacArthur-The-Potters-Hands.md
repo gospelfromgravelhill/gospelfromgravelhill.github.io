@@ -3,6 +3,7 @@ layout: post
 title: "Marc MacArthur - The Potter's Hands"
 date: 2025-01-08 09:35
 category: articles
+author: Marc MacArthur
 ---
 
 <iframe 

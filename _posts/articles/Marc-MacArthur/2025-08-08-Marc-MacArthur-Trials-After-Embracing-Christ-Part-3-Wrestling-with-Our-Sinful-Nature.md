@@ -3,6 +3,7 @@ layout: post
 title: "Marc MacArthur - Trials After Embracing Christ: Part 3 Wrestling with Our Sinful Nature"
 date: 2025-08-08 11:05
 category: articles
+author: Marc MacArthur
 ---
 
 <iframe 

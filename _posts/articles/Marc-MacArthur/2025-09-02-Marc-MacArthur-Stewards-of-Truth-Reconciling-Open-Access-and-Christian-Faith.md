@@ -3,6 +3,7 @@ layout: post
 title: "Marc MacArthur - Stewards of Truth: Reconciling Open Access and Christian Faith"
 date: 2025-09-02 09:35
 category: articles
+author: Marc MacArthur
 ---
 
 <iframe 

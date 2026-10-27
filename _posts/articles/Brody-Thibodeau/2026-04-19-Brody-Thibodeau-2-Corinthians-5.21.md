@@ -3,6 +3,7 @@ layout: post
 title: "Brody Thibodeau - 2 Corinthians 5.21"
 date: 2026-04-19 8:35
 category: articles
+author: Brody Thibodeau
 ---
 
 <iframe 

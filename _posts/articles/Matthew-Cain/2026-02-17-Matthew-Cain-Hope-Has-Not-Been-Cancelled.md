@@ -3,6 +3,7 @@ layout: post
 title: "Matthew Cain - Hope Has Not Been Cancelled"
 date: 2026-02-17 8:35
 category: articles
+author: Matthew Cain
 ---
 
 <iframe 

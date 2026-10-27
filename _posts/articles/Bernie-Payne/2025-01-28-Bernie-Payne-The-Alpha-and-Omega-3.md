@@ -3,6 +3,7 @@ layout: post
 title: "Bernie Payne - The Alpha and Omega - Part 3"
 date: 2025-01-28 09:35
 category: articles
+author: Bernie Payne
 ---
 
 <iframe 

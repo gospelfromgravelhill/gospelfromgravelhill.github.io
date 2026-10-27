@@ -3,6 +3,7 @@ layout: post
 title: "Brody Thibodeau- I AM The Way the Truth and the Life Part 1"
 date: 2023-07-01 8:35
 category: articles
+author: Brody Thibodeau
 ---
 
 <iframe 

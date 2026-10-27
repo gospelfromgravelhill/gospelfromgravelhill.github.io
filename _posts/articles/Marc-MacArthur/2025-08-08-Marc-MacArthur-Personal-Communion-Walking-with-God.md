@@ -3,6 +3,7 @@ layout: post
 title: "Marc MacArthur - Personal Communion: Walking with God"
 date: 2025-08-08 11:15
 category: articles
+author: Marc MacArthur
 ---
 
 <iframe 

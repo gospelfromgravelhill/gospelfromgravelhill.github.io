@@ -3,6 +3,7 @@ layout: post
 title: "Bernie Payne - The Precious Gems of the Breastplate 2"
 date: 2025-01-01 09:35
 category: articles
+author: Bernie Payne
 ---
 
 <iframe 

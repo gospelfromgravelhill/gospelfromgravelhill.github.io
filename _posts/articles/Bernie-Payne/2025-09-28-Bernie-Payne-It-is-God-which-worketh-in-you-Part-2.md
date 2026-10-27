@@ -3,6 +3,7 @@ layout: post
 title: "Bernie Payne - It is God which worketh in you - Part 2"
 date: 2025-09-28 09:35
 category: articles
+author: Bernie Payne
 ---
 
 <iframe 

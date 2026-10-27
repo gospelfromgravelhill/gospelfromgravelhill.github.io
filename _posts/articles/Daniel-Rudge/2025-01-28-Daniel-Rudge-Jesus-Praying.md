@@ -3,6 +3,7 @@ layout: post
 title: "Daniel Rudge - Jesus Praying"
 date: 2025-01-28 09:35
 category: articles
+author: Daniel Rudge
 ---
 
 <iframe 

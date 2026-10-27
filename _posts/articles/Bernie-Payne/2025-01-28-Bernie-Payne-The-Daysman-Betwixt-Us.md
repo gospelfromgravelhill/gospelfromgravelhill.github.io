@@ -3,6 +3,7 @@ layout: post
 title: "Bernie Payne - The Daysman Betwixt Us"
 date: 2025-01-28 09:35
 category: articles
+author: Bernie Payne
 ---
 
 <iframe 

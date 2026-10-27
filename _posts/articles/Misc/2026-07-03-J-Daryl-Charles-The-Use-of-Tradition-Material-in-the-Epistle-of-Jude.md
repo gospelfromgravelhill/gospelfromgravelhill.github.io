@@ -3,6 +3,7 @@ layout: post
 title: "J. Daryl Charles - The Use of Tradition Material in the Epistle of Jude"
 date: 2026-07-03 8:40
 category: articles
+author: J. Daryl Charles
 ---
 
 <iframe 

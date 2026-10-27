@@ -3,6 +3,7 @@ layout: post
 title: "Marc MacArthur - Devotional The Fruit of the Spirit Faith"
 date: 2025-01-03 09:35
 category: articles
+author: Marc MacArthur
 ---
 
 <iframe 

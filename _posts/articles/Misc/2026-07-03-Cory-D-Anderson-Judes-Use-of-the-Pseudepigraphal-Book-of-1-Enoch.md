@@ -3,6 +3,7 @@ layout: post
 title: "Cory D. Anderson - Judes Use of the Pseudepigraphal Book of 1 Enoch"
 date: 2026-07-03 8:35
 category: articles
+author: Cory D. Anderson
 ---
 
 <iframe 
