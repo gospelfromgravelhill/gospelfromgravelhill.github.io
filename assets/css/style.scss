@@ -275,3 +275,58 @@ html[data-theme="dark"] .content:after,
 html[data-theme="dark"] .post .featuredImage:before {
   background: #000000 !important;
 }
+
+
+/* --- Site Search --- */
+
+.site-search {
+	max-width: 750px;
+	margin: 0 auto;
+}
+
+.search-label {
+	display: block;
+	margin-bottom: .4rem;
+	font-weight: 700;
+}
+
+#search-input {
+	box-sizing: border-box;
+	width: 100%;
+	padding: .7rem .8rem;
+	font: inherit;
+}
+
+.search-status {
+	min-height: 1.5em;
+	margin: .75rem 0;
+	opacity: .75;
+}
+
+.search-results {
+	margin-top: 1rem;
+}
+
+.search-result {
+	margin-bottom: 1.5rem;
+}
+
+.search-result__title {
+	font-weight: 700;
+	text-decoration: none;
+}
+
+.search-result__title:hover {
+	text-decoration: underline;
+}
+
+.search-result__date {
+	margin-top: .2rem;
+	font-size: .9rem;
+	opacity: .7;
+}
+
+.search-result__excerpt {
+	margin-top: .35rem;
+	margin-bottom: 0;
+}

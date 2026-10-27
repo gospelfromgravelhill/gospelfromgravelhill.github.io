@@ -2,6 +2,7 @@
 layout: default
 title: Thank You
 permalink: /thank-you/
+search_exclude: true
 ---
 
 <div class="post-content" style="text-align: center;">

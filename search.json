@@ -15,7 +15,7 @@ permalink: /search.json
 			"url": {{ item.url | relative_url | jsonify }},
 			"date": {{ item.date | date: "%Y-%m-%d" | jsonify }},
 			"excerpt": {{ item.excerpt | default: "" | strip_html | normalize_whitespace | strip_newlines | jsonify }},
-			"content": {{ item.content | strip_html | normalize_whitespace | strip_newlines | truncate: 2000 | jsonify }},
+			"content": {{ item.content | strip_html | normalize_whitespace | strip_newlines | truncate: 10000 | jsonify }},
 			"type": {% if item.collection == "posts" or item.path contains "_posts/" %}"post"{% else %}"page"{% endif %}
 		}
 
