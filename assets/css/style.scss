@@ -1,13 +1,13 @@
 ---
 ---
 
-// Reset using Normalize
+// Reset
 @use "normalize" as *;
 
 // Site configuration
 @use "config" as *;
 
-// Import Partials
+// Partials
 @use "partials/typography" as *;
 @use "partials/mixins" as *;
 
@@ -18,266 +18,353 @@
 @use "modules/syntax" as *;
 @use "modules/books" as *;
 
-// Mobile up base styles
+// Base styles
 @use "breakpoints/mobileup" as *;
 
-// Import media queries add more as you desire
+// Responsive styles
 @use "breakpoints/800up" as *;
 @use "breakpoints/1200up" as *;
 
-// If IE support is needed you can add them here or create another stylesheet for specific IE fixes
 
+/* =========================================================
+   Mobile Navigation
+   ========================================================= */
 
-/* Search results tidy-up */
-#results-container {
-  margin-top: 1rem;
-}
-#results-container a {
-  text-decoration: none;
-}
-#results-container a:hover {
-  text-decoration: underline;
-}
-
-
-/* --- mobile menu icon overrides (mobile only) --- */
 @media (max-width: 799px) {
-  .nav-toggle {
-    -webkit-tap-highlight-color: rgba(0,0,0,0);
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    -o-user-select: none;
-    user-select: none;
+	.nav-toggle {
+		-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+		-webkit-touch-callout: none;
+		-webkit-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
 
-    float: right;
-    line-height: 1;
-    margin-top: 0.5em;
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
 
-    background: transparent;
-    border-radius: 0;
-    padding: 0;
+		position: relative;
+		right: 2rem;
 
-    color: inherit;
-    text-decoration: none;
-    position: relative;
-    right: 2rem;
+		float: right;
+		margin-top: 0.5em;
+		padding: 0;
 
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
+		line-height: 1;
+		color: inherit;
+		text-decoration: none;
 
-    &:hover { background: transparent; }
+		background: transparent;
+		border-radius: 0;
 
-    svg { width: 28px; height: 28px; }
-  }
+		&:hover {
+			background: transparent;
+		}
+
+		svg {
+			width: 28px;
+			height: 28px;
+		}
+	}
 }
 
-/* --- hide mobile toggle on desktop --- */
 @media (min-width: 800px) {
-  .nav-toggle { display: none !important; }
+	.nav-toggle {
+		display: none !important;
+	}
 }
 
 
-/* --- pagination styles --- */
+/* =========================================================
+   Pagination
+   ========================================================= */
+
 .pagination {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 1rem;   /* evenly spaced */
-  margin-top: 1rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 1rem;
+	margin-top: 1rem;
+
+	a {
+		text-decoration: none;
+	}
 }
 
-.pagination a {
-  text-decoration: none;
+
+/* =========================================================
+   Homepage Recent Posts
+   ========================================================= */
+
+.home-recent {
+	margin-top: 2rem;
 }
 
-/* --- Homepage Recent --- */
-.home-recent { margin-top: 2rem; }
-.home-recent__title { text-align: center; margin-bottom: .75rem; }
+.home-recent__title {
+	margin-bottom: 0.75rem;
+	text-align: center;
+}
+
 .home-recent__list {
-  list-style: none; padding: 0; margin: 0;
-  display: grid; gap: .5rem;
+	display: grid;
+	gap: 0.5rem;
+
+	margin: 0;
+	padding: 0;
+	list-style: none;
 }
+
 .home-recent__item {
-  display: flex; flex-wrap: wrap; gap: .5rem;
-  justify-content: center; text-align: center;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 0.5rem;
+	text-align: center;
+
+	a {
+		text-decoration: none;
+	}
+
+	time {
+		opacity: 0.7;
+	}
 }
-.home-recent__item a { text-decoration: none; }
-.home-recent__item time { opacity: .7; }
-.home-recent__cat { opacity: .7; }
-.home-recent__more { text-align: center; margin-top: .75rem; }
-.home-recent__more a { text-decoration: none; }
+
+.home-recent__cat {
+	opacity: 0.7;
+}
+
+.home-recent__more {
+	margin-top: 0.75rem;
+	text-align: center;
+
+	a {
+		text-decoration: none;
+	}
+}
 
 
-/* --- Recent Page --- */
+/* =========================================================
+   Recent Page Metadata
+   ========================================================= */
+
 .meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: .5rem;
-  align-items: baseline;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	gap: 0.5rem;
 }
-.meta .cats { display: inline-flex; flex-wrap: wrap; gap: .25rem; }
+
+.meta .cats {
+	display: inline-flex;
+	flex-wrap: wrap;
+	gap: 0.25rem;
+}
+
 .cat {
-  display: inline-block;
-  border: 1px solid rgba(0,0,0,.2);
-  padding: 0 .45em;
-  border-radius: 999px;
-  font-size: .875rem;
-  line-height: 1.6;
-  opacity: .9;
+	display: inline-block;
+	padding: 0 0.45em;
+
+	font-size: 0.875rem;
+	line-height: 1.6;
+
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	border-radius: 999px;
+
+	opacity: 0.9;
 }
+
 .cat--primary {
-  text-decoration: none;
+	text-decoration: none;
 }
 
-/* --- Recent Posts (mobile): title first line, date+category on second line --- */
+
+/* =========================================================
+   Homepage Recent Posts — Mobile
+   ========================================================= */
+
 @media (max-width: 600px) {
-  .home-recent__item {
-    display: grid;                  /* overrides earlier flex */
-    grid-template-columns: auto auto;
-    column-gap: .5rem;
-    row-gap: .25rem;
-    justify-content: center;
-    text-align: center;
-  }
+	.home-recent__item {
+		display: grid;
+		grid-template-columns: auto auto;
+		justify-content: center;
+		column-gap: 0.5rem;
+		row-gap: 0.25rem;
+		text-align: center;
+	}
 
-  /* Title spans full width on first row, keep 2-line clamp */
-  .home-recent__item > a {
-    grid-column: 1 / -1;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    max-width: 100%;
-    word-break: break-word;
-    overflow-wrap: anywhere;
-    hyphens: auto;
-  }
+	.home-recent__item > a {
+		grid-column: 1 / -1;
 
-  /* Date + category side-by-side on second row */
-  .home-recent__item > time,
-  .home-recent__item > .home-recent__cat {
-    margin: 0;
-    font-size: 0.9rem;
-    opacity: 0.75;
-    justify-self: center;
-  }
+		display: -webkit-box;
+		max-width: 100%;
+		overflow: hidden;
 
-  /* Dot between them */
-  .home-recent__item > .home-recent__cat::before {
-    content: " • ";
-    opacity: 0.6;
-  }
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+
+		word-break: break-word;
+		overflow-wrap: anywhere;
+		hyphens: auto;
+	}
+
+	.home-recent__item > time,
+	.home-recent__item > .home-recent__cat {
+		margin: 0;
+
+		font-size: 0.9rem;
+		opacity: 0.75;
+
+		justify-self: center;
+	}
+
+	.home-recent__item > .home-recent__cat::before {
+		content: " • ";
+		opacity: 0.6;
+	}
 }
 
 
-/* === Mobile sticky header (this site) === */
+/* =========================================================
+   Mobile Sticky Header
+   ========================================================= */
+
 @media (max-width: 768px) {
-  .header {
-    position: sticky;
-    top: 0;
-    z-index: 1000;   /* stay above content */
-    /* keep your existing header background image/color */
-  }
+	.header {
+		position: sticky;
+		top: 0;
+		z-index: 1000;
+	}
 
-  /* Keep anchors visible when using #hash links */
-  main :is(h1, h2, h3, h4, h5, h6),
-  .post :is(h1, h2, h3, h4, h5, h6),
-  .page :is(h1, h2, h3, h4, h5, h6) {
-    scroll-margin-top: 72px; /* adjust if your mobile header is taller/shorter */
-  }
+	main :is(h1, h2, h3, h4, h5, h6),
+	.post :is(h1, h2, h3, h4, h5, h6),
+	.page :is(h1, h2, h3, h4, h5, h6) {
+		scroll-margin-top: 72px;
+	}
 }
 
 
-/* ---- Manual theme override hooks ---- */
-html[data-theme="light"] { color-scheme: light; }
-html[data-theme="dark"]  { color-scheme: dark;  }
+/* =========================================================
+   Manual Light/Dark Theme
+   ========================================================= */
 
-/* Ensure strong background/text override when a manual theme is set.
-   (Adjust colors if your palette differs) */
-html[data-theme="dark"] body  { background:#000 !important; color:#e6e6e6 !important; }
-html[data-theme="light"] body { background:#fdfdfd !important; color:#111 !important; }
+html[data-theme="light"] {
+	color-scheme: light;
+}
 
-/* Footer theme slider */
+html[data-theme="dark"] {
+	color-scheme: dark;
+}
+
+html[data-theme="dark"] body {
+	background: #000 !important;
+	color: #e6e6e6 !important;
+}
+
+html[data-theme="light"] body {
+	background: #fdfdfd !important;
+	color: #111 !important;
+}
+
+
+/* Footer theme switch */
+
 .footer-links .theme-toggle {
-  display: flex;
-  align-items: center;
-  gap: .5rem;
-  margin-left: .5rem;
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+	margin-left: 0.5rem;
 }
 
 .footer-links .theme-toggle .mode-label {
-  font-size: .9rem;
-  opacity: .8;
+	font-size: 0.9rem;
+	opacity: 0.8;
 }
 
-/* iOS-style 2-state switch */
 .switch {
-  position: relative;
-  display: inline-block;
-  width: 46px;
-  height: 26px;
+	position: relative;
+
+	display: inline-block;
+	width: 46px;
+	height: 26px;
 }
+
 .switch input {
 	position: absolute;
+
 	width: 1px;
 	height: 1px;
-	padding: 0;
 	margin: -1px;
+	padding: 0;
+
 	overflow: hidden;
 	clip: rect(0, 0, 0, 0);
 	white-space: nowrap;
+
 	border: 0;
 }
+
 .switch input:focus-visible + .slider {
 	outline: 2px solid currentColor;
 	outline-offset: 3px;
 }
+
 .switch .slider {
-  position: absolute; inset: 0;
-  border-radius: 999px;
-  background: var(--border, #e0e0e0);
-  transition: background .15s ease;
+	position: absolute;
+	inset: 0;
+
+	background: var(--border, #e0e0e0);
+	border-radius: 999px;
+
+	transition: background 0.15s ease;
 }
+
 .switch .slider::before {
-  content: "";
-  position: absolute; top: 3px; left: 3px;
-  width: 20px; height: 20px; border-radius: 50%;
-  background: var(--card, #fff);
-  box-shadow: 0 1px 2px rgba(0,0,0,.15);
-  transition: transform .15s ease;
+	content: "";
+
+	position: absolute;
+	top: 3px;
+	left: 3px;
+
+	width: 20px;
+	height: 20px;
+
+	background: var(--card, #fff);
+	border-radius: 50%;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+
+	transition: transform 0.15s ease;
 }
 
-/* Checked = Dark */
 .switch input:checked + .slider {
-  background: var(--link, #2e8b57);
+	background: var(--link, #2e8b57);
 }
+
 .switch input:checked + .slider::before {
-  transform: translateX(20px);
+	transform: translateX(20px);
 }
 
-/* Optional: respect dark backgrounds for the knob in dark mode */
 html[data-theme="dark"] .switch .slider::before {
-  background: #0b0b0b;
+	background: #0b0b0b;
 }
 
 
+/* Diagonal content band */
 
-/* Make the diagonal band/overlay follow the manual theme choice */
-html[data-theme="light"] .content:after,
-html[data-theme="light"] .post .featuredImage:before {
-  background: #ffffff !important;
+html[data-theme="light"] .content::after,
+html[data-theme="light"] .post .featuredImage::before {
+	background: #fff !important;
 }
 
-html[data-theme="dark"] .content:after,
-html[data-theme="dark"] .post .featuredImage:before {
-  background: #000000 !important;
+html[data-theme="dark"] .content::after,
+html[data-theme="dark"] .post .featuredImage::before {
+	background: #000 !important;
 }
 
 
-/* --- Site Search --- */
+/* =========================================================
+   Site Search
+   ========================================================= */
 
 .site-search {
 	max-width: 750px;
@@ -286,21 +373,21 @@ html[data-theme="dark"] .post .featuredImage:before {
 
 .search-label {
 	display: block;
-	margin-bottom: .4rem;
+	margin-bottom: 0.4rem;
 	font-weight: 700;
 }
 
 #search-input {
 	box-sizing: border-box;
 	width: 100%;
-	padding: .7rem .8rem;
+	padding: 0.7rem 0.8rem;
 	font: inherit;
 }
 
 .search-status {
 	min-height: 1.5em;
-	margin: .75rem 0;
-	opacity: .75;
+	margin: 0.75rem 0;
+	opacity: 0.75;
 }
 
 .search-results {
@@ -314,19 +401,19 @@ html[data-theme="dark"] .post .featuredImage:before {
 .search-result__title {
 	font-weight: 700;
 	text-decoration: none;
-}
 
-.search-result__title:hover {
-	text-decoration: underline;
+	&:hover {
+		text-decoration: underline;
+	}
 }
 
 .search-result__date {
-	margin-top: .2rem;
-	font-size: .9rem;
-	opacity: .7;
+	margin-top: 0.2rem;
+	font-size: 0.9rem;
+	opacity: 0.7;
 }
 
 .search-result__excerpt {
-	margin-top: .35rem;
+	margin-top: 0.35rem;
 	margin-bottom: 0;
 }
