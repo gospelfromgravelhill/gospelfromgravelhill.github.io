@@ -3,6 +3,7 @@ layout: post
 title: "Brody Thibodeau - The Cross and Satisfaction No Justice No Peace"
 date: 2026-04-19 8:35
 category: articles
+author: Brody Thibodeau
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Brody-Thibodeau/Brody-Thibodeau-The-Cross-and-Satisfaction-No-Justice-No-Peace.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Brody-Thibodeau/Brody-Thibodeau-The-Cross-and-Satisfaction-No-Justice-No-Peace.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

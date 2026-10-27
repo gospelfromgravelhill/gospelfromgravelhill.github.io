@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Bernie Payne - His Name Shall Be Called Wonderful - Part 22"
+date: 2026-10-23 8:35
+category: articles
+author: Bernie Payne
+---
+
+<iframe 
+    src="{{ '/assets/articles/Bernie-Payne/Bernie-Payne-His-Name-Shall-Be-Called-Wonderful-22.pdf' | relative_url }}" 
+    width="100%" 
+    height="800px" 
+    style="border: none;">
+</iframe>
+
+<p>
+    <a href="{{ '/assets/articles/Bernie-Payne/Bernie-Payne-His-Name-Shall-Be-Called-Wonderful-22.pdf' | relative_url }}" target="_blank" rel="noopener">
+        📄 Open the PDF in a new tab
+    </a>
+</p>

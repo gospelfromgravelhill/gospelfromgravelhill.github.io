@@ -3,6 +3,7 @@ layout: post
 title: "Matthew Cain - Hope Has Not Been Cancelled"
 date: 2026-02-17 8:35
 category: articles
+author: Matthew Cain
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Matthew-Cain/Matthew-Cain-Hope-Has-Not-Been-Cancelled.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Matthew-Cain/Matthew-Cain-Hope-Has-Not-Been-Cancelled.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

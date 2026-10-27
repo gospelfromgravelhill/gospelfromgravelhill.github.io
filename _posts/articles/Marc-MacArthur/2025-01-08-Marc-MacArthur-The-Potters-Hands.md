@@ -3,6 +3,7 @@ layout: post
 title: "Marc MacArthur - The Potter's Hands"
 date: 2025-01-08 09:35
 category: articles
+author: Marc MacArthur
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Marc-MacArthur/Marc-MacArthur-The-Potters-Hands.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Marc-MacArthur/Marc-MacArthur-The-Potters-Hands.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

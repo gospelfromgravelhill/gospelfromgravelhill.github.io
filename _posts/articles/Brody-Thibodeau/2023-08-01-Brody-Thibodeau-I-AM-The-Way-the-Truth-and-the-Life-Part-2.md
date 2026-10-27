@@ -3,6 +3,7 @@ layout: post
 title: "Brody Thibodeau- I AM The Way the Truth and the Life Part 2"
 date: 2023-08-01 8:35
 category: articles
+author: Brody Thibodeau
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Brody-Thibodeau/Brody-Thibodeau-I-AM-The-Way-the-Truth-and-the-Life-Part-2.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Brody-Thibodeau/Brody-Thibodeau-I-AM-The-Way-the-Truth-and-the-Life-Part-2.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

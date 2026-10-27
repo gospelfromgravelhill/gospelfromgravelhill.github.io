@@ -3,6 +3,7 @@ layout: post
 title: "Marc MacArthur - Devotional The Fruit of the Spirit (Full)"
 date: 2025-03-01 09:35
 category: articles
+author: Marc MacArthur
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Marc-MacArthur/Marc-MacArthur-Devotional-The-Fruit-of-the-Spirit.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Marc-MacArthur/Marc-MacArthur-Devotional-The-Fruit-of-the-Spirit.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

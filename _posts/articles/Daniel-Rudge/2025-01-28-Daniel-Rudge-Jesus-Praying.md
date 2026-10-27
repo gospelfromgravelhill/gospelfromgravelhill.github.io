@@ -3,6 +3,7 @@ layout: post
 title: "Daniel Rudge - Jesus Praying"
 date: 2025-01-28 09:35
 category: articles
+author: Daniel Rudge
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Daniel-Rudge/Daniel-Rudge-Jesus-Praying.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Daniel-Rudge/Daniel-Rudge-Jesus-Praying.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

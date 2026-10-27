@@ -8,7 +8,7 @@ category: 2023conference
 These recording were made from the zoom broadcast of the Fall Bible Study.
 
 <p>
-<a href="https://archive.org/download/2023-gospel-conference-audio/2023-11-28%20-%20Pope%20Road%20Fall%20Bible%20Study/Ruth-and-Samuel-Outline-2023.pdf" target="_blank" download>
+<a href="https://archive.org/download/2023-gospel-conference-audio/2023-11-28%20-%20Pope%20Road%20Fall%20Bible%20Study/Ruth-and-Samuel-Outline-2023.pdf" target="_blank" rel="noopener" download>
     📄 Download the PDF Outline
   </a>
 </p>

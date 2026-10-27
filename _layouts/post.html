@@ -4,12 +4,27 @@ layout: default
 <article class="post">
   {%- if page.image -%}
     <div class="featuredImage">
-        <img src="{{ '/assets/img/' | append: page.image }}" alt="" />
+        <img
+	src="{{ '/assets/img/' | append: page.image | relative_url }}"
+	alt="{{ page.image_alt | default: page.title | escape }}"
+>
       </div>
   {%- endif -%}
   <header>
     <h1 class="postTitle">{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%B %-d, %Y at %H:%M" }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
+    {%- assign word_count = page.content | number_of_words -%}
+{%- assign reading_minutes = word_count | divided_by: 180 -%}
+
+{%- if reading_minutes < 1 -%}
+	{%- assign reading_minutes = 1 -%}
+{%- endif -%}
+
+<p class="meta">
+	{{ page.date | date: "%B %-d, %Y at %H:%M" }}
+	|
+	<span class="time">{{ reading_minutes }}</span>
+	Minute Read
+</p>
   </header>
 
   {{ content }}

@@ -8,7 +8,7 @@ category: 2021conference
 This was a series of Bible Readings conducted by brother John Meekin (Bridgewater, NS) in November and December of 2021. <br>
 
 <p>
-<a href="https://archive.org/download/2021-gospel-conference-audio/2021-11%20-%20Bible%20Reading%20-%20Critical%20Challenges%20in%20the%20Life%20of%20Joshua/Critical-challenges-in-the-life-of-Joshua-copy.pdf" target="_blank" download>
+<a href="https://archive.org/download/2021-gospel-conference-audio/2021-11%20-%20Bible%20Reading%20-%20Critical%20Challenges%20in%20the%20Life%20of%20Joshua/Critical-challenges-in-the-life-of-Joshua-copy.pdf" target="_blank" rel="noopener" download>
     📄 Download the PDF Outline
   </a>
 </p>
@@ -64,7 +64,7 @@ This was a series of Bible Readings conducted by brother John Meekin (Bridgewate
 </p>
 
 <p>
-<a href="https://archive.org/download/2021-gospel-conference-audio/2021-11%20-%20Summerside%20Fall%20Bible%20Readings%20-%20The%20Life%20of%20Joshua/Charting-JOSHUA.pdf" target="_blank" download>
+<a href="https://archive.org/download/2021-gospel-conference-audio/2021-11%20-%20Summerside%20Fall%20Bible%20Readings%20-%20The%20Life%20of%20Joshua/Charting-JOSHUA.pdf" target="_blank" rel="noopener" download>
     📄 Charting Joshua (pdf)
   </a>
 </p>

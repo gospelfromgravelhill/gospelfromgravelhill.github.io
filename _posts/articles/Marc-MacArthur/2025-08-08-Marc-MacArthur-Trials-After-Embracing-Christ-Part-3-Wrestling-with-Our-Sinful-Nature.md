@@ -3,6 +3,7 @@ layout: post
 title: "Marc MacArthur - Trials After Embracing Christ: Part 3 Wrestling with Our Sinful Nature"
 date: 2025-08-08 11:05
 category: articles
+author: Marc MacArthur
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Marc-MacArthur/Marc-MacArthur-Trials-After-Embracing-Christ-Part-3-Wrestling-with-Our-Sinful-Nature.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Marc-MacArthur/Marc-MacArthur-Trials-After-Embracing-Christ-Part-3-Wrestling-with-Our-Sinful-Nature.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

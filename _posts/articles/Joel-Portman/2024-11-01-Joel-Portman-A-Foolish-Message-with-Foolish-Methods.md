@@ -3,6 +3,7 @@ layout: post
 title: "Joel Portman - A Foolish Message with Foolish Methods"
 date: 2024-11-01 09:35
 category: articles
+author: Joel Portman
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Joel-Portman/Joel-Portman-A-Foolish-Message-with-Foolish-Methods.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Joel-Portman/Joel-Portman-A-Foolish-Message-with-Foolish-Methods.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

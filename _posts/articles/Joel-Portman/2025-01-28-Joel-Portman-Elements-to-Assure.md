@@ -3,6 +3,7 @@ layout: post
 title: "Joel Portman - Elements to Assure"
 date: 2025-01-28 09:35
 category: articles
+author: Joel Portman
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Joel-Portman/Joel-Portman-Elements-to-Assure.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Joel-Portman/Joel-Portman-Elements-to-Assure.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

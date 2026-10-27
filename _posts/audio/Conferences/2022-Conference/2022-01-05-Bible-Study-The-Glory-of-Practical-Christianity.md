@@ -8,7 +8,7 @@ category: 2022conference
 This was a series of Bible studies that took place over the winter months of 2022. The subjects under consideration relate to our practical Christian Living. These studies were lead by John Meekin, Scott MacLeod and Brody Thibodeau. <br>
 
 <p>
-<a href="https://archive.org/download/2022-gospel-conference-audio/2022-01%20-%20Bible%20Study%20-%20The%20Glory%20of%20Practical%20Christianity/Concise-Outline-Eternal-Security-1.pdf" target="_blank" download>
+<a href="https://archive.org/download/2022-gospel-conference-audio/2022-01%20-%20Bible%20Study%20-%20The%20Glory%20of%20Practical%20Christianity/Concise-Outline-Eternal-Security-1.pdf" target="_blank" rel="noopener" download>
     📄 Concise Outline - Eternal Security
   </a>
 </p>
@@ -22,7 +22,7 @@ This was a series of Bible studies that took place over the winter months of 202
 </audio>
 </p>
 <p>
-<a href="https://archive.org/download/2022-gospel-conference-audio/2022-01%20-%20Bible%20Study%20-%20The%20Glory%20of%20Practical%20Christianity/The-Glory-of-Practical-Christianity.pdf" target="_blank" download>
+<a href="https://archive.org/download/2022-gospel-conference-audio/2022-01%20-%20Bible%20Study%20-%20The%20Glory%20of%20Practical%20Christianity/The-Glory-of-Practical-Christianity.pdf" target="_blank" rel="noopener" download>
     📄 The Saviour in Glory Outline
   </a>
 </p>
@@ -35,7 +35,7 @@ This was a series of Bible studies that took place over the winter months of 202
 </audio>
 </p>
 <p>
-<a href="https://archive.org/download/2022-gospel-conference-audio/2022-01%20-%20Bible%20Study%20-%20The%20Glory%20of%20Practical%20Christianity/The-Spirit-of-Glory-Outline-Scott-MacLeod.pdf" target="_blank" download>
+<a href="https://archive.org/download/2022-gospel-conference-audio/2022-01%20-%20Bible%20Study%20-%20The%20Glory%20of%20Practical%20Christianity/The-Spirit-of-Glory-Outline-Scott-MacLeod.pdf" target="_blank" rel="noopener" download>
     📄 The Spirit of Glory Outline
   </a>
 </p>
@@ -56,7 +56,7 @@ This was a series of Bible studies that took place over the winter months of 202
 </audio>
 </p>
 <p>
-<a href="https://archive.org/download/2022-gospel-conference-audio/2022-01%20-%20Bible%20Study%20-%20The%20Glory%20of%20Practical%20Christianity/Sanctified-for-glory.pdf" target="_blank" download>
+<a href="https://archive.org/download/2022-gospel-conference-audio/2022-01%20-%20Bible%20Study%20-%20The%20Glory%20of%20Practical%20Christianity/Sanctified-for-glory.pdf" target="_blank" rel="noopener" download>
     📄 Sanctified for Glory Outline
   </a>
 </p>
@@ -69,7 +69,7 @@ This was a series of Bible studies that took place over the winter months of 202
 </audio>
 </p>
 <p>
-<a href="https://archive.org/download/2022-gospel-conference-audio/2022-01%20-%20Bible%20Study%20-%20The%20Glory%20of%20Practical%20Christianity/V-WINTER-BIBLE-STUDIES-2022-5Mar22.pdf" target="_blank" download>
+<a href="https://archive.org/download/2022-gospel-conference-audio/2022-01%20-%20Bible%20Study%20-%20The%20Glory%20of%20Practical%20Christianity/V-WINTER-BIBLE-STUDIES-2022-5Mar22.pdf" target="_blank" rel="noopener" download>
     📄 Suffering and glory Outline
   </a>
 </p>
@@ -82,7 +82,7 @@ This was a series of Bible studies that took place over the winter months of 202
 </audio>
 </p>
 <p>
-<a href="https://archive.org/download/2022-gospel-conference-audio/2022-01%20-%20Bible%20Study%20-%20The%20Glory%20of%20Practical%20Christianity/Sustained-for-Glory-Outline.pdf" target="_blank" download>
+<a href="https://archive.org/download/2022-gospel-conference-audio/2022-01%20-%20Bible%20Study%20-%20The%20Glory%20of%20Practical%20Christianity/Sustained-for-Glory-Outline.pdf" target="_blank" rel="noopener" download>
     📄 Sustained for Glory Outline
   </a>
 </p>

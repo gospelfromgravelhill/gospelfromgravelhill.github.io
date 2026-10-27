@@ -19,7 +19,7 @@ These Audio files were created and edited by the Ridgley Gospel Hall <br>
 
 <p>
 📄 01 - Phil Collier - Living For Christ In A Christ-Rejecting World - Session 1 - The Problem With The World (PDF) <br>
-<a href="https://archive.org/download/2026-gospel-conference-audio/2026-01-24%20-%20Ridgley%20Annual%20Conference/Phil%20Collier%20-%20Living%20For%20Christ%20In%20A%20Christ-Rejecting%20World%20-%20Session%201%20-%20The%20Problem%20With%20The%20World.pdf" target="_blank" rel="noopener">Download / View</a>
+<a href="https://archive.org/download/2026-gospel-conference-audio/2026-01-24%20-%20Ridgley%20Annual%20Conference/Phil%20Collier%20-%20Living%20For%20Christ%20In%20A%20Christ-Rejecting%20World%20-%20Session%201%20-%20The%20Problem%20With%20The%20World.pdf" target="_blank" rel="noopener" rel="noopener">Download / View</a>
 </p>
 
 
@@ -33,7 +33,7 @@ These Audio files were created and edited by the Ridgley Gospel Hall <br>
 
 <p>
 📄 02 - Phil Collier - Living For Christ In A Christ-Rejecting World - Session 2 - How Jesus Viewed The World (PDF) <br>
-<a href="https://archive.org/download/2026-gospel-conference-audio/2026-01-24%20-%20Ridgley%20Annual%20Conference/Phil%20Collier%20-%20Living%20For%20Christ%20In%20A%20Christ-Rejecting%20World%20-%20Session%202%20-%20How%20Jesus%20Viewed%20The%20World.pdf" target="_blank" rel="noopener">Download / View</a>
+<a href="https://archive.org/download/2026-gospel-conference-audio/2026-01-24%20-%20Ridgley%20Annual%20Conference/Phil%20Collier%20-%20Living%20For%20Christ%20In%20A%20Christ-Rejecting%20World%20-%20Session%202%20-%20How%20Jesus%20Viewed%20The%20World.pdf" target="_blank" rel="noopener" rel="noopener">Download / View</a>
 </p>
 
 
@@ -47,7 +47,7 @@ These Audio files were created and edited by the Ridgley Gospel Hall <br>
 
 <p>
 📄 03 - Phil Collier - Living For Christ In A Christ-Rejecting World - Session 3 - Facing An Antagonistic World (PDF) <br>
-<a href="https://archive.org/download/2026-gospel-conference-audio/2026-01-24%20-%20Ridgley%20Annual%20Conference/Phil%20Collier%20-%20Living%20For%20Christ%20In%20A%20Christ-Rejecting%20World%20-%20Session%203%20-%20Facing%20An%20Antagonistic%20World.pdf" target="_blank" rel="noopener">Download / View</a>
+<a href="https://archive.org/download/2026-gospel-conference-audio/2026-01-24%20-%20Ridgley%20Annual%20Conference/Phil%20Collier%20-%20Living%20For%20Christ%20In%20A%20Christ-Rejecting%20World%20-%20Session%203%20-%20Facing%20An%20Antagonistic%20World.pdf" target="_blank" rel="noopener" rel="noopener">Download / View</a>
 </p>
 
 
@@ -61,7 +61,7 @@ These Audio files were created and edited by the Ridgley Gospel Hall <br>
 
 <p>
 📄 04 - Phil Collier - Living For Christ In A Christ-Rejecting World - Session 4 - Standing Up Even When It Hurts (PDF) <br>
-<a href="https://archive.org/download/2026-gospel-conference-audio/2026-01-24%20-%20Ridgley%20Annual%20Conference/Phil%20Collier%20-%20Living%20For%20Christ%20In%20A%20Christ-Rejecting%20World%20-%20Session%204%20-Standing%20Up%20Even%20When%20It%20Hurts.pdf" target="_blank" rel="noopener">Download / View</a>
+<a href="https://archive.org/download/2026-gospel-conference-audio/2026-01-24%20-%20Ridgley%20Annual%20Conference/Phil%20Collier%20-%20Living%20For%20Christ%20In%20A%20Christ-Rejecting%20World%20-%20Session%204%20-Standing%20Up%20Even%20When%20It%20Hurts.pdf" target="_blank" rel="noopener" rel="noopener">Download / View</a>
 </p>
 
 

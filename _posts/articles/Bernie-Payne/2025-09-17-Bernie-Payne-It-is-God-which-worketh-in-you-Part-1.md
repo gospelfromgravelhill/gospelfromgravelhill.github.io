@@ -3,6 +3,7 @@ layout: post
 title: "Bernie Payne - It is God which worketh in you - Part 1"
 date: 2025-09-17 09:35
 category: articles
+author: Bernie Payne
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Bernie-Payne/Bernie-Payne-It-is-God-which-worketh-in-you-Part-1.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Bernie-Payne/Bernie-Payne-It-is-God-which-worketh-in-you-Part-1.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

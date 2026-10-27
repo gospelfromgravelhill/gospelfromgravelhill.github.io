@@ -23,7 +23,7 @@ These Audio files were created and edited by the [Pope Road Gospel Hall](https:/
   Your browser does not support the audio element.
 </audio>
 <br>
-  <a href="https://archive.org/download/2010-gospel-conference-audio/2010%20-%20Summerside%20Fall%20Bible%20Conference%20-%20Creation%20vs%20Darwinism%20by%20Michael%20Penfold/Scientific-Bankruptcy-Powerpoint-2010.pdf" target="_blank" download>
+  <a href="https://archive.org/download/2010-gospel-conference-audio/2010%20-%20Summerside%20Fall%20Bible%20Conference%20-%20Creation%20vs%20Darwinism%20by%20Michael%20Penfold/Scientific-Bankruptcy-Powerpoint-2010.pdf" target="_blank" rel="noopener" download>
     📄 Download the PDF Slides
   </a>
 </p>
@@ -43,7 +43,7 @@ These Audio files were created and edited by the [Pope Road Gospel Hall](https:/
   Your browser does not support the audio element.
 </audio>
 <br>
-  <a href="https://archive.org/download/2010-gospel-conference-audio/2010%20-%20Summerside%20Fall%20Bible%20Conference%20-%20Creation%20vs%20Darwinism%20by%20Michael%20Penfold/Philosophical-Bankruptcy-Powerpoint-2010.pdf" target="_blank" download>
+  <a href="https://archive.org/download/2010-gospel-conference-audio/2010%20-%20Summerside%20Fall%20Bible%20Conference%20-%20Creation%20vs%20Darwinism%20by%20Michael%20Penfold/Philosophical-Bankruptcy-Powerpoint-2010.pdf" target="_blank" rel="noopener" download>
     📄 Download the PDF Slides
   </a>
 </p>
@@ -55,7 +55,7 @@ These Audio files were created and edited by the [Pope Road Gospel Hall](https:/
   Your browser does not support the audio element.
 </audio>
 <br>
-  <a href="https://archive.org/download/2010-gospel-conference-audio/2010%20-%20Summerside%20Fall%20Bible%20Conference%20-%20Creation%20vs%20Darwinism%20by%20Michael%20Penfold/Biblical-Creation-Alternative-Powerpoint-2010.pdf" target="_blank" download>
+  <a href="https://archive.org/download/2010-gospel-conference-audio/2010%20-%20Summerside%20Fall%20Bible%20Conference%20-%20Creation%20vs%20Darwinism%20by%20Michael%20Penfold/Biblical-Creation-Alternative-Powerpoint-2010.pdf" target="_blank" rel="noopener" download>
     📄 Download the PDF Slides
   </a>
 </p>
@@ -83,7 +83,7 @@ These Audio files were created and edited by the [Pope Road Gospel Hall](https:/
   Your browser does not support the audio element.
 </audio>
 <br>
-  <a href="https://archive.org/download/2010-gospel-conference-audio/2010%20-%20Summerside%20Fall%20Bible%20Conference%20-%20Creation%20vs%20Darwinism%20by%20Michael%20Penfold/Is-the-Bible-The-Word-of-God.pdf" target="_blank" download>
+  <a href="https://archive.org/download/2010-gospel-conference-audio/2010%20-%20Summerside%20Fall%20Bible%20Conference%20-%20Creation%20vs%20Darwinism%20by%20Michael%20Penfold/Is-the-Bible-The-Word-of-God.pdf" target="_blank" rel="noopener" download>
     📄 Download the PDF Slides
   </a>
 </p>

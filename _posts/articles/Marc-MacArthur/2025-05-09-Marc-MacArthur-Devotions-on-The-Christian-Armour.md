@@ -3,6 +3,7 @@ layout: post
 title: "Marc MacArthur - Devotions on The Christian Armour"
 date: 2025-05-09 09:35
 category: articles
+author: Marc MacArthur
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Marc-MacArthur/Marc-MacArthur-Devotions-on-The-Christian-Armour.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Marc-MacArthur/Marc-MacArthur-Devotions-on-The-Christian-Armour.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

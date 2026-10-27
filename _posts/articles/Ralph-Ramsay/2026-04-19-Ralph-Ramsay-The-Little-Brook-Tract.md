@@ -3,6 +3,7 @@ layout: post
 title: "Ralph Ramsay - The Little Brook (Tract)"
 date: 2026-04-19 8:35
 category: articles
+author: Ralph Ramsay
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Ralph-Ramsay/Ralph-Ramsay-The-Little-Brook-Tract.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Ralph-Ramsay/Ralph-Ramsay-The-Little-Brook-Tract.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

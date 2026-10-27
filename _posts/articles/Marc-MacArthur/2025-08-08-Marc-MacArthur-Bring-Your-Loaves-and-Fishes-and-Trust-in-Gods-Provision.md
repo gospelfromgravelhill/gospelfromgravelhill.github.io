@@ -3,6 +3,7 @@ layout: post
 title: "Marc MacArthur - Bring Your Loaves and Fishes and Trust in God's Provision"
 date: 2025-08-08 11:05
 category: articles
+author: Marc MacArthur
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Marc-MacArthur/Marc-MacArthur-Bring-Your-Loaves-and-Fishes-and-Trust-in-Gods-Provision.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Marc-MacArthur/Marc-MacArthur-Bring-Your-Loaves-and-Fishes-and-Trust-in-Gods-Provision.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

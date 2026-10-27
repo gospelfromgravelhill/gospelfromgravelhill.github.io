@@ -3,6 +3,7 @@ layout: post
 title: "Scott G. MacLeod - Manuscript Differences 1 John 5:7-8"
 date: 2025-10-16 09:35
 category: articles
+author: Scott G MacLeod
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Scott-G-MacLeod/Scott-G-MacLeod-Manuscript-Differences-1-John-5_7-8.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Scott-G-MacLeod/Scott-G-MacLeod-Manuscript-Differences-1-John-5_7-8.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

@@ -3,6 +3,7 @@ layout: post
 title: "Brody Thibodeau - The Residents of Heaven - Whos There Now and Who Will Be"
 date: 2026-03-13 8:25
 category: articles
+author: Brody Thibodeau
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Brody-Thibodeau/Brody-Thibodeau-The-Residents-of-Heaven-Whos-There-Now-and-Who-Will-Be.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Brody-Thibodeau/Brody-Thibodeau-The-Residents-of-Heaven-Whos-There-Now-and-Who-Will-Be.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

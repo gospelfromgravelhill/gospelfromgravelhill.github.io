@@ -14,7 +14,7 @@ These recording were made from the zoom broadcast of the Pope Road Virtual Bible
   Your browser does not support the audio element.
 </audio>
 <br>
-  <a href="https://archive.org/download/2024-gospel-conference-audio/2024-01-06%20-%20Winter%20Bible%20Studies%20-%20The%20Royal%20Psalms/2024-01-06%20-%202024%20Virtual%20Bible%20Studies%20-%20Psalm%202%20-%20The%20Enthronement%20of%20the%20King.pdf" target="_blank" download>
+  <a href="https://archive.org/download/2024-gospel-conference-audio/2024-01-06%20-%20Winter%20Bible%20Studies%20-%20The%20Royal%20Psalms/2024-01-06%20-%202024%20Virtual%20Bible%20Studies%20-%20Psalm%202%20-%20The%20Enthronement%20of%20the%20King.pdf" target="_blank" rel="noopener" download>
     📄 Download the PDF Outline
   </a>
 </p>
@@ -25,7 +25,7 @@ These recording were made from the zoom broadcast of the Pope Road Virtual Bible
   Your browser does not support the audio element.
 </audio>
 <br>
-  <a href="https://archive.org/download/2024-gospel-conference-audio/2024-01-06%20-%20Winter%20Bible%20Studies%20-%20The%20Royal%20Psalms/2024-01-20%20-%202024%20Virtual%20Bible%20Studies%20-%20Psalm%2020-21%20-%20The%20Experiences%20of%20the%20King.pdf" target="_blank" download>
+  <a href="https://archive.org/download/2024-gospel-conference-audio/2024-01-06%20-%20Winter%20Bible%20Studies%20-%20The%20Royal%20Psalms/2024-01-20%20-%202024%20Virtual%20Bible%20Studies%20-%20Psalm%2020-21%20-%20The%20Experiences%20of%20the%20King.pdf" target="_blank" rel="noopener" download>
     📄 Download the PDF Outline
   </a>
 </p>
@@ -36,7 +36,7 @@ These recording were made from the zoom broadcast of the Pope Road Virtual Bible
   Your browser does not support the audio element.
 </audio>
 <br>
-  <a href="https://archive.org/download/2024-gospel-conference-audio/2024-01-06%20-%20Winter%20Bible%20Studies%20-%20The%20Royal%20Psalms/2024-02-10%20-%202024%20Virtual%20Bible%20Studies%20-%20Psalm%2045%20-%20The%20Expectation%20of%20the%20King.pdf" target="_blank" download>
+  <a href="https://archive.org/download/2024-gospel-conference-audio/2024-01-06%20-%20Winter%20Bible%20Studies%20-%20The%20Royal%20Psalms/2024-02-10%20-%202024%20Virtual%20Bible%20Studies%20-%20Psalm%2045%20-%20The%20Expectation%20of%20the%20King.pdf" target="_blank" rel="noopener" download>
     📄 Download the PDF Outline
   </a>
 </p>
@@ -47,7 +47,7 @@ These recording were made from the zoom broadcast of the Pope Road Virtual Bible
   Your browser does not support the audio element.
 </audio>
 <br>
-  <a href="https://archive.org/download/2024-gospel-conference-audio/2024-01-06%20-%20Winter%20Bible%20Studies%20-%20The%20Royal%20Psalms/2024-02-17%20-%202024%20Virtual%20Bible%20Studies%20-%20Psalm%2072%20-%20The%20Endowment%20of%20the%20King.pdf" target="_blank" download>
+  <a href="https://archive.org/download/2024-gospel-conference-audio/2024-01-06%20-%20Winter%20Bible%20Studies%20-%20The%20Royal%20Psalms/2024-02-17%20-%202024%20Virtual%20Bible%20Studies%20-%20Psalm%2072%20-%20The%20Endowment%20of%20the%20King.pdf" target="_blank" rel="noopener" download>
     📄 Download the PDF Outline
   </a>
 </p>
@@ -58,7 +58,7 @@ These recording were made from the zoom broadcast of the Pope Road Virtual Bible
   Your browser does not support the audio element.
 </audio>
 <br>
-  <a href="https://archive.org/download/2024-gospel-conference-audio/2024-01-06%20-%20Winter%20Bible%20Studies%20-%20The%20Royal%20Psalms/2024-03-02%20-%202024%20Virtual%20Bible%20Studies%20-%20Psalm%2089%20-%20The%20Exaltation%20of%20the%20King.pdf" target="_blank" download>
+  <a href="https://archive.org/download/2024-gospel-conference-audio/2024-01-06%20-%20Winter%20Bible%20Studies%20-%20The%20Royal%20Psalms/2024-03-02%20-%202024%20Virtual%20Bible%20Studies%20-%20Psalm%2089%20-%20The%20Exaltation%20of%20the%20King.pdf" target="_blank" rel="noopener" download>
     📄 Download the PDF Outline
   </a>
 </p>
@@ -69,7 +69,7 @@ These recording were made from the zoom broadcast of the Pope Road Virtual Bible
   Your browser does not support the audio element.
 </audio>
 <br>
-  <a href="https://archive.org/download/2024-gospel-conference-audio/2024-01-06%20-%20Winter%20Bible%20Studies%20-%20The%20Royal%20Psalms/2024-03-17%20-%202024%20Virtual%20Bible%20Studies%20-%20Psalm%20110%20-%20The%20Establishment%20of%20the%20King.pdf" target="_blank" download>
+  <a href="https://archive.org/download/2024-gospel-conference-audio/2024-01-06%20-%20Winter%20Bible%20Studies%20-%20The%20Royal%20Psalms/2024-03-17%20-%202024%20Virtual%20Bible%20Studies%20-%20Psalm%20110%20-%20The%20Establishment%20of%20the%20King.pdf" target="_blank" rel="noopener" download>
     📄 Download the PDF Outline
   </a>
 </p>

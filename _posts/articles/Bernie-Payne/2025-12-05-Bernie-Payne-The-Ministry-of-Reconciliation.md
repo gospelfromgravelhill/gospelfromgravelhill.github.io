@@ -3,6 +3,7 @@ layout: post
 title: "Bernie Payne - The Ministry of Reconciliation"
 date: 2025-12-05 09:35
 category: articles
+author: Bernie Payne
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Bernie-Payne/Bernie-Payne-The-Ministry-of-Reconciliation.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Bernie-Payne/Bernie-Payne-The-Ministry-of-Reconciliation.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

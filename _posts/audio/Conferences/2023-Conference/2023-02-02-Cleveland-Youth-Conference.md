@@ -6,7 +6,7 @@ category: 2023conference
 ---
 
 <p>
-<a href="https://archive.org/download/2023-gospel-conference-audio/2023%20-%20Cleveland%20Youth%20Conference/230729%20CYC%202023%20Powerpoint%20shareable.pdf" target="_blank" download>
+<a href="https://archive.org/download/2023-gospel-conference-audio/2023%20-%20Cleveland%20Youth%20Conference/230729%20CYC%202023%20Powerpoint%20shareable.pdf" target="_blank" rel="noopener" download>
     📄 Download the PDF Slideshow
   </a>
 </p>

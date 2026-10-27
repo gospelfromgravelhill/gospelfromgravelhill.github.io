@@ -6,14 +6,14 @@ category: tracts
 ---
 
 <iframe 
-    src="{{ '/assets/tracts/Victory-against-all-Odds.pdf' | relative_url }}" 
+    src="{{ '/assets/tracts/Tract-Victory-against-all-Odds.pdf' | relative_url }}" 
     width="100%" 
     height="800px" 
     style="border: none;">
 </iframe>
 
 <p>
-    <a href="{{ '/assets/tracts/Victory-against-all-Odds.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/tracts/Tract-Victory-against-all-Odds.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>

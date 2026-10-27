@@ -8,27 +8,27 @@ category: scottmacleod
 This series was given in the Oleary Gospel Hall, Oleary PEI. Night1 was Nov10th, Nights2-4 were Nov16th-18th, Nights5-8 were Nov22nd-25th & Nights9-12 were Nov29th-Dec2nd <br>
 
 <p>
-<a href="https://archive.org/download/scott-macleod-ministry-messages_202508/2022-11-10%20-%20Scott%20MacLeod%20-%20O%27Leary%20Gospel%20Hall%20-%20Endtime%20Events%20in%20Daniel%20%26%20Revelation/Sept25-2017-Timeline-of-Covenants-DispensationsPDF.pdf" target="_blank" download>
+<a href="https://archive.org/download/scott-macleod-ministry-messages_202508/2022-11-10%20-%20Scott%20MacLeod%20-%20O%27Leary%20Gospel%20Hall%20-%20Endtime%20Events%20in%20Daniel%20%26%20Revelation/Sept25-2017-Timeline-of-Covenants-DispensationsPDF.pdf" target="_blank" rel="noopener" download>
     📄 Covenants, Dispensations & the 3 Programs of God (pdf)
   </a>
 </p>
 <p>
-<a href="https://archive.org/download/scott-macleod-ministry-messages_202508/2022-11-10%20-%20Scott%20MacLeod%20-%20O%27Leary%20Gospel%20Hall%20-%20Endtime%20Events%20in%20Daniel%20%26%20Revelation/chart-of-the-1st-3-1-2-years-of-the-tribulation.pdf" target="_blank" download>
+<a href="https://archive.org/download/scott-macleod-ministry-messages_202508/2022-11-10%20-%20Scott%20MacLeod%20-%20O%27Leary%20Gospel%20Hall%20-%20Endtime%20Events%20in%20Daniel%20%26%20Revelation/chart-of-the-1st-3-1-2-years-of-the-tribulation.pdf" target="_blank" rel="noopener" download>
     📄 1st 3 1/2 years of the Tribulation (pdf)
   </a>
 </p>
 <p>
-<a href="https://archive.org/download/scott-macleod-ministry-messages_202508/2022-11-10%20-%20Scott%20MacLeod%20-%20O%27Leary%20Gospel%20Hall%20-%20Endtime%20Events%20in%20Daniel%20%26%20Revelation/chart-of-the-2nd-3-1-2-years-of-the-tribulation.pdf" target="_blank" download>
+<a href="https://archive.org/download/scott-macleod-ministry-messages_202508/2022-11-10%20-%20Scott%20MacLeod%20-%20O%27Leary%20Gospel%20Hall%20-%20Endtime%20Events%20in%20Daniel%20%26%20Revelation/chart-of-the-2nd-3-1-2-years-of-the-tribulation.pdf" target="_blank" rel="noopener" download>
     📄 2nd 3 1/2 years of the Tribulation (pdf)
   </a>
 </p>
 <p>
-<a href="https://archive.org/download/scott-macleod-ministry-messages_202508/2022-11-10%20-%20Scott%20MacLeod%20-%20O%27Leary%20Gospel%20Hall%20-%20Endtime%20Events%20in%20Daniel%20%26%20Revelation/understanding-the-beasts-of-daniel-revelation.pdf" target="_blank" download>
+<a href="https://archive.org/download/scott-macleod-ministry-messages_202508/2022-11-10%20-%20Scott%20MacLeod%20-%20O%27Leary%20Gospel%20Hall%20-%20Endtime%20Events%20in%20Daniel%20%26%20Revelation/understanding-the-beasts-of-daniel-revelation.pdf" target="_blank" rel="noopener" download>
     📄 Beasts of Daniel & Revelation (pdf)
   </a>
 </p>
 <p>
-<a href="https://archive.org/download/scott-macleod-ministry-messages_202508/2022-11-10%20-%20Scott%20MacLeod%20-%20O%27Leary%20Gospel%20Hall%20-%20Endtime%20Events%20in%20Daniel%20%26%20Revelation/understanding-the-70-weeks-of-years-of-daniel-9.pdf" target="_blank" download>
+<a href="https://archive.org/download/scott-macleod-ministry-messages_202508/2022-11-10%20-%20Scott%20MacLeod%20-%20O%27Leary%20Gospel%20Hall%20-%20Endtime%20Events%20in%20Daniel%20%26%20Revelation/understanding-the-70-weeks-of-years-of-daniel-9.pdf" target="_blank" rel="noopener" download>
     📄 70 Weeks of Daniel (pdf)
   </a>
 </p>

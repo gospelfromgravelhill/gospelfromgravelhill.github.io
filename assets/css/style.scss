@@ -21,11 +21,6 @@
 // Mobile up base styles
 @use "breakpoints/mobileup" as *;
 
-
-// For Lightbox and book pages
-@use "custom" as *;
-
-
 // Import media queries add more as you desire
 @use "breakpoints/800up" as *;
 @use "breakpoints/1200up" as *;
@@ -117,15 +112,6 @@
 
 
 
-/* --- Recent Posts: mobile tidy-up --- */
-@media (max-width: 600px) {
-  .home-recent__item {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    gap: 0.25rem; /* smaller gap between title and meta */
-  }
-
   /* clamp long titles */
   .home-recent__item a {
     display: -webkit-box;
@@ -174,24 +160,6 @@
 .cat--primary {
   text-decoration: none;
 }
-
-
-/* --- Fix Recent Posts meta line (mobile only) --- */
-@media (max-width: 600px) {
-  .home-recent__item time,
-  .home-recent__item .home-recent__cat {
-    display: inline;       /* force them onto the same line */
-    font-size: 0.9rem;
-    opacity: 0.75;
-    margin: 0;
-  }
-
-  .home-recent__item .home-recent__cat::before {
-    content: " • ";
-    opacity: 0.6;
-  }
-}
-
 
 /* --- Recent Posts (mobile): title first line, date+category on second line --- */
 @media (max-width: 600px) {
@@ -281,7 +249,21 @@ html[data-theme="light"] body { background:#fdfdfd !important; color:#111 !impor
   width: 46px;
   height: 26px;
 }
-.switch input { display: none; }
+.switch input {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0, 0, 0, 0);
+	white-space: nowrap;
+	border: 0;
+}
+.switch input:focus-visible + .slider {
+	outline: 2px solid currentColor;
+	outline-offset: 3px;
+}
 .switch .slider {
   position: absolute; inset: 0;
   border-radius: 999px;

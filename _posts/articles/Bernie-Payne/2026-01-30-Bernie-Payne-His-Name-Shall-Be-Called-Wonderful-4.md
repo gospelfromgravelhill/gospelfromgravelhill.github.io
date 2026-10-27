@@ -3,6 +3,7 @@ layout: post
 title: "Bernie Payne - His Name Shall Be Called Wonderful - Part 4"
 date: 2026-01-30 16:35
 category: articles
+author: Bernie Payne
 ---
 
 <iframe 
@@ -13,7 +14,7 @@ category: articles
 </iframe>
 
 <p>
-    <a href="{{ '/assets/articles/Bernie-Payne/Bernie-Payne-His-Name-Shall-Be-Called-Wonderful-4.pdf' | relative_url }}" target="_blank">
+    <a href="{{ '/assets/articles/Bernie-Payne/Bernie-Payne-His-Name-Shall-Be-Called-Wonderful-4.pdf' | relative_url }}" target="_blank" rel="noopener">
         📄 Open the PDF in a new tab
     </a>
 </p>
