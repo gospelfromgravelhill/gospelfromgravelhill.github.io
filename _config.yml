@@ -21,6 +21,7 @@ google_analytics: "G-R9BBEB12ES"
 # Plugins
 plugins:
   - jekyll-paginate-v2
+  - jekyll-sitemap
 
 # Pagination defaults
 pagination:
