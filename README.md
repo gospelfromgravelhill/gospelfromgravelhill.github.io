@@ -8,6 +8,8 @@
 ![Code License](https://img.shields.io/badge/Code%20License-MIT-green)
 ![Content License](https://img.shields.io/badge/Content%20License-CC%20BY--NC--SA%204.0-blue)
 
+The Gospel from Gravel Hill is a gospel resource site maintained by From Gravel Hill Enterprises.
+
 > “…the glorious gospel of the blessed God…” — 1 Timothy 1:11
 
 A structured Jekyll site with sections for **Articles**, **Audio**, **Books**, **Charts**, **Tracts**, and built‑in client‑side search.
@@ -26,7 +28,7 @@ A structured Jekyll site with sections for **Articles**, **Audio**, **Books**, *
 
 ## 🧪 Run Locally
 
-> **Prereqs**: Ruby + Bundler, and Node (LTS).
+> **Prereqs**: Ruby + Bundler
 
 ```bash
 # Install Ruby dependencies
