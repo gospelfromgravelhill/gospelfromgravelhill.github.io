@@ -7,7 +7,25 @@ category: kenbiddington
 ---
 
 These Audio files were recorded at [Pugwash Junction Gospel Hall](https://www.youtube.com/@pugwashjunctiongospelhall) <br>
-This ministry series was preached by Ken Biddington beginning November 9, 2026. <br>
+This five-message ministry series was preached by Ken Biddington beginning November 9, 2026. <br>
+
+The slideshow below was used throughout the series and accompanies all five audio messages. <br>
+
+<p>
+📄 <a href="https://archive.org/download/ken-biddington/2026%20Series%20-%20Ken%20Biddington%20-%20Mended%20to%20Go/Mended%20To%20Go%20Slideshow.pdf" target="_blank" rel="noopener">View / Download the Mended to Go Slideshow (PDF)</a>
+</p>
+
+<iframe
+  src="https://archive.org/download/ken-biddington/2026%20Series%20-%20Ken%20Biddington%20-%20Mended%20to%20Go/Mended%20To%20Go%20Slideshow.pdf"
+  width="100%"
+  height="600"
+  style="border: 1px solid #ccc;"
+  title="Mended to Go Slideshow">
+</iframe>
+
+<p>
+🎥 Prefer to watch the messages? <a href="https://www.youtube.com/@pugwashjunctiongospelhall/playlists" target="_blank" rel="noopener">View the Mended to Go video series on the Pugwash Junction Gospel Hall YouTube channel</a>.
+</p>
 
 
 <p>
@@ -44,7 +62,6 @@ This ministry series was preached by Ken Biddington beginning November 9, 2026. 
   Your browser does not support the audio element.
 </audio>
 </p>
-
 
 <p>
 🎵 005 - Ken Biddington - Making Disciples to the End <br>
